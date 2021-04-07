@@ -1,0 +1,11 @@
+[
+    {
+        "name": "markdown-dungeon",
+        "display": "Markdown Dungeon",
+        "description": "This is an example that how to use Markdown creating a dungeon",
+        "author": "MakeContributions",
+        "category": "Game",
+        "site": "https://markdown-dungeon.netlify.app/",
+        "tags": "dungeon, markdown-dungeon, gatsby, reactjs"
+    }
+]
