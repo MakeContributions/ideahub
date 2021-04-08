@@ -3,7 +3,7 @@ A collection of ideas that contains from beginner to advance :octocat: 🎯🚀
 
 ## Contribution Guidelines
 1. Fork the project
-2. Modify the file [idea.json](./data/ideas.json)
+2. Modify the file [ideas.json](./data/ideas.json)
 3. Add your project to list with below structure, for more description of json click [here](#jsons-descriptions)
 ```json
     {
