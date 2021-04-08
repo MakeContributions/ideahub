@@ -16,5 +16,14 @@
         "category": "Website",
         "site": "",
         "tags": "html, css, jsp, servlets, mysql"
+    },
+    {
+        "name": "currency-convertor",
+        "display": "Currency Convertor",
+        "description": "A simple website using HTML, CSS, Javascript that converts one currency amount to other",
+        "author": "Roshaen",
+        "category": "Website",
+        "site": "https://roshaen.github.io/currency",
+        "tags": "html, css, js"
     }
 ]
