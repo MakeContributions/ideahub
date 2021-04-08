@@ -9,12 +9,12 @@
         "tags": "dungeon, markdown-dungeon, gatsby, reactjs"
     },
     {
-        "name": "hrs",
-        "display": "Hotel-Reservation-System",
+        "name": "Hotel-Reservation-System",
+        "display": "Hotel Reservation System",
         "description": "A webstie for Hotel Reservations using JSP & Servlets",
-        "author": "Tawfik Yasser",
+        "author": "TawfikYasser",
         "category": "Website",
-        "site": "https://github.com/TawfikYasser/Hotel-Reservation-System",
+        "site": "",
         "tags": "html, css, jsp, servlets, mysql"
     }
 ]
