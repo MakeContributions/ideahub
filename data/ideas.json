@@ -7,5 +7,14 @@
         "category": "Game",
         "site": "https://markdown-dungeon.netlify.app/",
         "tags": "dungeon, markdown-dungeon, gatsby, reactjs"
+    },
+    {
+        "name": "hrs",
+        "display": "Hotel-Reservation-System",
+        "description": "A webstie for Hotel Reservations using JSP & Servlets",
+        "author": "Tawfik Yasser",
+        "category": "Website",
+        "site": "https://github.com/TawfikYasser/Hotel-Reservation-System",
+        "tags": "html, css, jsp, servlets, mysql"
     }
 ]
