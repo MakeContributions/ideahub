@@ -5,7 +5,7 @@ A collection of ideas that contains from beginner to advance :octocat: 🎯🚀
 1. Fork the project
 2. Modify the file [ideas.json](./data/ideas.json) or [projects.json](./data/projects.json)
 3. Add your idea or project to the list as below structure, for more description of json click [here](#jsons-descriptions)
-    - Project JSON structure
+- [Project JSON structure](#project-structure)
 ```json
     {
         "name": "",
@@ -18,7 +18,7 @@ A collection of ideas that contains from beginner to advance :octocat: 🎯🚀
     }
 ```
 
-    - Idea JSON structure
+- [Idea JSON structure](#idea-structure)
 ```json
     {
         "title": "",
@@ -29,7 +29,7 @@ A collection of ideas that contains from beginner to advance :octocat: 🎯🚀
 4. Create an pull request to `main`
 
 ### Json's descriptions
-#### Project structure=
+#### Project structure
 |Attribute name | Description                                                       |
 |---------------|-------------------------------------------------------------------|
 |name           | Your project name on github                                       |
