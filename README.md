@@ -1,5 +1,5 @@
 # IdeaHub
-A collection of ideas that contains from beginner to advance :octocat: 🎯🚀
+A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀
 
 ## Contribution Guidelines
 1. Fork the project
