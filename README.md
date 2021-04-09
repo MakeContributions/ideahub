@@ -3,8 +3,9 @@ A collection of ideas that contains from beginner to advance :octocat: 🎯🚀
 
 ## Contribution Guidelines
 1. Fork the project
-2. Modify the file [ideas.json](./data/ideas.json)
-3. Add your project to list with below structure, for more description of json click [here](#jsons-descriptions)
+2. Modify the file [ideas.json](./data/ideas.json) or [projects.json](./data/projects.json)
+3. Add your idea or project to the list as below structure, for more description of json click [here](#jsons-descriptions)
+    - Project JSON structure
 ```json
     {
         "name": "",
@@ -16,9 +17,19 @@ A collection of ideas that contains from beginner to advance :octocat: 🎯🚀
         "tags": ""
     }
 ```
+
+    - Idea JSON structure
+```json
+    {
+        "title": "",
+        "description": "",
+        "level": ""
+    }
+```
 4. Create an pull request to `main`
 
 ### Json's descriptions
+#### Project structure=
 |Attribute name | Description                                                       |
 |---------------|-------------------------------------------------------------------|
 |name           | Your project name on github                                       |
@@ -28,6 +39,13 @@ A collection of ideas that contains from beginner to advance :octocat: 🎯🚀
 |category       | Project category, ex: game, iot, ml, ai, console app, or website  |
 |site           | Website url, if doesn't have left it on emtpy string              |
 |tags           | Project tags                                                      |
+
+#### Idea structure 
+|Attribute name | Description                                                       |
+|---------------|-------------------------------------------------------------------|
+|title          | The idea title                                                    |
+|description    | The description about what should the developer do                |
+|level          | The difficult of the idea to programming it                       |
 
 ### Others
 - [First-time contribution](./CONTRIBUTING.md)
