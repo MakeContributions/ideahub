@@ -25,5 +25,14 @@
         "category": "Website",
         "site": "https://roshaen.github.io/currency",
         "tags": "html, css, js"
+    },
+    {
+        "name": "Paint-with-UG",
+        "display": "Paint with UG",
+        "description": "This is a Desktop Application in which you can create shape,fill color,change background etc.",
+        "author": "UG-SEP",
+        "category": "Desktop Application",
+        "site": "https://github.com/UG-SEP/Paint-with-UG-The-SEP",
+        "tags": "c, c++, data-structure"
     }
 ]
