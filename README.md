@@ -23,7 +23,8 @@ A collection of ideas and projects that contain from beginner to advance :octoca
     {
         "title": "",
         "description": "",
-        "level": ""
+        "level": "",
+        "tags: ""
     }
 ```
 4. Create an pull request to `main`
@@ -32,7 +33,7 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 #### Project structure
 |Attribute name | Description                                                       |
 |---------------|-------------------------------------------------------------------|
-|name           | Your project name on github                                       |
+|name           | Your repo name on github                                          |
 |display        | The project display name                                          |
 |description    | The description for your project                                  |
 |author         | Your github's username                                            |
@@ -46,6 +47,7 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 |title          | The idea title                                                    |
 |description    | The description about what should the developer do                |
 |level          | The difficult of the idea to programming it                       |
+|tags           | Idea Tags                                                         |
 
 ### Others
 - [First-time contribution](./CONTRIBUTING.md)
