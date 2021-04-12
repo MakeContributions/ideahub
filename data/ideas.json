@@ -2,6 +2,7 @@
     {
         "title": "Todo List",
         "description": "It's a todo list.",
-        "level": "basic"
+        "level": "basic",
+        "tags": "to-do"
     }
 ]
