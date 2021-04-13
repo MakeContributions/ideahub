@@ -1,6 +1,8 @@
 name: scraper
 
 on:
+  issues:
+    types: [closed]
   schedule:
     - cron: '*/5 * * * *'
 
