@@ -3,6 +3,14 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 
 ## Categories
 <!--categories:start-->
+- Desktop Application
+    - [Intermediate](./docs/DESKTOP_APPLICATION_INTERMEDIATE.md)
+- Game
+    - [Basic](./docs/GAME_BASIC.md)
+- Website
+    - [Basic](./docs/WEBSITE_BASIC.md)
+    - [Intermediate](./docs/WEBSITE_INTERMEDIATE.md)
+
 <!--categories:end-->
 
 ## Contribution Guidelines
