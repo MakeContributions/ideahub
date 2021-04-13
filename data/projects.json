@@ -5,6 +5,7 @@
         "description": "This is an example that how to use Markdown creating a dungeon",
         "author": "MakeContributions",
         "category": "Game",
+        "level": "basic",
         "site": "https://markdown-dungeon.netlify.app/",
         "tags": "dungeon, markdown-dungeon, gatsby, reactjs"
     },
@@ -14,6 +15,7 @@
         "description": "A webstie for Hotel Reservations using JSP & Servlets",
         "author": "TawfikYasser",
         "category": "Website",
+        "level": "intermediate",
         "site": "",
         "tags": "html, css, jsp, servlets, mysql"
     },
@@ -23,6 +25,7 @@
         "description": "A simple website using HTML, CSS, Javascript that converts one currency amount to other",
         "author": "Roshaen",
         "category": "Website",
+        "level": "basic",
         "site": "https://roshaen.github.io/currency",
         "tags": "html, css, js"
     },
@@ -32,6 +35,7 @@
         "description": "This is a Desktop Application in which you can create shape,fill color,change background etc.",
         "author": "UG-SEP",
         "category": "Desktop Application",
+        "level": "intermediate",
         "site": "",
         "tags": "c, c++, data-structure"
     }
