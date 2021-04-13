@@ -24,7 +24,7 @@ jobs:
       - run: npm run scraper
       - uses: stefanzweifel/git-auto-commit-action@v4.4.1
         with:
-          file_pattern: README.md
+          file_pattern: README.md docs/*.md
           commit_message: 'docs: update categories'
           branch: main
         env:
