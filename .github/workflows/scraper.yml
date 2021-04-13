@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          toke: ${{secrets.PAT}}
+          token: ${{secrets.PAT}}
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.1.1
       - run: npm i
