@@ -1,0 +1,27 @@
+name: scraper
+
+on:
+  schedule:
+    - cron: '0/1 * * * *'
+
+env:
+  NODE_ENV: production
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          toke: ${{secrets.PAT}}
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.1.1
+      - run: npm i
+      - run: npm build
+      - run: npm run scraper
+      - uses: stefanzweifel/git-auto-commit-action@v4.4.1
+        with:
+          toke: ${{secrets.PAT}}
+          commit_message: Update readme awesome profiles
+          branch: master
