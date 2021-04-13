@@ -1,6 +1,6 @@
 const fs = require('fs');
 const data = JSON.parse(fs.readFileSync('./data/projects.json', 'utf-8'));
-const fileName = './README.md';
+const readme = './README.md';
 const start_comment = '<!--categories:start-->';
 const end_comment = '<!--categories:end-->';
 const pattern = new RegExp(`${start_comment}[\\s\\S]*${end_comment}`, 'gm');
@@ -28,17 +28,14 @@ const capitalize = (s) => {
 const categories = groupBy(data, 'category');
 
 const writeToFile = (text) => {
-  var fs = require('fs')
-  fs.readFile(fileName, 'utf8', function (err, data) {
+  fs.readFile(readme, 'utf8', function (err, context) {
       if (err) {
           return console.log(err);
       }
       const replacement = `${start_comment}\n${text}\n${end_comment}`;
-      var result = data.replace(pattern, replacement);
+      var newContext = context.replace(pattern, replacement);
 
-      fs.writeFile(fileName, result, 'utf8', function (err) {
-          if (err) return console.log(err);
-      });
+      fs.writeFileSync(readme, newContext, 'utf8');
   });
 };
 
