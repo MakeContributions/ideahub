@@ -23,5 +23,5 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4.4.1
         with:
           toke: ${{secrets.PAT}}
-          commit_message: Update readme awesome profiles
+          commit_message: 'docs: update categories'
           branch: master
