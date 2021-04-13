@@ -1,6 +1,10 @@
 # IdeaHub
 A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀
 
+## Categories
+<!--categories:start-->
+<!--categories:end-->
+
 ## Contribution Guidelines
 1. Fork the project
 2. Modify the file [ideas.json](./data/ideas.json) or [projects.json](./data/projects.json)

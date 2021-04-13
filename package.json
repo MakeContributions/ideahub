@@ -1,0 +1,30 @@
+{
+  "name": "ideahub",
+  "version": "1.0.0",
+  "description": "A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "scraper": "node ./src/scraper/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakeContributions/ideahub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MakeContributions/ideahub/issues"
+  },
+  "homepage": "https://github.com/MakeContributions/ideahub#readme",
+  "dependencies": {
+    "fs": "*"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37"
+  }
+}
