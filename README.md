@@ -13,6 +13,7 @@ A collection of ideas and projects that contain from beginner to advance :octoca
         "description": "",
         "author": "",
         "category": "",
+        "level": "",
         "site": "",
         "tags": ""
     }
@@ -38,6 +39,7 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 |description    | The description for your project                                  |
 |author         | Your github's username                                            |
 |category       | Project category, ex: game, iot, ml, ai, console app, or website  |
+|level          | The difficult of the project                                      |
 |site           | Website url, if doesn't have left it on emtpy string              |
 |tags           | Project tags                                                      |
 
