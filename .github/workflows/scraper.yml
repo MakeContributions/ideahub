@@ -22,9 +22,12 @@ jobs:
       - run: npm i
       - run: npm build
       - run: npm run scraper
+      - run: git config --global user.email
       - uses: stefanzweifel/git-auto-commit-action@v4.4.1
         with:
           file_pattern: README.md
+          commit_user_name: ming-tsai
           commit_user_email: ming.jia1213@gmail.com
+          commit_author: Ming Tsai <ming.jia1213@gmail.com>
           commit_message: 'docs: update categories'
           branch: main
