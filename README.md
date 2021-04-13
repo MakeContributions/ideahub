@@ -15,7 +15,7 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 
 ## Contribution Guidelines
 1. Fork the project
-2. Modify the file [ideas.json](./data/ideas.json) or [projects.json](./data/projects.json)
+2. Modify the file [ideas.json](https://github.com/MakeContributions/ideahub/edit/main/data/ideas.json) or [projects.json](https://github.com/MakeContributions/ideahub/edit/main/data/projects.json)
 3. Add your idea or project to the list as below structure, for more description of json click [here](#jsons-descriptions)
 - [Project JSON structure](#project-structure)
 ```json
