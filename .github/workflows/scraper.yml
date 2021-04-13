@@ -24,5 +24,7 @@ jobs:
       - run: npm run scraper
       - uses: stefanzweifel/git-auto-commit-action@v4.4.1
         with:
+          file_pattern: README.md
+          commit_user_email: ming.jia1213@gmail.com
           commit_message: 'docs: update categories'
           branch: main
