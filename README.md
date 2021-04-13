@@ -1,3 +1,9 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/makecontributions/ideahub/badges/users.svg)](https://www.codetriage.com/makecontributions/ideahub)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=MakeContributions_ideahub&metric=alert_status)](https://sonarcloud.io/dashboard?id=MakeContributions_ideahub)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=MakeContributions_ideahub&metric=code_smells)](https://sonarcloud.io/dashboard?id=MakeContributions_ideahub)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=MakeContributions_ideahub&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=MakeContributions_ideahub)
+
 # IdeaHub
 A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀
 
