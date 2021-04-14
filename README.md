@@ -7,7 +7,7 @@
 # IdeaHub
 A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀
 
-## Categories
+## Categories ✨
 <!--categories:start-->
 - Desktop Application
     - [Intermediate](./docs/DESKTOP_APPLICATION_INTERMEDIATE.md)
