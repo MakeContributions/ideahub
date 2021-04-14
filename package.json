@@ -2,9 +2,12 @@
   "name": "ideahub",
   "version": "1.0.0",
   "description": "A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀",
+  "author": "MakeContributions <tsaibot@outlook.com>",
+  "license": "MIT",
   "main": "index.js",
   "directories": {
-    "doc": "docs"
+    "doc": "docs",
+    "test": "test"
   },
   "scripts": {
     "scraper": "node ./src/scraper/index.js",
@@ -14,15 +17,17 @@
     "type": "git",
     "url": "git+https://github.com/MakeContributions/ideahub.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
+  "keywords": [
+    "projects",
+    "ideas",
+    "hub"
+  ],
   "bugs": {
     "url": "https://github.com/MakeContributions/ideahub/issues"
   },
   "homepage": "https://github.com/MakeContributions/ideahub#readme",
   "dependencies": {
-    "fs": "*",
+    "fs": "0.0.2",
     "jest": "^26.6.3"
   },
   "devDependencies": {
