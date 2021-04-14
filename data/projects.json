@@ -38,5 +38,15 @@
         "level": "intermediate",
         "site": "",
         "tags": "c, c++, data-structure"
+    },
+    {
+        "name": "stickies",
+        "display": "Stickies",
+        "description": "Stickies is a TodoList frontend project designed to preview Vue.js and Vuex capabilities. Designed using figma software, Bulma and Buefy.",
+        "author": "franciscoh017",
+        "category": "Website",
+        "level": "basic",
+        "site": "https://franciscoh017.github.io/stickies/",
+        "tags": "to-do, vuejs, buefy"
     }
 ]
