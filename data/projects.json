@@ -48,5 +48,15 @@
         "level": "basic",
         "site": "https://franciscoh017.github.io/stickies/",
         "tags": "to-do, vuejs, buefy"
+    },
+	{
+        "name": "UG-Typing-Expert",
+        "display": "UG Typing Expert",
+        "description": "This is a desktop application where you can check your typing speed and increase it and you can also play typing games.",
+        "author": "UG-SEP",
+        "category": "Desktop Application",
+        "level": "intermediate",
+        "site": "",
+        "tags": "Typing-Game,C-Projects,c++"
     }
 ]
