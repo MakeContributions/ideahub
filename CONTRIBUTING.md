@@ -25,14 +25,14 @@ Open a terminal and run the following git command:
 git clone "url you just copied"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+where "url you just copied" (without the quotation marks) is the URL to this repository (your fork of this project). See the previous steps to obtain the URL.
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/68538660/106241311-d4232980-61d3-11eb-84e6-293f97c09e1c.png" alt="copy URL to clipboard" />
 
 For example:
 
 ```
-git clone https://github.com/this-is-you/DSA.git
+git clone https://github.com/this-is-you/ideahub.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
@@ -42,7 +42,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd DSA
+cd ideahub
 ```
 
 Now create a branch using the `git checkout` command:
