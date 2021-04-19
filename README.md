@@ -16,6 +16,8 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 - Website
     - [Basic](./docs/WEBSITE_BASIC.md)
     - [Intermediate](./docs/WEBSITE_INTERMEDIATE.md)
+- game
+    - [Basic](./docs/GAME_BASIC.md)
 
 <!--categories:end-->
 
