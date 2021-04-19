@@ -49,7 +49,7 @@
         "site": "https://franciscoh017.github.io/stickies/",
         "tags": "to-do, vuejs, buefy"
     },
-	{
+    {
         "name": "UG-Typing-Expert",
         "display": "UG Typing Expert",
         "description": "This is a desktop application where you can check your typing speed and increase it and you can also play typing games.",
@@ -59,7 +59,7 @@
         "site": "",
         "tags": "Typing-Game,C-Projects,c++"
     },
-	{
+    {
         "name": "tic-tac-toe",
         "display": "Tic Tac Toe",
         "description": "This is a two player game where 1 player choose 0 and other X and try to win the match according to some rules",
