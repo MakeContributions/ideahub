@@ -60,13 +60,13 @@
         "tags": "Typing-Game,C-Projects,c++"
     },
 	{
-        "name": "Tic-Tac-Toe",
+        "name": "tic-tac-toe",
         "display": "Tic Tac Toe",
         "description": "This is a two player game where 1 player choose 0 and other X and try to win the match according to some rules",
         "author": "UG-SEP",
-        "category": "Game",
+        "category": "game",
         "level": "basic",
         "site": "",
-        "tags": "Tic-Tac-Toe, C-Projects, game, c++"
+        "tags": "tic-tac-toe, c-projects, game, c++"
     }
 ]
