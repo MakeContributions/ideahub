@@ -4,7 +4,7 @@
         "display": "Markdown Dungeon",
         "description": "This is an example that how to use Markdown creating a dungeon",
         "author": "MakeContributions",
-        "category": "Game",
+        "category": "game",
         "level": "basic",
         "site": "https://markdown-dungeon.netlify.app/",
         "tags": "dungeon, markdown-dungeon, gatsby, reactjs"
@@ -14,7 +14,7 @@
         "display": "Hotel Reservation System",
         "description": "A webstie for Hotel Reservations using JSP & Servlets",
         "author": "TawfikYasser",
-        "category": "Website",
+        "category": "website",
         "level": "intermediate",
         "site": "",
         "tags": "html, css, jsp, servlets, mysql"
@@ -24,7 +24,7 @@
         "display": "Currency Convertor",
         "description": "A simple website using HTML, CSS, Javascript that converts one currency amount to other",
         "author": "Roshaen",
-        "category": "Website",
+        "category": "website",
         "level": "basic",
         "site": "https://roshaen.github.io/currency",
         "tags": "html, css, js"
@@ -34,7 +34,7 @@
         "display": "Paint with UG",
         "description": "This is a Desktop Application in which you can create shape,fill color,change background etc.",
         "author": "UG-SEP",
-        "category": "Desktop Application",
+        "category": "desktop application",
         "level": "intermediate",
         "site": "",
         "tags": "c, c++, data-structure"
@@ -44,7 +44,7 @@
         "display": "Stickies",
         "description": "Stickies is a TodoList frontend project designed to preview Vue.js and Vuex capabilities. Designed using figma software, Bulma and Buefy.",
         "author": "franciscoh017",
-        "category": "Website",
+        "category": "website",
         "level": "basic",
         "site": "https://franciscoh017.github.io/stickies/",
         "tags": "to-do, vuejs, buefy"
@@ -54,7 +54,7 @@
         "display": "UG Typing Expert",
         "description": "This is a desktop application where you can check your typing speed and increase it and you can also play typing games.",
         "author": "UG-SEP",
-        "category": "Desktop Application",
+        "category": "desktop application",
         "level": "intermediate",
         "site": "",
         "tags": "Typing-Game,C-Projects,c++"

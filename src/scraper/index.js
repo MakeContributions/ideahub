@@ -22,7 +22,7 @@ const sortBy = (a, b) => {
 
 const capitalize = (s) => {
   if (typeof s !== 'string') return '';
-  return s.charAt(0).toUpperCase() + s.slice(1);
+  return s.charAt(0).toUpperCase() + s.slice(1).toLowerCase();
 };
 
 const categories = groupBy(data, 'category');
@@ -44,11 +44,11 @@ Object.keys(categories).sort().forEach((c) => {
   const list = categories[c];
   const levels = groupBy(list, 'level');
   const sorted = Object.keys(levels).sort((a, b) => sortBy(a, b));
-  const fileName = c.toUpperCase().replace(/ /, '_');
+  const filePrefix = c.toUpperCase().replace(/ /, '_');
   const mapped = sorted.map((s) => {
-    return `[${capitalize(s)}](./docs/${fileName}_${s.toUpperCase()}.md)`;
+    return `[${capitalize(s)}](./docs/${filePrefix}_${s.toUpperCase()}.md)`;
   });
-  categoriesText += `- ${c}\n    - ${mapped.join('\n    - ')}\n`;
+  categoriesText += `- ${capitalize(c)}\n    - ${mapped.join('\n    - ')}\n`;
   sorted.forEach((l) => {
     const project = levels[l]
       .map((p) => {
@@ -61,7 +61,7 @@ Object.keys(categories).sort().forEach((c) => {
     const level = `${capitalize(l)}`;
     const current = `# ${c} - ${level}\n${project}`;
     fs.writeFileSync(
-      `./docs/${fileName}_${l.toUpperCase()}.md`,
+      `./docs/${filePrefix}_${l.toUpperCase()}.md`,
       current,
       'utf-8'
     );
