@@ -9,7 +9,7 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 
 ## Categories ✨
 <!--categories:start-->
-- Desktop application
+- Desktop Application
     - [Intermediate](./docs/DESKTOP_APPLICATION_INTERMEDIATE.md)
 - Game
     - [Basic](./docs/GAME_BASIC.md)
