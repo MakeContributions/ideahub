@@ -68,5 +68,15 @@
         "level": "basic",
         "site": "",
         "tags": "tic-tac-toe, c-projects, game, c++"
+    },
+     {
+        "name": "Coders Arena",
+        "display": "Coders Arena",
+        "description": "A (web application) platform to have a coing combat with your friend (30 minutes) with random question from our library and also a platform to create test (MCQ and time based) and also to attend MCQ test.",
+        "author": "Eshaan Gupta",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://github.com/fantasy-08/CodersArena",
+        "tags": "ReactJS,nodeJS,mongoDB"
     }
 ]
