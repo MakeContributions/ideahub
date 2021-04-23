@@ -68,5 +68,15 @@
         "level": "basic",
         "site": "",
         "tags": "tic-tac-toe, c-projects, game, c++"
+    },
+     {
+        "name": "CodersArena",
+        "display": "Coders Arena",
+        "description": "A (web application) platform to have a coing combat with your friend (30 minutes) with random question from our library and also a platform to create test (MCQ and time based) and also to attend MCQ test.",
+        "author": "fantasy-08",
+        "category": "website",
+        "level": "intermediate",
+        "site": "http://boringcoder.herokuapp.com/",
+        "tags": "ReactJS,nodeJS,mongoDB"
     }
 ]
