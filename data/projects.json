@@ -77,6 +77,6 @@
         "category": "website",
         "level": "intermediate",
         "site": "http://boringcoder.herokuapp.com/",
-        "tags": "ReactJS,nodeJS,mongoDB"
+        "tags": "react-js, node-js, mongo-db"
     }
 ]
