@@ -78,5 +78,15 @@
         "level": "intermediate",
         "site": "http://boringcoder.herokuapp.com/",
         "tags": "react-js, node-js, mongo-db"
+    },
+    {
+        "name": "library-management",
+        "display": "Library Management",
+        "description": "This is a desktop console application which is used to make library work easy i.e. issue book, add book, remove book from library etc.",
+        "author": "UG-SEP",
+        "category": "Desktop Application",
+        "level": "basic",
+        "site": "",
+        "tags": "library-management, c-projects, console-application, management-projects"
     }
 ]
