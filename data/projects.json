@@ -80,7 +80,7 @@
         "tags": "react-js, node-js, mongo-db"
     },
     {
-        "name": "library-management",
+        "name": "library_management",
         "display": "Library Management",
         "description": "This is a desktop console application which is used to make library work easy i.e. issue book, add book, remove book from library etc.",
         "author": "UG-SEP",
