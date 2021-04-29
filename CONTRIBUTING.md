@@ -32,7 +32,7 @@ where "url you just copied" (without the quotation marks) is the URL to this rep
 For example:
 
 ```
-git clone https://github.com/this-is-you/ideahub.git
+git clone https://github.com/<!--your username-->/ideahub.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
