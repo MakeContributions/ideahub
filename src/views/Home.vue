@@ -41,7 +41,7 @@
             </v-list>
           </div>
 
-          <div class="col-sm-12 col-md-3 col-lg-2">
+          <div class="col-sm-12 col-md col-lg">
             <v-container fluid>
               <v-row dense>
                 <div
