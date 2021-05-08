@@ -5,13 +5,17 @@
   "author": "MakeContributions <tsaibot@outlook.com>",
   "license": "MIT",
   "main": "index.js",
+  "private": true,
   "directories": {
     "doc": "docs",
     "test": "test"
   },
   "scripts": {
     "scraper": "node ./src/scraper/index.js",
-    "test": "jest"
+    "test": "vue-cli-service test:unit",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
   },
   "repository": {
     "type": "git",
@@ -28,9 +32,35 @@
   "homepage": "https://github.com/MakeContributions/ideahub#readme",
   "dependencies": {
     "fs": "0.0.2",
-    "jest": "^26.6.3"
+    "core-js": "^3.6.5",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0"
   },
   "devDependencies": {
-    "@types/node": "^14.14.37"
+    "@types/node": "^14.14.37",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-unit-jest": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/test-utils": "^1.0.3",
+    "jest": "^26.6.3",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-vue": "^6.2.2",
+    "lint-staged": "^9.5.0",
+    "prettier": "^2.2.1",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,jsx,vue}": [
+      "vue-cli-service lint",
+      "git add"
+    ]
   }
 }
