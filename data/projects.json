@@ -67,7 +67,7 @@
         "category": "game",
         "level": "basic",
         "site": "",
-        "tags": "tic-tac-toe, c-projects, game, c++"
+        "tags": "tic-tac-toe, c, game, c++"
     },
      {
         "name": "CodersArena",
@@ -88,5 +88,15 @@
         "level": "basic",
         "site": "",
         "tags": "library-management, c-projects, console-application, management-projects"
+    },
+    {
+        "name": "franciscoh017.github.io",
+        "display": "franciscoh017 Profile",
+        "description": "My personal website",
+        "author": "franciscoh017",
+        "category": "web",
+        "level": "basic",
+        "site": "",
+        "tags": "personal-website, profile, web"
     }
 ]

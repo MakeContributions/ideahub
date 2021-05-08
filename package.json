@@ -1,36 +1,72 @@
 {
   "name": "ideahub",
   "version": "1.0.0",
+  "private": true,
   "description": "A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀",
   "author": "MakeContributions <tsaibot@outlook.com>",
-  "license": "MIT",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "scraper": "node ./src/scraper/index.js",
+    "test": "vue-cli-service test:unit"
+  },
   "main": "index.js",
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "fs": "0.0.2",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0",
+    "vuetify": "^2.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-unit-jest": "~4.5.0",
+    "@vue/cli-service": "^4.5.13",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/test-utils": "^1.0.3",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-vue": "^6.2.2",
+    "jest": "^26.6.3",
+    "lint-staged": "^9.5.0",
+    "prettier": "^2.2.1",
+    "sass": "^1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-vuetify": "~2.4.0",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.7.0"
+  },
+  "bugs": {
+    "url": "https://github.com/MakeContributions/ideahub/issues"
+  },
   "directories": {
     "doc": "docs",
     "test": "test"
   },
-  "scripts": {
-    "scraper": "node ./src/scraper/index.js",
-    "test": "jest"
+  "gitHooks": {
+    "pre-commit": "lint-staged"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MakeContributions/ideahub.git"
-  },
+  "homepage": "https://github.com/MakeContributions/ideahub#readme",
   "keywords": [
     "projects",
     "ideas",
     "hub"
   ],
-  "bugs": {
-    "url": "https://github.com/MakeContributions/ideahub/issues"
+  "license": "MIT",
+  "lint-staged": {
+    "*.{js,jsx,vue}": [
+      "vue-cli-service lint",
+      "git add"
+    ]
   },
-  "homepage": "https://github.com/MakeContributions/ideahub#readme",
-  "dependencies": {
-    "fs": "0.0.2",
-    "jest": "^26.6.3"
-  },
-  "devDependencies": {
-    "@types/node": "^14.14.37"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakeContributions/ideahub.git"
   }
 }
