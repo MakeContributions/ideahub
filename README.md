@@ -3,6 +3,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=MakeContributions_ideahub&metric=alert_status)](https://sonarcloud.io/dashboard?id=MakeContributions_ideahub)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=MakeContributions_ideahub&metric=code_smells)](https://sonarcloud.io/dashboard?id=MakeContributions_ideahub)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=MakeContributions_ideahub&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=MakeContributions_ideahub)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3c88a58f-cd29-41f9-8580-4e48fd60532a/deploy-status)](https://app.netlify.com/sites/ideashub/deploys)
 
 # IdeaHub
 A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀
