@@ -41,23 +41,15 @@
             </v-list>
           </div>
 
-          <v-col md="9" sm="12" lg="10">
+          <div class="col-sm-12 col-md col-lg">
             <v-container fluid>
               <v-row dense>
-                <v-col
+                <div
                   v-for="item in list"
                   :key="isIdeas ? item.title : item.name"
-                  class="d-flex flex-column"
-                  md="6"
-                  sm="12"
-                  lg="6"
+                  class="d-flex flex-column col-sm-12 col-md-6 col-lg-6"
                 >
-                  <v-card
-                    class="flex d-flex flex-column col"
-                    md="6"
-                    sm="12"
-                    lg="6"
-                  >
+                  <v-card class="flex d-flex flex-column col">
                     <v-card-title
                       v-text="isIdeas ? item.title : item.display"
                     ></v-card-title>
@@ -82,10 +74,10 @@
                       </v-btn>
                     </v-card-actions>
                   </v-card>
-                </v-col>
+                </div>
               </v-row>
             </v-container>
-          </v-col>
+          </div>
         </v-row>
       </v-container>
     </v-main>
