@@ -31,12 +31,13 @@
   },
   "homepage": "https://github.com/MakeContributions/ideahub#readme",
   "dependencies": {
-    "fs": "0.0.2",
     "core-js": "^3.6.5",
+    "fs": "0.0.2",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
   "devDependencies": {
+    "eslint-config-google": "^0.14.0",
     "@types/node": "^14.14.37",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
