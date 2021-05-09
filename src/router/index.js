@@ -9,17 +9,13 @@ const routes = [
     path: '/',
     name: 'Home',
     component: Home,
-  },
-  {
-    path: '/:kind',
-    name: 'Home',
-    component: Home,
-    props: true,
-  },
-  {
-    path: '/:kind/:search',
-    name: 'Home',
-    component: Home,
+    children: [
+      {
+        path: '/:kind',
+        component: Home,
+      },
+      { path: '/:kind/:search', component: Home },
+    ],
     props: true,
   },
 ];
