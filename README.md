@@ -69,7 +69,7 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 |title          | The idea title                                                                    |
 |description    | The description about what should the developer do                                |
 |level          | The difficult of the idea to programming it, ex: basic, intermediate, advanced    |
-|tags           | Idea Tags                                                                         |
+|tags           | Idea Tags. NOTE: the first tag will be use by search the project                  |
 
 ### Others
 - [First-time contribution](./CONTRIBUTING.md)
