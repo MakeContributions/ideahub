@@ -60,7 +60,11 @@
                     <v-card-actions>
                       <v-spacer></v-spacer>
                       <v-btn icon v-if="isIdeas">
-                        <v-badge overlap :content="getTagCount(item.tags)">
+                        <v-badge
+                          overlap
+                          :content="getTagCount(item.tags)"
+                          :value="getTagCount(item.tags)"
+                        >
                           <v-icon>mdi-code-tags</v-icon>
                         </v-badge>
                       </v-btn>

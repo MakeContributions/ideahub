@@ -1,3 +1,4 @@
+const fs = require('fs');
 module.exports = {
   root: true,
   env: {
@@ -20,6 +21,7 @@ module.exports = {
     quotes: ['error', 'single'],
     'linebreak-style': 0,
     'global-require': 0,
+    'prettier/prettier': ['warn', fs.readFileSync('.prettierrc')],
     'eslint linebreak-style': [0, 'error', 'windows'],
     'require-jsdoc': [
       'error',
