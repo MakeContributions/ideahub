@@ -11,10 +11,6 @@ const routes = [
     component: Home,
     children: [
       {
-        path: '*',
-        component: Home,
-      },
-      {
         path: '/:kind',
         component: Home,
       },
