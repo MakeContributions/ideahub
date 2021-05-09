@@ -6,7 +6,7 @@ Vue.use(VueRouter);
 
 const routes = [
   {
-    path: '/',
+    path: '*',
     name: 'Home',
     component: Home,
     children: [
@@ -15,7 +15,6 @@ const routes = [
         component: Home,
       },
       { path: '/:kind/:search', component: Home },
-      { path: '*', component: Home },
     ],
     props: true,
   },
