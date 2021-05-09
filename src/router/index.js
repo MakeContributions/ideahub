@@ -6,10 +6,14 @@ Vue.use(VueRouter);
 
 const routes = [
   {
-    path: '/*',
+    path: '/',
     name: 'Home',
     component: Home,
     children: [
+      {
+        path: '*',
+        component: Home,
+      },
       {
         path: '/:kind',
         component: Home,
