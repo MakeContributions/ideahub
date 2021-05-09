@@ -1,3 +1,9 @@
 [[redirects]]
   from = "/*"
   to = "/index.html"
+[[redirects]]
+  from = "/ideas/*"
+  to = "/ideas/*"
+[[redirects]]
+  from = "/projects/*"
+  to = "/projects/*"
