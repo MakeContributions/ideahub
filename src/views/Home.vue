@@ -6,6 +6,18 @@
           <span class="mr-2">IdeaHub</span>
         </v-btn>
       </v-container>
+      <v-spacer></v-spacer>
+      <v-text-field
+        v-model="search"
+        dense
+        dark
+        flat
+        hide-details
+        style="max-width: 260px"
+        rounded
+        solo-inverted
+        append-icon="mdi-magnify"
+      />
     </v-app-bar>
 
     <v-main>
@@ -102,7 +114,16 @@ export default {
   },
   computed: {
     list() {
-      return this.isIdeas ? this.ideas : this.projects;
+      const current = this.isIdeas ? this.ideas : this.projects;
+      return current.filter((item) =>
+        item.tags.some(
+          (tag) =>
+            this.search === '' ||
+            tag
+              .toLowerCase()
+              .indexOf(this.search.toLowerCase().replace(/ /, '-')) >= 0
+        )
+      );
     },
     ideas() {
       return ideaList
@@ -164,9 +185,7 @@ export default {
       }
     },
     '$route.params.search': function (val) {
-      if (val) {
-        this.search = val;
-      }
+      this.search = val ? val : '';
     },
   },
   methods: {
@@ -179,3 +198,8 @@ export default {
   },
 };
 </script>
+<style>
+.v-input__slot {
+  padding-right: 10px !important;
+}
+</style>
