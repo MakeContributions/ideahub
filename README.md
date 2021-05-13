@@ -15,6 +15,8 @@ A collection of ideas and projects that contain from beginner to advance :octoca
     - [Intermediate](./docs/DESKTOP_APPLICATION_INTERMEDIATE.md)
 - Game
     - [Basic](./docs/GAME_BASIC.md)
+- Machine Learning
+    - [Basic](./docs/MACHINE_LEARNING_BASIC.md)
 - Website
     - [Basic](./docs/WEBSITE_BASIC.md)
     - [Intermediate](./docs/WEBSITE_INTERMEDIATE.md)
