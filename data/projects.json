@@ -98,5 +98,15 @@
         "level": "basic",
         "site": "https://franciscoh017.github.io",
         "tags": "personal-website, profile, web"
+    },
+    {
+        "name": ""Visualizing-Filters-and-Feature-Maps-in-Convolutional-Neural-Networks-using-PyTorch",
+        "display": "Visualize Filters and Feature maps using PyTorch",
+        "description": "A way to visualize filters and feature maps in CNN",
+        "author": "LightMonarch",
+        "category": "machine learning",
+        "level": "basic",
+        "site": "",
+        "tags": "python, machine learning"
     }
 ]

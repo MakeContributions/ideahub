@@ -28,5 +28,11 @@
         "description": "Code up a clone of the windows calculator. It’s great practice for GUIs and basic math operation. And if it helps you solve your algebra homework - all the better!",
         "level": "basic",
         "tags": "calculator"
+    },
+    {
+        "title": "Feature maps and Filter Visualizer",
+        "description": "This repository is about the code to extract cnn layers and visualise the filters and featuremaps",
+        "level": "basic",
+        "tags": "python, machine learning"
     }
 ]
