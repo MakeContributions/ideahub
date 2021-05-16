@@ -74,12 +74,13 @@
                       <v-btn
                         icon
                         v-if="isIdeas"
+                        :disabled="item.exampleCount < 1"
                         :to="`/Projects/${item.tags[0]}`"
                       >
                         <v-badge
                           overlap
-                          :content="getTagCount(item.tags)"
-                          :value="getTagCount(item.tags)"
+                          :content="item.exampleCount"
+                          :value="item.exampleCount"
                         >
                           <v-icon>mdi-code-tags</v-icon>
                         </v-badge>
@@ -136,6 +137,12 @@ export default {
           return {
             ...i,
             tags: i.tags.split(',').map((t) => t.trim()),
+          };
+        })
+        .map((i) => {
+          return {
+            ...i,
+            exampleCount: this.getTagCount(i.tags),
           };
         })
         .sort((a, b) =>
