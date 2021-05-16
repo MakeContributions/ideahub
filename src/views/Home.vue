@@ -71,7 +71,11 @@
                     ></v-card-text>
                     <v-card-actions>
                       <v-spacer></v-spacer>
-                      <v-btn icon v-if="isIdeas">
+                      <v-btn
+                        icon
+                        v-if="isIdeas"
+                        :to="`/Projects/${item.tags[0]}`"
+                      >
                         <v-badge
                           overlap
                           :content="getTagCount(item.tags)"
@@ -120,6 +124,7 @@ export default {
           (tag) =>
             this.search === '' ||
             tag
+              .replace(/ /, '-')
               .toLowerCase()
               .indexOf(this.search.toLowerCase().replace(/ /, '-')) >= 0
         )
