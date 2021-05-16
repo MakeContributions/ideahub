@@ -76,7 +76,7 @@
         "author": "fantasy-08",
         "category": "website",
         "level": "intermediate",
-        "site": "http://boringcoder.herokuapp.com/",
+        "site": "https://boringcoder.herokuapp.com/",
         "tags": "react-js, node-js, mongo-db"
     },
     {
@@ -107,6 +107,6 @@
         "category": "machine learning",
         "level": "basic",
         "site": "",
-        "tags": "feature-maps-and-filter-visualizer, machine learning, python"
+        "tags": "feature-maps-and-filter-visualizer, machine-learning, python"
     }
 ]

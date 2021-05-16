@@ -33,6 +33,6 @@
         "title": "Feature maps and Filter Visualizer",
         "description": "This repository is about the code to extract Convolutional-neural-network layers and visualise the filters and featuremaps",
         "level": "basic",
-        "tags": "feature-maps-and-filter-visualizer, machine learning"
+        "tags": "feature-maps-and-filter-visualizer, machine-learning"
     }
 ]
