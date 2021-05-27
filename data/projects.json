@@ -110,7 +110,7 @@
         "tags": "feature-maps-and-filter-visualizer, machine-learning, python"
     },
      {
-        "name": "queue_visualizer",
+        "name": "Queue-Visualizer",
         "display": "Queue Visualizer",
         "description": "Queue Visualizer helps you to understand how queue work.",
         "author": "UG-SEP",
