@@ -108,5 +108,15 @@
         "level": "basic",
         "site": "",
         "tags": "feature-maps-and-filter-visualizer, machine-learning, python"
+    },
+     {
+        "name": "Queue-Visualizer",
+        "display": "Queue Visualizer",
+        "description": "Queue Visualizer helps you to understand how queue work.",
+        "author": "UG-SEP",
+        "category": "desktop application",
+        "level": "basic",
+        "site": "",
+        "tags": "visualizer-app,c,c++,graphics-project"
     }
 ]
