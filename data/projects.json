@@ -128,6 +128,16 @@
         "level": "basic",
         "site": "",
         "tags": "visualizer-app,c,c++,graphics-project"
+    },
+    {
+        "name": "Car-Zone",
+        "display": "Car Zone",
+        "description": "Car Zone is a desktop app where you have to protect your car from the upcoming enemy car.",
+        "author": "UG-SEP",
+        "category": "desktop application",
+        "level": "basic",
+        "site": "",
+        "tags": "car-game,c,c++,graphics-project"
     }
 
 ]
