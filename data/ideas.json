@@ -38,7 +38,7 @@
     {
         "title": "Rock, Paper, Scissors",
         "description": "Create a rock paper scissors game! Try recreating the classic game, or put your own fun twist on it.",
-        "level": "beginner",
-        "tags": "game, classic, rock-paper-scissors"
+        "level": "basic",
+        "tags": "rock-paper-scissors, game, classic"
     }
 ]

@@ -138,16 +138,6 @@
         "level": "basic",
         "site": "",
         "tags": "car-game,c,c++,graphics-project"
-    },
-    {
-        "name": "Tamagotchi-Game",
-        "display": "Tamagotchi Game",
-        "description": "A game where you manage a creature with 3 needs (usually eat, sleep, entertainment) and as your creature ages, it morphs.",
-        "author": "NikkiHmltn",
-        "category": "game",
-        "level": "beginner",
-        "site": "",
-        "tags": "html, css, javascript, game"
     }
 
 ]
