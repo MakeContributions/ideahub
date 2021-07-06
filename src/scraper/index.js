@@ -37,6 +37,7 @@ const categories = groupBy(data, 'category');
 const writeToFile = (text) => {
   fs.readFile(readme, 'utf8', function (err, context) {
     if (err) {
+      // eslint-disable-next-line no-console
       return console.log(err);
     }
     const replacement = `${startComment}\n${text}\n${endComment}`;
