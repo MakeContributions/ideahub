@@ -138,6 +138,16 @@
         "level": "basic",
         "site": "",
         "tags": "car-game,c,c++,graphics-project"
+    },
+    {
+        "name": "Venessa-My-Personal-Assistant",
+        "display": "Personal Assitant using Python",
+        "description": "It will assist you with simple tasks like sending an email with just on your command and greets you too and can help you search for anything on google , can play music, tell the current time, and so on..",
+        "author": "emily876",
+        "category": "desktop application",
+        "level": "basic",
+        "site": "",
+        "tags": "python-project,personal-assistant,python-assistant"
     }
 
 ]
