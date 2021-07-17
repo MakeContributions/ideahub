@@ -4,7 +4,7 @@
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=MakeContributions_ideahub&metric=code_smells)](https://sonarcloud.io/dashboard?id=MakeContributions_ideahub)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=MakeContributions_ideahub&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=MakeContributions_ideahub)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3c88a58f-cd29-41f9-8580-4e48fd60532a/deploy-status)](https://app.netlify.com/sites/ideashub/deploys)
-[![Discord](https://img.shields.io/discord/863049619734790185?color=7389D8&logo=discord&logoColor=ffffff&label=&labelColor=6A7EC2)](https://discord.gg/XT22DGAP)
+[![Discord](https://img.shields.io/discord/863049619734790185?color=7389D8&logo=discord&logoColor=ffffff&label=&labelColor=6A7EC2)](https://discord.gg/ydWxdqbTyK)
 
 # IdeaHub
 A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀
