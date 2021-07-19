@@ -148,6 +148,16 @@
         "level": "basic",
         "site": "",
         "tags": "python-project,personal-assistant,python-assistant"
+    },
+     {
+        "name": "Gorcery-FinderApp",
+        "display": "Gorcery helper using React Native",
+        "description": "A mobile app that assists customers in finding what isle their items are on",
+        "author": "Dustin1864",
+        "category": "mobile app",
+        "level": "intermediate",
+        "site": "none",
+        "tags": "React-Native"
     }
 
 ]
