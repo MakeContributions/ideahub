@@ -49,7 +49,7 @@
     },
     {
 	"title": "Currency Converter",
-	"description": "Create a program that converts currencies using the latest currency exchange rates."
+	"description": "Create a program that converts currencies using the latest currency exchange rates.",
 	"level": "basic",
 	"tags": "currency-converter, web-based-interface"
     }
