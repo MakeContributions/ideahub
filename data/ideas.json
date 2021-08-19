@@ -52,5 +52,12 @@
 	"description": "Create a program that converts currencies using the latest currency exchange rates.",
 	"level": "basic",
 	"tags": "currency-converter, web-based-interface"
+    },
+    {
+        "title": "Blog",
+        "description": "Build a blog stating your everyday observations.",
+        "level": "basic",
+        "tags":"personal-blog,blog"
+  
     }
 ]
