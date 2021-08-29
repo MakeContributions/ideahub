@@ -148,6 +148,15 @@
         "level": "basic",
         "site": "",
         "tags": "python-project,personal-assistant,python-assistant"
+    },
+    {
+        "name": "exchangerate-javascript-sdk",
+        "display": "Currency Converter",
+        "description": "Unofficial JavaScript SDK for Exchange rates API",
+        "author": "reliut-g",
+        "category": "website",
+        "level": "basic",
+        "site": "https://reliut-g.github.io/exchangerate-javascript-sdk/",
+        "tags": "currency-converter"
     }
-
 ]
