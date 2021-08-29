@@ -148,7 +148,7 @@
         "level": "basic",
         "site": "",
         "tags": "python-project,personal-assistant,python-assistant"
-    }
+    },
     {
         "name": "exchangerate-javascript-sdk",
         "display": "Currency Converter",
@@ -156,7 +156,7 @@
         "author": "reliut-g",
         "category": "website",
         "level": "basic",
-        "site": "https://github.com/reliut-g/exchangerate-javascript-sdk",
+        "site": "https://reliut-g.github.io/exchangerate-javascript-sdk/",
         "tags": "currency-converter"
     }
 ]
