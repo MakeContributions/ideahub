@@ -14,7 +14,7 @@ const routes = [
         path: '/:kind',
         component: Home,
       },
-      { path: '/:kind/:search', component: Home },
+      { path: '/:kind/:tag', component: Home },
     ],
     props: true,
   },

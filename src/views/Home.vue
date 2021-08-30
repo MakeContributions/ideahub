@@ -110,26 +110,33 @@ import ideaList from './../../data/ideas.json';
 import projectList from './../../data/projects.json';
 export default {
   name: 'Home',
-  data: () => {
-    return { kind: '', search: '' };
-  },
-  mounted: function () {
-    this.kind = this.$route.params.kind ? this.$route.params.kind : 'ideas';
-    this.search = this.$route.params.search ? this.$route.params.search : '';
+  data() {
+    return { search: '' };
   },
   computed: {
+    kind() {
+      const DEFAULT_KIND = 'ideas';
+      return this.$route.params.kind || DEFAULT_KIND;
+    },
+    tag() {
+      return this.$route.params.tag || '';
+    },
     list() {
-      const current = this.isIdeas ? this.ideas : this.projects;
-      return current.filter((item) =>
-        item.tags.some(
+      const current = this[this.kind];
+      const filteredByTag = current.filter((item) => {
+        return item.tags.some(
           (tag) =>
-            this.search === '' ||
             tag
               .replace(/ /, '-')
               .toLowerCase()
-              .indexOf(this.search.toLowerCase().replace(/ /, '-')) >= 0
-        )
-      );
+              .indexOf(this.tag.toLowerCase().replace(/ /, '-')) >= 0
+        );
+      });
+
+      if (!this.search) return filteredByTag;
+
+      const filteredBySearch = filteredByTag.filter(this.searchBy);
+      return filteredBySearch;
     },
     ideas() {
       return ideaList
@@ -184,20 +191,10 @@ export default {
       return tagCount;
     },
     links() {
-      return this.isIdeas ? ['Projects'] : ['Ideas'];
+      return this.isIdeas ? ['projects'] : ['ideas'];
     },
     isIdeas() {
-      return this.kind.toLowerCase() == 'ideas';
-    },
-  },
-  watch: {
-    '$route.params.kind': function (val) {
-      if (val) {
-        this.kind = val;
-      }
-    },
-    '$route.params.search': function (val) {
-      this.search = val ? val : '';
+      return this.kind === 'ideas';
     },
   },
   methods: {
@@ -207,9 +204,17 @@ export default {
     getTagCount(tags) {
       return this.searchProjectsBy(tags[0]).length;
     },
+    // search by display or description property
+    searchBy({ display, description }) {
+      return (
+        display.toLowerCase().indexOf(this.search.toLowerCase()) >= 0 ||
+        description.toLowerCase().indexOf(this.search.toLowerCase()) >= 0
+      );
+    },
   },
 };
 </script>
+
 <style>
 .v-app-bar .v-btn--router.v-btn--active::before {
   background-color: initial !important;
