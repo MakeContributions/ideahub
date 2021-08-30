@@ -2,7 +2,7 @@
   <v-app id="inspire">
     <v-app-bar app color="secondary" dark>
       <v-container class="py-0 fill-height">
-        <v-btn href="/" text>
+        <v-btn to="/" text>
           <span class="mr-2">IdeaHub</span>
         </v-btn>
       </v-container>
@@ -211,6 +211,9 @@ export default {
 };
 </script>
 <style>
+.v-app-bar .v-btn--router.v-btn--active::before {
+  background-color: initial !important;
+}
 .v-input__slot {
   padding-right: 10px !important;
 }
