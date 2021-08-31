@@ -204,11 +204,12 @@ export default {
     getTagCount(tags) {
       return this.searchProjectsBy(tags[0]).length;
     },
-    // search by display or description property
-    searchBy({ display, description }) {
+    searchBy(item) {
+      // if kind is ideas the display property is the title
+      const display = this.isIdeas ? item.title : item.display;
       return (
         display.toLowerCase().indexOf(this.search.toLowerCase()) >= 0 ||
-        description.toLowerCase().indexOf(this.search.toLowerCase()) >= 0
+        item.description.toLowerCase().indexOf(this.search.toLowerCase()) >= 0
       );
     },
   },
