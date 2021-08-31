@@ -217,7 +217,7 @@ export default {
     searchBy(item) {
       // if kind is ideas the display property is the title
       const display = this.isIdeas ? item.title : item.display;
-      // search tg by kebab-case
+      // search tag by kebab-case
       const search = this.search.toLowerCase().replace(/ /g, '-');
       // search by title, description, and tags
       return (
