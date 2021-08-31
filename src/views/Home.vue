@@ -43,11 +43,11 @@
               <v-list-item
                 link
                 v-for="link in links"
-                :key="link"
-                :to="'/' + link"
+                :key="link.link"
+                :to="'/' + link.link"
               >
                 <v-list-item-content>
-                  <v-list-item-title>{{ link }}</v-list-item-title>
+                  <v-list-item-title>{{ link.display }}</v-list-item-title>
                 </v-list-item-content>
               </v-list-item>
             </v-list>
@@ -191,7 +191,17 @@ export default {
       return tagCount;
     },
     links() {
-      return this.isIdeas ? ['projects'] : ['ideas'];
+      const links = [
+        {
+          link: 'ideas',
+          display: 'Ideas',
+        },
+        {
+          link: 'projects',
+          display: 'Projects',
+        },
+      ];
+      return this.isIdeas ? [links[1]] : [links[0]];
     },
     isIdeas() {
       return this.kind === 'ideas';
