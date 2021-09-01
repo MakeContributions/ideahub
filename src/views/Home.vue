@@ -2,7 +2,7 @@
   <v-app id="inspire">
     <v-app-bar app color="secondary" dark>
       <v-container class="py-0 fill-height">
-        <v-btn href="/" text>
+        <v-btn to="/" text>
           <span class="mr-2">IdeaHub</span>
         </v-btn>
       </v-container>
@@ -43,11 +43,11 @@
               <v-list-item
                 link
                 v-for="link in links"
-                :key="link"
-                :to="'/' + link"
+                :key="link.link"
+                :to="'/' + link.link"
               >
                 <v-list-item-content>
-                  <v-list-item-title>{{ link }}</v-list-item-title>
+                  <v-list-item-title>{{ link.display }}</v-list-item-title>
                 </v-list-item-content>
               </v-list-item>
             </v-list>
@@ -110,26 +110,33 @@ import ideaList from './../../data/ideas.json';
 import projectList from './../../data/projects.json';
 export default {
   name: 'Home',
-  data: () => {
-    return { kind: '', search: '' };
-  },
-  mounted: function () {
-    this.kind = this.$route.params.kind ? this.$route.params.kind : 'ideas';
-    this.search = this.$route.params.search ? this.$route.params.search : '';
+  data() {
+    return { search: '' };
   },
   computed: {
+    kind() {
+      const DEFAULT_KIND = 'ideas';
+      return this.$route.params.kind || DEFAULT_KIND;
+    },
+    tag() {
+      return this.$route.params.tag || '';
+    },
     list() {
-      const current = this.isIdeas ? this.ideas : this.projects;
-      return current.filter((item) =>
-        item.tags.some(
+      const current = this[this.kind];
+      const filteredByTag = current.filter((item) => {
+        return item.tags.some(
           (tag) =>
-            this.search === '' ||
             tag
               .replace(/ /, '-')
               .toLowerCase()
-              .indexOf(this.search.toLowerCase().replace(/ /, '-')) >= 0
-        )
-      );
+              .indexOf(this.tag.toLowerCase().replace(/ /, '-')) >= 0
+        );
+      });
+
+      if (!this.search) return filteredByTag;
+
+      const filteredBySearch = filteredByTag.filter(this.searchBy);
+      return filteredBySearch;
     },
     ideas() {
       return ideaList
@@ -184,20 +191,20 @@ export default {
       return tagCount;
     },
     links() {
-      return this.isIdeas ? ['Projects'] : ['Ideas'];
+      const links = [
+        {
+          link: 'ideas',
+          display: 'Ideas',
+        },
+        {
+          link: 'projects',
+          display: 'Projects',
+        },
+      ];
+      return this.isIdeas ? [links[1]] : [links[0]];
     },
     isIdeas() {
-      return this.kind.toLowerCase() == 'ideas';
-    },
-  },
-  watch: {
-    '$route.params.kind': function (val) {
-      if (val) {
-        this.kind = val;
-      }
-    },
-    '$route.params.search': function (val) {
-      this.search = val ? val : '';
+      return this.kind === 'ideas';
     },
   },
   methods: {
@@ -207,10 +214,26 @@ export default {
     getTagCount(tags) {
       return this.searchProjectsBy(tags[0]).length;
     },
+    searchBy(item) {
+      // if kind is ideas the display property is the title
+      const display = this.isIdeas ? item.title : item.display;
+      // search tag by kebab-case
+      const search = this.search.toLowerCase().replace(/ /g, '-');
+      // search by title, description, and tags
+      return (
+        display.toLowerCase().indexOf(search) >= 0 ||
+        item.description.toLowerCase().indexOf(search) >= 0 ||
+        item.tags.some((t) => t.toLowerCase().indexOf(search) >= 0)
+      );
+    },
   },
 };
 </script>
+
 <style>
+.v-app-bar .v-btn--router.v-btn--active::before {
+  background-color: initial !important;
+}
 .v-input__slot {
   padding-right: 10px !important;
 }

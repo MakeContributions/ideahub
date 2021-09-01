@@ -14,14 +14,14 @@ const routes = [
         path: '/:kind',
         component: Home,
       },
-      { path: '/:kind/:search', component: Home },
+      { path: '/:kind/:tag', component: Home },
     ],
     props: true,
   },
 ];
 
 const router = new VueRouter({
-  mode: 'hash',
+  mode: 'history',
   base: process.env.BASE_URL,
   routes,
 });
