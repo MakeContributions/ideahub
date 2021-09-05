@@ -58,5 +58,11 @@
         "description": "Build a blog stating your everyday observations.",
         "level": "basic",
         "tags":"personal-blog,blog"
+    },
+    {
+        "title": "BackYard Produce Market",
+        "description": "Create a web app that can post user backyard produce and then sell it to neighbor.",
+        "level": "intermediate",
+        "tags": "online-shop, web-app"
     }
 ]
