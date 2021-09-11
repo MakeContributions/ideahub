@@ -10,6 +10,16 @@
         "tags": "dungeon, markdown-dungeon, gatsby, reactjs"
     },
     {
+        "name": "Memoy-Card-Game",
+        "display": "Memoy Card Game",
+        "description": "This is memory card game built with vanilla javascript.",
+        "author": "selharem",
+        "category": "game",
+        "level": "basic",
+        "site": "https://github.com/Selharem/Memoy-Card-Game",
+        "tags": "javascript, css, html"
+    },
+    {
         "name": "Hotel-Reservation-System",
         "display": "Hotel Reservation System",
         "description": "A webstie for Hotel Reservations using JSP & Servlets",
