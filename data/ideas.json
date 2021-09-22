@@ -64,5 +64,11 @@
         "description": "Create a web app that can post user backyard produce and then sell it to neighbor.",
         "level": "intermediate",
         "tags": "online-shop, web-app"
+    },
+    {
+        "title": "One App Social Media Posting",
+        "description": "Create a web app that can log in to all user social media platform and create the same post across",
+        "level": "intermediate",
+        "tags": "socia-media, web-app"
     }
 ]
