@@ -70,5 +70,11 @@
         "description": "Create a web app that can log in to all user social media platform and create the same post across",
         "level": "intermediate",
         "tags": "socia-media, web-app"
+    },
+    {
+        "title": "Random Meal Generator",
+        "description": "Create a web app that can generate random meal on clicking a button. Meals are gotten from TheMealDB Api. Display the meal image, ingredients, category, area, tags, name and video that comes from the api.",
+        "level": "intermediate",
+        "tags": "web app, api request"
     }
 ]
