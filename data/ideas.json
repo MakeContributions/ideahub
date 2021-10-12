@@ -71,10 +71,17 @@
         "level": "intermediate",
         "tags": "socia-media, web-app"
     },
-    {
-        "title": "Random Meal Generator",
-        "description": "Create a web app that can generate random meal on clicking a button. Meals are gotten from TheMealDB Api. Display the meal image, ingredients, category, area, tags, name and video that comes from the api.",
-        "level": "intermediate",
-        "tags": "random-meal-generator, web-app, api-request"
-    }
+  {
+    "title": "Random Meal Generator",
+    "description": "Create a web app that can generate random meal on clicking a button. Meals are gotten from TheMealDB Api. Display the meal image, ingredients, category, area, tags, name and video that comes from the api.",
+    "level": "intermediate",
+    "tags": "random-meal-generator, web-app, api-request"
+  },
+  {
+    "title": "Meeting Recipe",
+    "description": "Send a list of recipes to your friends and receive the most well rated for a meeting",
+    "level": "intermediate",
+    "tags": "recipe, app, meeting"
+  }
+
 ]
