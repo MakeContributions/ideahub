@@ -48,16 +48,16 @@
         "tags": "personal-assistant"
     },
     {
-	"title": "Currency Converter",
-	"description": "Create a program that converts currencies using the latest currency exchange rates.",
-	"level": "basic",
-	"tags": "currency-converter, web-based-interface"
+        "title": "Currency Converter",
+        "description": "Create a program that converts currencies using the latest currency exchange rates.",
+        "level": "basic",
+        "tags": "currency-converter, web-based-interface"
     },
     {
         "title": "Blog",
         "description": "Build a blog stating your everyday observations.",
         "level": "basic",
-        "tags":"personal-blog,blog"
+        "tags": "personal-blog,blog"
     },
     {
         "title": "BackYard Produce Market",
@@ -71,16 +71,16 @@
         "level": "intermediate",
         "tags": "socia-media, web-app"
     },
-  {
-    "title": "Random Meal Generator",
-    "description": "Create a web app that can generate random meal on clicking a button. Meals are gotten from TheMealDB Api. Display the meal image, ingredients, category, area, tags, name and video that comes from the api.",
-    "level": "intermediate",
-    "tags": "random-meal-generator, web-app, api-request"
-  },
-  {
-    "title": "Meeting Recipe",
-    "description": "Send a list of recipes to your friends and receive the most well rated for a meeting",
-    "level": "intermediate",
-    "tags": "meeting-recipe, web-app"
-  }
+    {
+        "title": "Random Meal Generator",
+        "description": "Create a web app that can generate random meal on clicking a button. Meals are gotten from TheMealDB Api. Display the meal image, ingredients, category, area, tags, name and video that comes from the api.",
+        "level": "intermediate",
+        "tags": "random-meal-generator, web-app, api-request"
+    },
+    {
+        "title": "Meeting Recipe",
+        "description": "Send a list of recipes to your friends and receive the most well rated for a meeting",
+        "level": "intermediate",
+        "tags": "meeting-recipe, web-app"
+    }
 ]
