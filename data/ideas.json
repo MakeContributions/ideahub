@@ -82,5 +82,12 @@
         "description": "Send a list of recipes to your friends and receive the most well rated for a meeting",
         "level": "intermediate",
         "tags": "meeting-recipe, web-app"
+    },
+    {
+        "title": "School Management System",
+        "description": "Implemantion of school management system",
+        "level": "intermediate",
+        "tags": "school-management, web-app"
     }
+
 ]
