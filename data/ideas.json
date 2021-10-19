@@ -82,5 +82,11 @@
         "description": "Send a list of recipes to your friends and receive the most well rated for a meeting",
         "level": "intermediate",
         "tags": "meeting-recipe, web-app"
+    },
+    {
+        "title": "School Management System",
+        "description": "Laravel implemantion of school management system",
+        "level": "intermediate",
+        "tags": "web-app, school-management"
     }
 ]
