@@ -88,6 +88,12 @@
         "description": "Implemantion of school management system",
         "level": "intermediate",
         "tags": "school-management, web-app"
+    },
+    {
+        "title": "Real Estate Property Management System",
+        "description": "Create a web app that can helps to landlords and property managers for managing the lands and properties",
+        "level": "intermediate",
+        "tags": "real-estate-management, web-app"
     }
 
 ]
