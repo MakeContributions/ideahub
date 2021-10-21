@@ -88,5 +88,23 @@
         "description": "Send a list of recipes to your friends and receive the most well rated for a meeting",
         "level": "intermediate",
         "tags": "meeting-recipe, web-app"
+    },
+    {
+        "title": "School Management System",
+        "description": "Implemantion of school management system",
+        "level": "intermediate",
+        "tags": "school-management, web-app"
+    },
+    {
+        "title": "Real Estate Property Management System",
+        "description": "Create a web app that can helps to landlords and property managers for managing the lands and properties",
+        "level": "intermediate",
+        "tags": "real-estate-management, web-app"
+    },
+    {
+        "title": "An Efficient Target Tracking Approach",
+        "description": "To detect the unusual activity using haar-cascade detection in OpenCV",
+        "level": "intermediate",
+        "tags": "an-efficient-target-tracking-approach, machine-learning"
     }
 ]
