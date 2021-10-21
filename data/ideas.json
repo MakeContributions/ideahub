@@ -100,5 +100,11 @@
         "description": "To detect the unusual activity using haar-cascade detection in OpenCV",
         "level": "intermediate",
         "tags": "an-efficient-target-tracking-approach, machine-learning"
+    },
+     {
+        "title": "Student Attendance Management System",
+        "description": "Daily attendance tracking of students",
+        "level": "intermediate",
+        "tags": "student-attendance-management-system, web-app"
     }
 ]
