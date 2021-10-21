@@ -81,7 +81,7 @@
         "title": "Car Comparizon Selector",
         "description": "Use a car database of as many cars as possible with all their features. Present this on a web page and have the user use filters to discover the car that fits them best. ",
         "level": "intermediate",
-        "tags": "web-app, api-request"
+        "tags": "car-comparison-selector, web-app, api-request"
     },
     {
         "title": "Meeting Recipe",
