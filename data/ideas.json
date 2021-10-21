@@ -78,6 +78,12 @@
         "tags": "random-meal-generator, web-app, api-request"
     },
     {
+        "title": "Car Comparison Selector",
+        "description": "Use a car database of as many cars as possible with all their features. Present this on a web page and have the user use filters to discover the car that fits them best. ",
+        "level": "intermediate",
+        "tags": "car-comparison-selector, web-app, api-request"
+    },
+    {
         "title": "Meeting Recipe",
         "description": "Send a list of recipes to your friends and receive the most well rated for a meeting",
         "level": "intermediate",
