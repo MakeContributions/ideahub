@@ -112,5 +112,11 @@
         "description": "Daily attendance tracking of students",
         "level": "intermediate",
         "tags": "student-attendance-management-system, web-app"
+    },
+    {
+        "title": "Live chat application (Slack Clone)",
+        "description": "You can send people messages which they recieve live.",
+        "level": "intermediate",
+        "tags": "live-chat-app, web-app"
     }
 ]
