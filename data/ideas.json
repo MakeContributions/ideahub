@@ -112,5 +112,11 @@
         "description": "Daily attendance tracking of students",
         "level": "intermediate",
         "tags": "student-attendance-management-system, web-app"
+    }, 
+   {
+        "title": "Telegram Bot ",
+        "description": "Making a telegram bot helps to increase api management skills",
+        "level": "basic",
+        "tags": "telegram-bot, bot"
     }
 ]
