@@ -168,5 +168,15 @@
         "level": "basic",
         "site": "https://reliut-g.github.io/exchangerate-javascript-sdk/",
         "tags": "currency-converter"
+    },
+    {
+        "name": "vending-machine",
+        "display": "Vending machine",
+        "description": "Vending machine using React & TypeScript. You can also add an EmotionJS library instead of using scss",
+        "author": "krau5",
+        "category": "website",
+        "level": "intermediate",
+        "site": "",
+        "tags": "react, typescript, redux-toolkit"
     }
 ]
