@@ -120,14 +120,9 @@
         "tags": "telegram, bot"
     },
     {
-
         "title": "Quote Generator",
-
-        "description": "A webapp which will generate random quote to motivate users.",
-
+        "description": "A web app which will generate random quotes to motivate users.",
         "level": "basic",
-
-        "tags": "web-app, fun,quote-generator"
-
+        "tags": "quote-generator, web-app, fun"
     }
 ]
