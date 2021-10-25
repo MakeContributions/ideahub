@@ -119,4 +119,10 @@
         "level": "basic",
         "tags": "telegram-bot, bot"
     }
+   {
+        "title": "Quote Generator",
+        "description": "A webapp which will generate random quote to motivate users.",
+        "level": "basic",
+        "tags": "web-app, fun,quote-generator"
+    }
 ]
