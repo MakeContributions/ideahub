@@ -118,5 +118,11 @@
         "description": "Making a telegram bot helps to increase api management skills",
         "level": "basic",
         "tags": "telegram-bot, bot"
+    },
+    {
+        "title": "Quote Generator",
+        "description": "A web app which will generate random quotes to motivate users.",
+        "level": "basic",
+        "tags": "quote-generator, web-app, fun"
     }
 ]
