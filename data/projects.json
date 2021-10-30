@@ -178,7 +178,7 @@
         "level": "intermediate",
         "site": "",
         "tags": "react, typescript, redux-toolkit"
-    }
+    },
     {
         "name": "vision-ai",
         "display": "Vision",
@@ -188,5 +188,5 @@
         "level": "intermediate",
         "site": "https://github.com/Angelvicks/vision-ai",
         "tags": "fastapi, react, artificial intelligence"
-    },
+    }
 ]
