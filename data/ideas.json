@@ -124,5 +124,11 @@
         "description": "A web app which will generate random quotes to motivate users.",
         "level": "basic",
         "tags": "quote-generator, web-app, fun"
+    },
+     {
+        "title": "Learn Bafang Application",
+        "description": "A web app which will permit people from the Bafang tribe to learn the dialect fluently.",
+        "level": "basic",
+        "tags": "learn-bafang-application, education, web-app, tribe-fun"
     }
 ]
