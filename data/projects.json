@@ -178,5 +178,15 @@
         "level": "intermediate",
         "site": "",
         "tags": "react, typescript, redux-toolkit"
+    },
+    {
+        "name": "vision-ai",
+        "display": "Vision",
+        "description": "Extract text from an image using a trained AI model",
+        "author": "Angelvicks",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://github.com/Angelvicks/vision-ai",
+        "tags": "fast-api, react, artificial-intelligence"
     }
 ]
