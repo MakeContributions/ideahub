@@ -117,6 +117,6 @@
         "title": "Live chat application (Slack Clone)",
         "description": "You can send people messages which they recieve live.",
         "level": "intermediate",
-        "tags": "live-chat-app, web-app"
+        "tags": "slack-clone, live-chat-app, web-app"
     }
 ]
