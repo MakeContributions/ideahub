@@ -118,5 +118,23 @@
         "description": "You can send people messages which they recieve live.",
         "level": "intermediate",
         "tags": "slack-clone, live-chat-app, web-app"
+    }, 
+    {
+        "title": "Telegram Bot ",
+        "description": "Making a telegram bot helps to increase api management skills",
+        "level": "basic",
+        "tags": "telegram-bot, bot"
+    },
+    {
+        "title": "Quote Generator",
+        "description": "A web app which will generate random quotes to motivate users.",
+        "level": "basic",
+        "tags": "quote-generator, web-app, fun"
+    },
+     {
+        "title": "Learn Bafang Application",
+        "description": "A web app which will permit people from the Bafang tribe to learn the dialect fluently.",
+        "level": "basic",
+        "tags": "learn-bafang-application, education, web-app, tribe-fun"
     }
 ]

@@ -51,7 +51,7 @@ A collection of ideas and projects that contain from beginner to advance :octoca
         "tags: ""
     }
 ```
-4. Create an pull request to `main`
+4. Create a pull request to `main`
 
 ### Json's descriptions
 #### Project structure

@@ -168,5 +168,25 @@
         "level": "basic",
         "site": "https://reliut-g.github.io/exchangerate-javascript-sdk/",
         "tags": "currency-converter"
+    },
+    {
+        "name": "vending-machine",
+        "display": "Vending machine",
+        "description": "Vending machine using React & TypeScript. You can also add an EmotionJS library instead of using scss",
+        "author": "krau5",
+        "category": "website",
+        "level": "intermediate",
+        "site": "",
+        "tags": "react, typescript, redux-toolkit"
+    },
+    {
+        "name": "vision-ai",
+        "display": "Vision",
+        "description": "Extract text from an image using a trained AI model",
+        "author": "Angelvicks",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://github.com/Angelvicks/vision-ai",
+        "tags": "fast-api, react, artificial-intelligence"
     }
 ]
