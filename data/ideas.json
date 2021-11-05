@@ -112,8 +112,14 @@
         "description": "Daily attendance tracking of students",
         "level": "intermediate",
         "tags": "student-attendance-management-system, web-app"
+    },
+    {
+        "title": "Live chat application (Slack Clone)",
+        "description": "You can send people messages which they recieve live.",
+        "level": "intermediate",
+        "tags": "slack-clone, live-chat-app, web-app"
     }, 
-   {
+    {
         "title": "Telegram Bot ",
         "description": "Making a telegram bot helps to increase api management skills",
         "level": "basic",
