@@ -136,5 +136,11 @@
         "description": "A web app which will permit people from the Bafang tribe to learn the dialect fluently.",
         "level": "basic",
         "tags": "learn-bafang-application, education, web-app, tribe-fun"
+    },
+    {
+        "title": "Alarm Clock",
+        "description": "A web app that allows people to set an alarm as a reminder to do something",
+        "level": "basic",
+        "tags": "alarm-clock, web-app"
     }
 ]
