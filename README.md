@@ -48,7 +48,7 @@ A collection of ideas and projects that contain from beginner to advance :octoca
         "title": "",
         "description": "",
         "level": "",
-        "tags: ""
+        "tags": ""
     }
 ```
 4. Create a pull request to `main`
