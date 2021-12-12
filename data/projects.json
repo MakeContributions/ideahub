@@ -188,5 +188,15 @@
         "level": "intermediate",
         "site": "https://github.com/Angelvicks/vision-ai",
         "tags": "fast-api, react, artificial-intelligence"
+    },
+    {
+        "name": "poketalog",
+        "display": "Poketalog",
+        "description": "Catalog Pokemon using pokeapi.co",
+        "author": "shonenxnaifu",
+        "category": "website",
+        "level": "intermediate",
+        "site": "http://poketalog.herokuapp.com/",
+        "tags": "pokeapi, pokemon, vue, catalog"
     }
 ]
