@@ -196,7 +196,7 @@
         "author": "shonenxnaifu",
         "category": "website",
         "level": "intermediate",
-        "site": "http://poketalog.herokuapp.com/",
+        "site": "https://poketalog.herokuapp.com/",
         "tags": "pokeapi, pokemon, vue, catalog"
     }
 ]
