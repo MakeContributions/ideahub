@@ -17,7 +17,7 @@ jobs:
           token: ${{secrets.PAT}}
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.1.1
-      - run: npm i
+      - run: npm ci
       - run: npm run build
       - run: npm run scraper
       - uses: stefanzweifel/git-auto-commit-action@v4.4.1
