@@ -17,6 +17,7 @@ jobs:
           token: ${{secrets.PAT}}
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.1.1
+      - run: npm install -g @vue/cli@latest
       - run: npm ci
       - run: npm run build
       - run: npm run scraper
