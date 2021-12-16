@@ -19,7 +19,7 @@ jobs:
         uses: actions/setup-node@v2.1.1
       - run: npm install -g @vue/cli@latest
       - run: npm ci
-      - run: npm run build
+      - run: npx ./node_modules/.bin/vue-cli-service build
       - run: npm run scraper
       - uses: stefanzweifel/git-auto-commit-action@v4.4.1
         with:
