@@ -198,5 +198,15 @@
         "level": "intermediate",
         "site": "https://poketalog.herokuapp.com/",
         "tags": "pokeapi, pokemon, vue, catalog"
+    },
+    {
+        "name": "kunci web scrapper",
+        "display": "Kunci Web Scrapper",
+        "description": "Web scrapper to get all data from lib.kunci.or.id",
+        "author": "shonenxnaifu",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://github.com/shonenxnaifu/libkunci_scraping",
+        "tags": "scrapping, puppeteer, nodejs, express"
     }
 ]
