@@ -200,8 +200,8 @@
         "tags": "pokeapi, pokemon, vue, catalog"
     },
     {
-        "name": "kunci web scrapper",
-        "display": "Kunci Web Scrapper",
+        "name": "libkunci_scraping",
+        "display": "Web Scraper - Kunci",
         "description": "Web scrapper to get all data from lib.kunci.or.id",
         "author": "shonenxnaifu",
         "category": "website",
