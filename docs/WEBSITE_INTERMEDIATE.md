@@ -5,3 +5,4 @@
   - [Vending machine](https://github.com/krau5/vending-machine) - [@krau5](https://github.com/krau5)
   - [Vision](https://github.com/Angelvicks/vision-ai) - [@Angelvicks](https://github.com/Angelvicks)
   - [Poketalog](https://github.com/shonenxnaifu/poketalog) - [@shonenxnaifu](https://github.com/shonenxnaifu)
+  - [Web Scraper - Kunci](https://github.com/shonenxnaifu/libkunci_scraping) - [@shonenxnaifu](https://github.com/shonenxnaifu)
