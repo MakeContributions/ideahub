@@ -1,9 +1,9 @@
 [
     {
-        "title": "Dice Game",
-        "description": "the dice are rolled randomly. The symbols that face up when the dice come to rest are the relevant ones, and their combination decides, according to the rules of the game being played, whether the thrower (often called the shooter) wins, loses, scores points, continues to throw, or loses possession of the dice to another shooter.",
-        "level": "basic",
-        "tags": "dice, game"
+        "title": "Music sharing web app",
+        "description": "online audio distribution platform and music sharing website, that enables its users to upload, promote, and share audio, as well as a digital signal processor enabling listeners to stream audio",
+        "level": "intermediate",
+        "tags": "music, web-app"
     },
     {
         "title": "Todo List",
