@@ -1,5 +1,11 @@
 [
     {
+        "title": "Dice Game",
+        "description": "the dice are rolled randomly. The symbols that face up when the dice come to rest are the relevant ones, and their combination decides, according to the rules of the game being played, whether the thrower (often called the shooter) wins, loses, scores points, continues to throw, or loses possession of the dice to another shooter.",
+        "level": "basic",
+        "tags": "dice, game"
+    },
+    {
         "title": "Todo List",
         "description": "It's a todo list.",
         "level": "basic",
