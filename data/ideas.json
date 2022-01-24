@@ -142,5 +142,11 @@
         "description": "A web app that allows people to set an alarm as a reminder to do something",
         "level": "basic",
         "tags": "alarm-clock, web-app"
+    },
+    {
+        "title": "File System Organiser",
+        "description": "A project in nodeJS that will sort files on the basis of their extension into particular category folders. Runs via terminal, asks for the path of the folder you want to organise",
+        "level": "basic",
+        "tags": "file-organisation, extension-sort, nodeJS"
     }
 ]
