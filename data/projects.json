@@ -218,5 +218,15 @@
         "level": "intermediate",
         "site": "https://sahilpatel09.github.io/",
         "tags": "vuejs, personal site, Gridsome, Graphql, markdown, personal blog"
+    },
+    {
+        "name": "ip-tracker",
+        "display": "IP Tracker built with Vuejs",
+        "description": "A single page app to find the location and other critical information about an IP address.",
+        "author": "sahilpatel09",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://brave-mirzakhani-8081ab.netlify.app/",
+        "tags": "vuejs, pico css, netlify"
     }
 ]
