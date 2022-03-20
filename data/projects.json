@@ -208,5 +208,15 @@
         "level": "intermediate",
         "site": "https://github.com/shonenxnaifu/libkunci_scraping",
         "tags": "scrapping, puppeteer, nodejs, express"
+    },
+    {
+        "name": "sahilpatel09.github.io",
+        "display": "Dark Themed Personal Portfolio Website with Blog",
+        "description": "A personal portfolio theme with dark navy blue theme. It has a markdown based blog system with tags, powered by Gridsome and power of GraphQl.",
+        "author": "sahilpatel09",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://sahilpatel09.github.io/",
+        "tags": "scrapping, puppeteer, nodejs, express"
     }
 ]
