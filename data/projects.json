@@ -217,7 +217,7 @@
         "category": "website",
         "level": "intermediate",
         "site": "https://sahilpatel09.github.io/",
-        "tags": "vuejs, personal site, Gridsome, Graphql, markdown, personal blog"
+        "tags": "vuejs, personal-website, Gridsome, Graphql, markdown, personal-blog"
     },
     {
         "name": "ip-tracker",
