@@ -208,5 +208,25 @@
         "level": "intermediate",
         "site": "https://github.com/shonenxnaifu/libkunci_scraping",
         "tags": "scrapping, puppeteer, nodejs, express"
+    },
+    {
+        "name": "sahilpatel09.github.io",
+        "display": "Dark Themed Personal Portfolio Website with Blog",
+        "description": "A personal portfolio theme with dark navy blue theme. It has a markdown based blog system with tags, powered by Gridsome and power of GraphQl.",
+        "author": "sahilpatel09",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://sahilpatel09.github.io/",
+        "tags": "vuejs, personal-website, Gridsome, Graphql, markdown, personal-blog"
+    },
+    {
+        "name": "ip-tracker",
+        "display": "IP Tracker built with Vuejs",
+        "description": "A single page app to find the location and other critical information about an IP address.",
+        "author": "sahilpatel09",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://brave-mirzakhani-8081ab.netlify.app/",
+        "tags": "vuejs, pico css, netlify"
     }
 ]
