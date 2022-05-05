@@ -1,4 +1,10 @@
 [
+	{
+		"title": "Document Authentication",
+		"description": "a platform where users can request for certificates/documents from institutions (issuer), this documents can be authenticated by other organizations",
+		"level": "advanced",
+		"tags": "authentication,document,secure"
+	},
     {
         "title": "Todo List",
         "description": "It's a todo list.",
