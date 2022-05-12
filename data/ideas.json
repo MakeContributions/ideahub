@@ -130,7 +130,6 @@
         "description": "A web app, basically an open library that has alot of books and texts available to users. The books are not necessarily owned by the library, a registered user can share their own book with the library where the book/text is unavailable in the library. To attract users, a feature where users can get rewarded with fungible tokens or any worthy collection where a book is read within a particular time or an esteemed user whose texts/books gets a stars for being the most read. Books in this context can be any kind of book, text or collection",
         "level": "intermediate",
         "tags": "open-library, web-app"
-
     },
     {
         "title": "A Language Translator",
