@@ -1,5 +1,11 @@
 [
     {
+        "title": "Music sharing web app",
+        "description": "online audio distribution platform and music sharing website, that enables its users to upload, promote, and share audio, as well as a digital signal processor enabling listeners to stream audio",
+        "level": "intermediate",
+        "tags": "music, web-app"
+    },
+    {
         "title": "Todo List",
         "description": "It's a todo list.",
         "level": "basic",

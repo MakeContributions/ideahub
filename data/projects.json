@@ -1,5 +1,15 @@
 [
     {
+        "name": "acetic",
+        "display": "acetic",
+        "description": "online audio distribution platform and music sharing website, that enables its users to upload, promote, and share audio, as well as a digital signal processor enabling listeners to stream audio",
+        "author": "HassanBahati",
+        "category": "web-app, music ",
+        "level": "intermediate",
+        "site": "https://acetic-tunes.netlify.app/",
+        "tags": "tailwindcss, reactjs"
+    },
+    {
         "name": "markdown-dungeon",
         "display": "Markdown Dungeon",
         "description": "This is an example that how to use Markdown creating a dungeon",
