@@ -160,5 +160,11 @@
         "description": "A project in nodeJS that will sort files on the basis of their extension into particular category folders. Runs via terminal, asks for the path of the folder you want to organise",
         "level": "basic",
         "tags": "file-organisation, extension-sort, nodeJS"
+    },
+    {
+        "title": "World Clock",
+        "description": "A web app where you specify the country or city and it gives you the current time.",
+        "level": "basic",
+        "tags": "clock, datetime"
     }
 ]
