@@ -166,5 +166,11 @@
         "description": "A web app where you specify the country or city and it gives you the current time.",
         "level": "basic",
         "tags": "clock, datetime"
+    }, 
+    {
+        "title": "RGB Slider",
+        "description": "A color-generating web app which contains three sliders for Red, Blue and Green colors respectively. On moving the sliders, the background color of the screen will change dynamically according to the RGB values.",
+        "level":"basic",
+        "tags": "rgb-slider, slider, color-generato, dynamic-colors"
     }
 ]
