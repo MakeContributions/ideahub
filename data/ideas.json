@@ -160,5 +160,11 @@
         "description": "A project in nodeJS that will sort files on the basis of their extension into particular category folders. Runs via terminal, asks for the path of the folder you want to organise",
         "level": "basic",
         "tags": "file-organisation, extension-sort, nodeJS"
+    }, 
+    {
+        "title": "RGB Slider",
+        "description": "A color-generating web app which contains three sliders for Red, Blue and Green colors respectively. On moving the sliders, the background color of the screen will change dynamically according to the RGB values.",
+        "level":"basic",
+        "tags": "rgb-slider, slider, color-generato, dynamic-colors"
     }
 ]
