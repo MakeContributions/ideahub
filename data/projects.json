@@ -238,5 +238,14 @@
         "level": "intermediate",
         "site": "",
         "tags": "html, css, javascript, node.js, mongodb"
+    }, {
+        "name": "Open Source HRMS",
+        "display": "OS HR",
+        "description": "A project to create open source human resource management system to cater the needs of open source organisations.",
+        "author": "shoaibahmed997",
+        "category": "website",
+        "level": "intermediate",
+        "site": "",
+        "tags": "html, css, javascript, golang, postgres,React,Redux"
     }
 ]
