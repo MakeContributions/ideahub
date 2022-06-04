@@ -238,5 +238,15 @@
         "level": "intermediate",
         "site": "",
         "tags": "html, css, javascript, node.js, mongodb"
+    },
+    {
+        "name": "Score-Keeper",
+        "display": "Score Keeper",
+        "description": "Score Keeper is a simple game which I have implemented using HTML, CSS and JavaScript.",
+        "author": "vedant-z",
+        "category": "Web application",
+        "level": "Basic",
+        "site": "",
+        "tags": "HTML, CSS, JAVASCRIPT"
     }
 ]
