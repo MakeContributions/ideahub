@@ -245,8 +245,8 @@
         "description": "Score Keeper is a simple game which I have implemented using HTML, CSS and JavaScript.",
         "author": "vedant-z",
         "category": "Web application",
-        "level": "Basic",
+        "level": "basic",
         "site": "",
-        "tags": "HTML, CSS, JAVASCRIPT"
+        "tags": "score-Keeper, HTML, CSS, JAVASCRIPT"
     }
 ]
