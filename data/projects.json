@@ -248,5 +248,15 @@
         "level": "basic",
         "site": "",
         "tags": "score-Keeper, HTML, CSS, JAVASCRIPT"
+    },
+     {
+        "name": "basic-practices",
+        "display": "basic-practices",
+        "description": "This is for my practices where I will go step by step",
+        "author": "hira-saha",
+        "category": "website development",
+        "level": "intermediate",
+        "site": "",
+        "tags": "html,css,javascript"
     }
 ]
