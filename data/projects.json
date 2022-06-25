@@ -10,8 +10,8 @@
         "tags": "dungeon, markdown-dungeon, gatsby, reactjs"
     },
     {
-        "name": "Memoy-Card-Game",
-        "display": "Memoy Card Game",
+        "name": "Memory-Card-Game",
+        "display": "Memory Card Game",
         "description": "This is memory card game built with vanilla javascript.",
         "author": "selharem",
         "category": "game",
@@ -22,7 +22,7 @@
     {
         "name": "Hotel-Reservation-System",
         "display": "Hotel Reservation System",
-        "description": "A webstie for Hotel Reservations using JSP & Servlets",
+        "description": "A website for Hotel Reservations using JSP & Servlets",
         "author": "TawfikYasser",
         "category": "website",
         "level": "intermediate",
@@ -82,7 +82,7 @@
      {
         "name": "CodersArena",
         "display": "Coders Arena",
-        "description": "A (web application) platform to have a coing combat with your friend (30 minutes) with random question from our library and also a platform to create test (MCQ and time based) and also to attend MCQ test.",
+        "description": "A (web application) platform to have a coding combat with your friend (30 minutes) with random question from our library and also a platform to create test (MCQ and time based) and also to attend MCQ test.",
         "author": "fantasy-08",
         "category": "website",
         "level": "intermediate",
