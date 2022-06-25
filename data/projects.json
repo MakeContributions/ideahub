@@ -67,7 +67,7 @@
         "category": "desktop application",
         "level": "intermediate",
         "site": "",
-        "tags": "Typing-Game,C-Projects,c++"
+        "tags": "Typing-Game, C-Projects, c++"
     },
     {
         "name": "tic-tac-toe",
@@ -137,7 +137,7 @@
         "category": "desktop application",
         "level": "basic",
         "site": "",
-        "tags": "visualizer-app,c,c++,graphics-project"
+        "tags": "visualizer-app, c, c++, graphics-project"
     },
     {
         "name": "Car-Zone",
@@ -147,7 +147,7 @@
         "category": "desktop application",
         "level": "basic",
         "site": "",
-        "tags": "car-game,c,c++,graphics-project"
+        "tags": "car-game, c, c++, graphics-project"
     },
     {
         "name": "Venessa-My-Personal-Assistant",
@@ -157,7 +157,7 @@
         "category": "desktop application",
         "level": "basic",
         "site": "",
-        "tags": "python-project,personal-assistant,python-assistant"
+        "tags": "python-project, personal-assistant, python-assistant"
     },
     {
         "name": "exchangerate-javascript-sdk",
