@@ -172,5 +172,11 @@
         "description": "A color-generating web app which contains three sliders for Red, Blue and Green colors respectively. On moving the sliders, the background color of the screen will change dynamically according to the RGB values.",
         "level":"basic",
         "tags": "rgb-slider, slider, color-generator, dynamic-colors"
+    },
+    {
+        "title": "Buguide",
+        "description": "An insect identifier app",
+        "level": "beginner, intermediate",
+        "tags": "bug, insect, insects, identifier, ai, python, image recognition, machine learning, data"
     }
 ]
