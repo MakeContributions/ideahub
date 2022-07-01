@@ -249,4 +249,14 @@
         "site": "",
         "tags": "score-Keeper, HTML, CSS, JAVASCRIPT"
     }
+    {
+        "name": "FNDetectoApp",
+        "display": "FNDetectoApp",
+        "description": "FNDetectoApp is a simple fake news detection web app which detects fake news and real news .",
+        "author": "d-coder111",
+        "category": "machine learning",
+        "level": "basic",
+        "site": "",
+        "tags": "python, html, flask, machine-learning, azure webapp, azure-deployment, github-actions, fake-news-detection"
+    }
 ]
