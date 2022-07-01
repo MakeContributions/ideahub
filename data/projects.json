@@ -249,4 +249,14 @@
         "site": "",
         "tags": "score-Keeper, HTML, CSS, JAVASCRIPT"
     }
+    {
+        "name": "FNDetecto App",
+        "display": "Fake News Detection webapp using machine learning",
+        "description": "FNDetecto App is a simple webapp which I have created using Python,Machine learning,flask and deployed on azure.It's a simple web app for detecting fake news and real news",
+        "author": "d-coder111",
+        "category": "machine learning",
+        "level": "basic",
+        "site": "",
+        "tags": "FakeNews, Python, Machine learning,flask,azure"
+    }
 ]
