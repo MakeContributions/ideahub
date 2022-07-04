@@ -72,7 +72,7 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 |Attribute name | Description                                                                       |
 |---------------|-----------------------------------------------------------------------------------|
 |title          | The idea title                                                                    |
-|description    | The description of what the developer should    do                                |
+|description    | The description of what the developer should do                                  |
 |level          | The difficulty of the idea to programming it, ex: basic, intermediate, advanced   |
 |tags           | Idea Tags. NOTE: the first tag will be use by search the project                  |
 
