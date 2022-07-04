@@ -251,7 +251,7 @@
     },   
     {
         "name": "FNDetectoApp",
-        "display": "FNDetectoApp",
+        "display": "Fake news detection",
         "description": "FNDetectoApp is a simple fake news detection web app which detects fake news and real news .",
         "author": "d-coder111",
         "category": "machine learning",
