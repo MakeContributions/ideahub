@@ -172,5 +172,11 @@
         "description": "A color-generating web app which contains three sliders for Red, Blue and Green colors respectively. On moving the sliders, the background color of the screen will change dynamically according to the RGB values.",
         "level":"basic",
         "tags": "rgb-slider, slider, color-generato, dynamic-colors"
+    },
+    {
+        "title": "RoadMap Generator",
+        "description": "An app or website to generate a possible, safest and most acceptable roadmap for the query user seraches about like full stack developement, software developement etc. and also shows the details of each step to gain success",
+        "level": "advanced",
+        "tags": "roadmap, success, process"
     }
 ]
