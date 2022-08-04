@@ -40,6 +40,16 @@
         "tags": "html, css, js"
     },
     {
+        "name": "eLearning",
+        "display": "eLearning",
+        "description": "It's a simple landing page. Made with Bootstrap 5.",
+        "author": "hasan-naim",
+        "category": "website",
+        "level": "basic",
+        "site": "https://elearning-hasan.netlify.app/",
+        "tags": "e-learning, html, css, bootstrap"
+    },
+    {
         "name": "Paint-with-UG-The-SEP",
         "display": "Paint with UG",
         "description": "This is a Desktop Application in which you can create shape,fill color,change background etc.",
