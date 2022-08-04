@@ -3,4 +3,3 @@
   - [Stickies](https://github.com/franciscoh017/stickies) - [@franciscoh017](https://github.com/franciscoh017)
   - [franciscoh017 Profile](https://github.com/franciscoh017/franciscoh017.github.io) - [@franciscoh017](https://github.com/franciscoh017)
   - [Currency Converter](https://github.com/reliut-g/exchangerate-javascript-sdk) - [@reliut-g](https://github.com/reliut-g)
-  - [eLearning](https://elearning-hasan.netlify.app/) - [@hasan-naim](https://github.com/hasan-naim)
