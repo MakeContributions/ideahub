@@ -265,7 +265,7 @@
         "description": "An API that provides additional information based on the obsession with a true crime podcast from the mystery-comedy show ... Only Murders in the Building",
         "author": "deesclouds",
         "category": "api, fullstack, web, application, website",
-        "level": "basic, intermediate",
+        "level": "intermediate",
         "site": "https://github.com/deesclouds/true-crime-api",
         "tags": "api, true-crime, web application, fullstack, full-stack, fiction, tv, show, only, murders, in, building, database, mongodb, node.js, javascript, react, html, css, netlify, markdown, scraping, express, cors"
     },   
