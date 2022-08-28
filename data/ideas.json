@@ -178,7 +178,6 @@
         "description": "An insect identifier app",
         "level": "intermediate",
         "tags": "bug, insect, insects, identifier, ai, python, image recognition, machine learning, data"
-        "tags": "rgb-slider, slider, color-generato, dynamic-colors"
     },
     {
         "title": "RoadMap Generator",
