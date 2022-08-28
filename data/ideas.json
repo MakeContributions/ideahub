@@ -176,7 +176,7 @@
     {
         "title": "Buguide",
         "description": "An insect identifier app",
-        "level": "beginner, intermediate",
+        "level": "intermediate",
         "tags": "bug, insect, insects, identifier, ai, python, image recognition, machine learning, data"
     }
 ]
