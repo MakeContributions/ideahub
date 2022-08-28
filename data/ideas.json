@@ -9,29 +9,29 @@
         "title": "Snake",
         "description": "If you had a cellphone in the early 2000s, you’ve probably played Snake. It’s a simple game but you can always try to make things more complex! First, start by just trying to make the game.",
         "level": "intermediate",
-        "tags": "snake,game"
+        "tags": "snake, game"
     },
     {
         "title": "Tetris",
         "description": "Create a Tetris game! Sure, it has been done a million times, but it's really interesting to try to make it!",
         "level": "intermediate",
-        "tags": "tetris,game,classic"
+        "tags": "tetris, game, classic"
     },
     {
         "title": "Personal Website",
         "description": "Make a website for yourself.",
         "level": "intermediate",
-        "tags": "personal-website,web,profile"
+        "tags": "personal-website, web, profile"
     },
     {
         "title": "Calculator",
-        "description": "Code up a clone of the windows calculator. It’s great practice for GUIs and basic math operation. And if it helps you solve your algebra homework - all the better!",
+        "description": "Code up a clone of the windows calculator. It's great practice for GUIs and basic math operation. And if it helps you solve your algebra homework - all the better!",
         "level": "basic",
         "tags": "calculator"
     },
     {
         "title": "Feature maps and Filter Visualizer",
-        "description": "This repository is about the code to extract Convolutional-neural-network layers and visualise the filters and featuremaps",
+        "description": "This repository is about the code to extract convolutional-neural-network layers and visualize the filters and feature maps",
         "level": "basic",
         "tags": "feature-maps-and-filter-visualizer, machine-learning"
     },
@@ -69,7 +69,7 @@
         "title": "One App Social Media Posting",
         "description": "Create a web app that can log in to all user social media platform and create the same post across",
         "level": "intermediate",
-        "tags": "socia-media, web-app"
+        "tags": "social-media, web-app"
     },
     {
         "title": "Random Meal Generator",
@@ -91,7 +91,7 @@
     },
     {
         "title": "School Management System",
-        "description": "Implemantion of school management system",
+        "description": "Implementation of school management system",
         "level": "intermediate",
         "tags": "school-management, web-app"
     },
@@ -115,7 +115,7 @@
     },
     {
         "title": "Live chat application (Slack Clone)",
-        "description": "You can send people messages which they recieve live.",
+        "description": "You can send people messages which they receive live.",
         "level": "intermediate",
         "tags": "slack-clone, live-chat-app, web-app"
     }, 
@@ -127,13 +127,13 @@
     },
     {
         "title": "Open Library",
-        "description": "A web app, basically an open library that has alot of books and texts available to users. The books are not necessarily owned by the library, a registered user can share their own book with the library where the book/text is unavailable in the library. To attract users, a feature where users can get rewarded with fungible tokens or any worthy collection where a book is read within a particular time or an esteemed user whose texts/books gets a stars for being the most read. Books in this context can be any kind of book, text or collection",
+        "description": "A web app, basically an open library that has a lot of books and texts available to users. The books are not necessarily owned by the library, a registered user can share their own book with the library where the book/text is unavailable in the library. To attract users, a feature where users can get rewarded with fungible tokens or any worthy collection where a book is read within a particular time or an esteemed user whose texts/books gets a stars for being the most read. Books in this context can be any kind of book, text or collection",
         "level": "intermediate",
         "tags": "open-library, web-app"
     },
     {
         "title": "A Language Translator",
-        "description": "Just like shazam, an AI application that translates languages or words on the go to the user desired language",
+        "description": "Just like Shazam, an AI application that translates languages or words on the go to the user desired language",
         "level": "intermediate",
         "tags": "language-translator, machine-learning, artificial intelligence"
     },
@@ -156,22 +156,28 @@
         "tags": "alarm-clock, web-app"
     },
     {
-        "title": "File System Organiser",
-        "description": "A project in nodeJS that will sort files on the basis of their extension into particular category folders. Runs via terminal, asks for the path of the folder you want to organise",
+        "title": "File System Organizer",
+        "description": "A project in nodeJS that will sort files on the basis of their extension into particular category folders. Runs via terminal, asks for the path of the folder you want to organize",
         "level": "basic",
-        "tags": "file-organisation, extension-sort, nodeJS"
+        "tags": "file-organization, extension-sort, nodeJS"
     },
     {
         "title": "World Clock",
         "description": "A web app where you specify the country or city and it gives you the current time.",
         "level": "basic",
-        "tags": "clock, datetime"
+        "tags": "clock, date, time"
     }, 
     {
         "title": "RGB Slider",
         "description": "A color-generating web app which contains three sliders for Red, Blue and Green colors respectively. On moving the sliders, the background color of the screen will change dynamically according to the RGB values.",
         "level":"basic",
-        "tags": "rgb-slider, slider, color-generato, dynamic-colors"
+        "tags": "rgb-slider, slider, color-generator, dynamic-colors"
+    },
+    {
+        "title": "Buguide",
+        "description": "An insect identifier app",
+        "level": "intermediate",
+        "tags": "bug, insect, insects, identifier, ai, python, image recognition, machine learning, data"
     },
     {
         "title": "RoadMap Generator",

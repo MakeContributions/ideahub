@@ -22,7 +22,7 @@
     {
         "name": "Hotel-Reservation-System",
         "display": "Hotel Reservation System",
-        "description": "A webstie for Hotel Reservations using JSP & Servlets",
+        "description": "A website for Hotel Reservations using JSP & Servlets",
         "author": "TawfikYasser",
         "category": "website",
         "level": "intermediate",
@@ -77,7 +77,7 @@
         "category": "desktop application",
         "level": "intermediate",
         "site": "",
-        "tags": "Typing-Game,C-Projects,c++"
+        "tags": "Typing-Game, C-Projects, c++"
     },
     {
         "name": "tic-tac-toe",
@@ -92,7 +92,7 @@
      {
         "name": "CodersArena",
         "display": "Coders Arena",
-        "description": "A (web application) platform to have a coing combat with your friend (30 minutes) with random question from our library and also a platform to create test (MCQ and time based) and also to attend MCQ test.",
+        "description": "A (web application) platform to have a coding combat with your friend (30 minutes) with random question from our library and also a platform to create test (MCQ and time based) and also to attend MCQ test.",
         "author": "fantasy-08",
         "category": "website",
         "level": "intermediate",
@@ -147,7 +147,7 @@
         "category": "desktop application",
         "level": "basic",
         "site": "",
-        "tags": "visualizer-app,c,c++,graphics-project"
+        "tags": "visualizer-app, c, c++, graphics-project"
     },
     {
         "name": "Car-Zone",
@@ -157,7 +157,7 @@
         "category": "desktop application",
         "level": "basic",
         "site": "",
-        "tags": "car-game,c,c++,graphics-project"
+        "tags": "car-game, c, c++, graphics-project"
     },
     {
         "name": "Venessa-My-Personal-Assistant",
@@ -167,7 +167,7 @@
         "category": "desktop application",
         "level": "basic",
         "site": "",
-        "tags": "python-project,personal-assistant,python-assistant"
+        "tags": "python-project, personal-assistant, python-assistant"
     },
     {
         "name": "exchangerate-javascript-sdk",
@@ -258,6 +258,16 @@
         "level": "basic",
         "site": "",
         "tags": "score-Keeper, HTML, CSS, JAVASCRIPT"
+    },
+    {
+        "name": "true-crime-api",
+        "display": "Crime Fiction API",
+        "description": "An API that provides additional information based on the obsession with a true crime podcast from the mystery-comedy show ... Only Murders in the Building",
+        "author": "deesclouds",
+        "category": "api, fullstack, web, application, website",
+        "level": "intermediate",
+        "site": "https://github.com/deesclouds/true-crime-api",
+        "tags": "api, true-crime, web application, fullstack, full-stack, fiction, tv, show, only, murders, in, building, database, mongodb, node.js, javascript, react, html, css, netlify, markdown, scraping, express, cors"
     },   
     {
         "name": "FNDetectoApp",
@@ -269,4 +279,5 @@
         "site": "",
         "tags": "python, html, flask, machine-learning, azure-webapp, azure-deployment, github-actions, fake-news-detection"
     }
+
 ]
