@@ -187,7 +187,7 @@
     },
     {
         "title": "Book App",
-        "description": "A cataloging web application where users can search for books by title or author using an API Eg: Rapid API.",
+        "description": "A cataloging web application where users can search for books by title or author using an API.",
         "level": "advanced",
         "tags": "book, search, web-app"
     }
