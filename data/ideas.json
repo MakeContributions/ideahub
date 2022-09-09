@@ -189,6 +189,6 @@
         "title": "Book App",
         "description": "A cataloging web application where users can search for books by title or author using an API Eg: Rapid API.",
         "level": "advanced",
-        "tags": "javascript, api, es6"
+        "tags": "book, search, web-app"
     }
 ]
