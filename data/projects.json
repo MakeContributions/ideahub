@@ -288,6 +288,15 @@
         "level": "intermediate",
         "site": "https://ecommerce-multi-page.vercel.app/index.html",
         "tags": "e-commerce, html, css, vercel"
+    },
+    {
+        "name": "Movie-Mania",
+        "display": "Find Your Favourite Movies",
+        "description": "A Fully Responsive Beautiful Movie Details Web App Made With React.Js and MovieDB API.",
+        "author": "MahendraBishnoi29",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://movie-mania0.netlify.app/",
+        "tags": "movies, api, react"
     }
-
 ]
