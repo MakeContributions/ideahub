@@ -10,3 +10,4 @@
   - [IP Tracker built with Vuejs](https://github.com/sahilpatel09/ip-tracker) - [@sahilpatel09](https://github.com/sahilpatel09)
   - [Hibi Ciento](https://github.com/TenTraicion/hibi-ciento) - [@TenTraicion](https://github.com/TenTraicion)
   - [E-Commerce Multi Page](https://github.com/jalexandertech/ecommerce-multi-page) - [@jalexandertech](https://github.com/jalexandertech)
+  - [Find Your Favourite Movies](https://github.com/MahendraBishnoi29/Movie-Mania) - [@MahendraBishnoi29](https://github.com/MahendraBishnoi29)
