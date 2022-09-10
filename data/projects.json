@@ -288,8 +288,8 @@
         "level": "intermediate",
         "site": "https://ecommerce-multi-page.vercel.app/index.html",
         "tags": "e-commerce, html, css, vercel"
-    }
-   {
+    },
+    {
         "name": "clash-of-space",
         "display": "Clash of Space",
         "description": "This is a space-craft war and alien shooting game",
