@@ -190,5 +190,11 @@
         "description": "This is space-craft and alien shooting game where a player can earn points based on how many alien spacecrafts the player can destroy and the player has to protect his/her spaceship from the aliens to save the health level.",
         "level": "basic",
         "tags": "clash-of-space, game, space-war, alien-shooting, action"
+    },
+    {
+        "title": "Book App",
+        "description": "A cataloging web application where users can search for books by title or author using an API.",
+        "level": "advanced",
+        "tags": "book-app, search, web-app"
     }
 ]
