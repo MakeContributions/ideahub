@@ -290,6 +290,16 @@
         "tags": "e-commerce, html, css, vercel"
     },
     {
+        "name": "clash-of-space",
+        "display": "Clash of Space",
+        "description": "This is a space-craft war and alien shooting game",
+        "author": "Rajspeaks",
+        "category": "game",
+        "level": "basic",
+        "site": "https://rajspeaks.github.io/clash-of-space/",
+        "tags": "game, html, css, javascript, space, clash-of-space"
+    },
+    {
         "name": "Movie-Mania",
         "display": "Find Your Favourite Movies",
         "description": "A Fully Responsive Beautiful Movie Details Web App Made With React.Js and MovieDB API.",
