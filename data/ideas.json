@@ -184,5 +184,11 @@
         "description": "An app or website to generate a possible, safest and most acceptable roadmap for the query user seraches about like full stack developement, software developement etc. and also shows the details of each step to gain success",
         "level": "advanced",
         "tags": "roadmap, success, process"
+    },
+    {
+        "title": "Book App",
+        "description": "A cataloging web application where users can search for books by title or author using an API.",
+        "level": "advanced",
+        "tags": "book-app, search, web-app"
     }
 ]
