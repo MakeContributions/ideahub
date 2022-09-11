@@ -190,5 +190,11 @@
         "description": "A website where we search for any picture that is available on unsplash. we can use unsplash API for this, also we can use axios for fetching the data and a UI library for styling.",
         "level": "beginner",
         "tags": "api, react"
+    },
+    {
+        "title": "Book App",
+        "description": "A cataloging web application where users can search for books by title or author using an API.",
+        "level": "advanced",
+        "tags": "book-app, search, web-app"
     }
 ]
