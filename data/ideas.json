@@ -189,6 +189,6 @@
         "title": "Book App",
         "description": "A cataloging web application where users can search for books by title or author using an API.",
         "level": "advanced",
-        "tags": "book, search, web-app"
+        "tags": "book-app, search, web-app"
     }
 ]
