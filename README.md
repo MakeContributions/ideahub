@@ -11,10 +11,6 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 
 ## Categories ✨
 <!--categories:start-->
-- Web Application
-    - [Basic](./docs/WEB_APPLICATION_BASIC.md)
-- Api, Fullstack, Web, Application, Website
-    - [Intermediate](./docs/API,_FULLSTACK, WEB, APPLICATION, WEBSITE_INTERMEDIATE.md)
 - Desktop Application
     - [Basic](./docs/DESKTOP_APPLICATION_BASIC.md)
     - [Intermediate](./docs/DESKTOP_APPLICATION_INTERMEDIATE.md)
