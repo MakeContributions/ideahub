@@ -188,7 +188,7 @@
     {
         "title": "Picture Finder",
         "description": "A website where we search for any picture that is available on unsplash. we can use unsplash API for this, also we can use axios for fetching the data and a UI library for styling.",
-        "level": "beginner",
+        "level": "basic",
         "tags": "picture-finder, api"
     },
     {
