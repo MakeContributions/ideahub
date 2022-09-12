@@ -187,9 +187,9 @@
     },
     {
         "title": "Job Listings Filter",
-        "description": "A Job listing webapp with filter feature for different tags",
+        "description": "A Job listing App with filter feature for different tags",
         "level": "intermediate",
-        "tags": "listings, filter, tags"
-    },
+        "tags": "job-listings-filter, listings, filter, tags"
+    }
     
 ]
