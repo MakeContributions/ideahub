@@ -254,7 +254,7 @@
         "display": "Score Keeper",
         "description": "Score Keeper is a simple game which I have implemented using HTML, CSS and JavaScript.",
         "author": "vedant-z",
-        "category": "Web application",
+        "category": "website",
         "level": "basic",
         "site": "",
         "tags": "score-Keeper, HTML, CSS, JAVASCRIPT"
@@ -264,7 +264,7 @@
         "display": "Crime Fiction API",
         "description": "An API that provides additional information based on the obsession with a true crime podcast from the mystery-comedy show ... Only Murders in the Building",
         "author": "deesclouds",
-        "category": "api, fullstack, web, application, website",
+        "category": "website",
         "level": "intermediate",
         "site": "https://github.com/deesclouds/true-crime-api",
         "tags": "api, true-crime, web application, fullstack, full-stack, fiction, tv, show, only, murders, in, building, database, mongodb, node.js, javascript, react, html, css, netlify, markdown, scraping, express, cors"
@@ -288,6 +288,16 @@
         "level": "intermediate",
         "site": "https://ecommerce-multi-page.vercel.app/index.html",
         "tags": "e-commerce, html, css, vercel"
+    },
+    {
+        "name": "clash-of-space",
+        "display": "Clash of Space",
+        "description": "This is a space-craft war and alien shooting game",
+        "author": "Rajspeaks",
+        "category": "game",
+        "level": "basic",
+        "site": "https://rajspeaks.github.io/clash-of-space/",
+        "tags": "game, html, css, javascript, space, clash-of-space"
     },
     {
         "name": "Movie-Mania",

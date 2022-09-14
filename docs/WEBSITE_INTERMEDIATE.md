@@ -9,5 +9,6 @@
   - [Dark Themed Personal Portfolio Website with Blog](https://github.com/sahilpatel09/sahilpatel09.github.io) - [@sahilpatel09](https://github.com/sahilpatel09)
   - [IP Tracker built with Vuejs](https://github.com/sahilpatel09/ip-tracker) - [@sahilpatel09](https://github.com/sahilpatel09)
   - [Hibi Ciento](https://github.com/TenTraicion/hibi-ciento) - [@TenTraicion](https://github.com/TenTraicion)
+  - [Crime Fiction API](https://github.com/deesclouds/true-crime-api) - [@deesclouds](https://github.com/deesclouds)
   - [E-Commerce Multi Page](https://github.com/jalexandertech/ecommerce-multi-page) - [@jalexandertech](https://github.com/jalexandertech)
   - [Find Your Favourite Movies](https://github.com/MahendraBishnoi29/Movie-Mania) - [@MahendraBishnoi29](https://github.com/MahendraBishnoi29)
