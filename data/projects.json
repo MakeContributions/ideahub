@@ -308,5 +308,15 @@
         "level": "intermediate",
         "site": "https://movie-mania0.netlify.app/",
         "tags": "movies, api, react"
+    },
+    {
+        "name": "Word-guessing-game",
+        "display": "Word-guessing-game",
+        "description": "A game where you have to guess the words.",
+        "author": "mukul314",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://mukul314.github.io/Word-guessing-game/",
+        "tags": "Js, html, css"
     }
 ]
