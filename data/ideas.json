@@ -202,5 +202,12 @@
         "description": "A cataloging web application where users can search for books by title or author using an API.",
         "level": "advanced",
         "tags": "book-app, search, web-app"
+    },
+    {
+        "title": "Word Guessing Game",
+        "description": "A simple word guessing game.",
+        "level": "intermediate",
+        "tags": "word-guessing-game"
     }
+
 ]
