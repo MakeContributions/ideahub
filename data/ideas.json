@@ -205,7 +205,7 @@
     },
     {
         "title": "Word Guessing Game",
-        "description": "A simple word guessing game made by using HTML,CSS and JS.",
+        "description": "A simple word guessing game.",
         "level": "intermediate",
         "tags": "word-guessing-game"
     }
