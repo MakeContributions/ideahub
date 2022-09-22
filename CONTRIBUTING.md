@@ -25,7 +25,7 @@ Open a terminal and run the following git command:
 git clone "url you just copied"
 ```
 
-where "url you just copied" (without the quotation marks) is the URL to this repository (your fork of this project). See the previous steps to obtain the URL.
+"url you just copied" (without the quotation marks) is the URL to this repository (your fork of this project). See the previous steps to obtain the URL.
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/68538660/106241311-d4232980-61d3-11eb-84e6-293f97c09e1c.png" alt="copy URL to clipboard" />
 
@@ -35,7 +35,7 @@ For example:
 git clone https://github.com/<!--your username-->/ideahub.git
 ```
 
-where `your username` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+`your username` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
 
@@ -57,7 +57,7 @@ For example:
 git checkout -b add-new-file
 ```
 
-(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.
 
 ## Make necessary changes and commit those changes
 
@@ -87,7 +87,7 @@ Push your changes using the command `git push`:
 git push origin <add-your-branch-name>
 ```
 
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+This replaces `<add-your-branch-name>` with the name of the branch you created earlier.
 
 ## Submit your changes for review
 
