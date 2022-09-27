@@ -1,5 +1,15 @@
 [
     {
+        "name": "File-protection-system",
+        "display": "File Protection System",
+        "description": "This is a small File Protection System Made using only Java.",
+        "author": "AryanP45",
+        "category": "desktop application",
+        "level": "intermediate",
+        "site": "https://github.com/AryanP45/File-protection-system",
+        "tags": "java, swing, security, file, protection, project"
+    },
+    {
         "name": "markdown-dungeon",
         "display": "Markdown Dungeon",
         "description": "This is an example that how to use Markdown creating a dungeon",
