@@ -40,16 +40,6 @@
         "tags": "html, css, jsp, servlets, mysql"
     },
     {
-        "name": "currency-converter",
-        "display": "Currency Convertor",
-        "description": "A simple website using HTML, CSS, Javascript that converts one currency amount to other",
-        "author": "Roshaen",
-        "category": "website",
-        "level": "basic",
-        "site": "https://roshaen.github.io/currency",
-        "tags": "html, css, js"
-    },
-    {
         "name": "eLearning",
         "display": "eLearning",
         "description": "It's a simple landing page. Made with Bootstrap 5.",
