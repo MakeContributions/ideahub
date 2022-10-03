@@ -300,6 +300,16 @@
         "tags": "movies, api, react"
     },
     {
+        "name": "Dual Use Chemical Tracking System",
+        "display": "DUCTS",
+        "description": "This software is designed for the NCB to track the supply chain of chemicals that can be illicitly used from the manufacturer to the end-user.",
+        "author": "Atreay Kukanur",
+        "category": "Website",
+        "level": "intermediate",
+        "site": "https://github.com/ATREAY/DUCTS",
+        "tags": "HTML, CSS, JavaScript, MySql, Solidity, Blockchain"
+    },
+    {
         "name": "Word-guessing-game",
         "display": "Word Guessing Game",
         "description": "A game where you have to guess the words.",
@@ -309,4 +319,5 @@
         "site": "https://mukul314.github.io/Word-guessing-game/",
         "tags": "word-guessing-game, Js, html, css"
     }
+
 ]
