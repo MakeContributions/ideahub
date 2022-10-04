@@ -318,5 +318,15 @@
         "level": "intermediate",
         "site": "https://mukul314.github.io/Word-guessing-game/",
         "tags": "word-guessing-game, Js, html, css"
+    },
+    {
+        "name": "Gallery",
+        "display": "Image Gallery",
+        "description": "A Simple Image Gallery with a Modal feature.",
+        "author": "ahmedsilat44",
+        "category": "website",
+        "level": "basic",
+        "site": "https://ahmedsilat44.github.io/Gallery/",
+        "tags": "image-gallery, gallery, Js, html, css"
     }
 ]
