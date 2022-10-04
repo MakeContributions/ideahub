@@ -300,8 +300,8 @@
         "tags": "movies, api, react"
     },
     {
-        "name": "Dual Use Chemical Tracking System",
-        "display": "DUCTS",
+        "name": "DUCTS",
+        "display": "Dual Use Chemical Tracking System",
         "description": "This software is designed for the NCB to track the supply chain of chemicals that can be illicitly used from the manufacturer to the end-user.",
         "author": "Atreay Kukanur",
         "category": "Website",
