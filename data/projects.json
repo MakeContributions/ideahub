@@ -308,5 +308,15 @@
         "level": "intermediate",
         "site": "https://mukul314.github.io/Word-guessing-game/",
         "tags": "word-guessing-game, Js, html, css"
+    },
+    {
+        "name": "Guess-the-Number",
+        "display": "Guess the number between 1 - 20",
+        "description": "A game where you have to guess a number between 1 to 20.",
+        "author": "techtuner",
+        "category": "website",
+        "level": "basic",
+        "site": "https://techtuner.github.io/Guess-the-Number/",
+        "tags": "number-guessing, JavaScript, html, css"
     }
 ]

@@ -216,10 +216,10 @@
         "tags": "book-donation"
     },
     {
-        "title": "Image Classification",
-        "description": "Machine Learning model to classify images.",
-        "level": "intermediate",
-        "tags": "machine learning, ai, python, image classification"
+        "title": "Guess the Number",
+        "description": "Guess the number between 1 - 20",
+        "level": "basic",
+        "tags": "number-guessing, JavaScript, html, css"
     }
 
 ]
