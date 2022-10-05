@@ -225,7 +225,7 @@
         "title": "Major Days in History",
         "description": "A web application containing major days in history including births, deaths, inventions, wars, etc. User can search for days, events or persons using an API.",
         "level": "intermediate",
-        "tags": "api-requests, web-app, search"
+        "tags": "major-days-in-history, search"
     }
 
 ]
