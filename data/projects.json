@@ -1,5 +1,15 @@
 [
     {
+        "name": "File-protection-system",
+        "display": "File Protection System",
+        "description": "This is a small File Protection System Made using only Java.",
+        "author": "AryanP45",
+        "category": "desktop application",
+        "level": "intermediate",
+        "site": "https://github.com/AryanP45/File-protection-system",
+        "tags": "java, swing, security, file-protection-system"
+    },
+    {
         "name": "markdown-dungeon",
         "display": "Markdown Dungeon",
         "description": "This is an example that how to use Markdown creating a dungeon",
@@ -308,5 +318,15 @@
         "level": "intermediate",
         "site": "https://mukul314.github.io/Word-guessing-game/",
         "tags": "word-guessing-game, Js, html, css"
+    },
+    {
+        "name": "Gallery",
+        "display": "Image Gallery",
+        "description": "A Simple Image Gallery with a Modal feature.",
+        "author": "ahmedsilat44",
+        "category": "website",
+        "level": "basic",
+        "site": "https://ahmedsilat44.github.io/Gallery/",
+        "tags": "image-gallery, gallery, Js, html, css"
     }
 ]

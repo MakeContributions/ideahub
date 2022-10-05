@@ -1,5 +1,11 @@
 [
     {
+        "title": "File Protection System",
+        "description": "This is a small File Protection System Made using only Java.",
+        "level": "intermediate",
+        "tags": "file-protection-system, security"
+    },
+    {
         "title": "Todo List",
         "description": "It's a todo list.",
         "level": "basic",
