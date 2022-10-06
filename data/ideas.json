@@ -238,6 +238,11 @@
         "description": "A web application comprising major days in history including births, deaths, inventions, wars, etc. User can search for days, events or persons using an API.",
         "level": "intermediate",
         "tags": "major-days-in-history, search"
+    },
+    {
+        "title": "Barber Shop",
+        "description": "Barber shop (adaptable) reservations system ",
+        "level": "intermediate",
+        "tags": "barber-shop"
     }
-
 ]
