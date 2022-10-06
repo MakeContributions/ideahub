@@ -188,5 +188,15 @@
         "level": "intermediate",
         "site": "https://github.com/Angelvicks/vision-ai",
         "tags": "fast-api, react, artificial-intelligence"
+    },
+    {
+        "name": "pokemon-world",
+        "display": "Pokemon Awesome",
+        "description": "Pokémon Awesome is a simple yet rich-featured Pokémon website that is built in order to allow Pokémon lovers to easily explore Pokémon and do many more things. Anyone can use this site to search for Pokémon by name and filter them by generation and type",
+        "author": "afiiif",
+        "category": "website",
+        "level": "advanced",
+        "site": "https://pokemon-awesome.vercel.app/",
+        "tags": "graphql, pokemon, typescript, nextjs, tailwindcss, react-query"
     }
 ]
