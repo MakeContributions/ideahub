@@ -11,6 +11,8 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 
 ## Categories ✨
 <!--categories:start-->
+- Website
+    - [Intermediate](./docs/WEBSITE_INTERMEDIATE.md)
 - Desktop Application
     - [Basic](./docs/DESKTOP_APPLICATION_BASIC.md)
     - [Intermediate](./docs/DESKTOP_APPLICATION_INTERMEDIATE.md)
@@ -49,7 +51,7 @@ A collection of ideas and projects that contain from beginner to advance :octoca
         "title": "",
         "description": "",
         "level": "",
-        "tags: ""
+        "tags": ""
     }
 ```
 4. Create a pull request to `main`
@@ -63,16 +65,16 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 |description    | The description for your project                                  |
 |author         | Your github's username                                            |
 |category       | Project category, ex: game, iot, ml, ai, console app, or website  |
-|level          | The difficult of the project, ex: basic, intermediate, advanced   |
-|site           | Website url, if doesn't have left it on emtpy string              |
+|level          | The difficulty of the project, ex: basic, intermediate, advanced  |
+|site           | Website URL; Leave an emtpy string if unavailable                 |
 |tags           | Project tags                                                      |
 
 #### Idea structure 
 |Attribute name | Description                                                                       |
 |---------------|-----------------------------------------------------------------------------------|
 |title          | The idea title                                                                    |
-|description    | The description about what should the developer do                                |
-|level          | The difficult of the idea to programming it, ex: basic, intermediate, advanced    |
+|description    | The description of what the developer should do                                  |
+|level          | The difficulty of the idea to programming it, ex: basic, intermediate, advanced   |
 |tags           | Idea Tags. NOTE: the first tag will be use by search the project                  |
 
 ### Others

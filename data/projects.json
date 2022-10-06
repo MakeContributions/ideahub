@@ -1,5 +1,15 @@
 [
     {
+        "name": "File-protection-system",
+        "display": "File Protection System",
+        "description": "This is a small File Protection System Made using only Java.",
+        "author": "AryanP45",
+        "category": "desktop application",
+        "level": "intermediate",
+        "site": "https://github.com/AryanP45/File-protection-system",
+        "tags": "java, swing, security, file-protection-system"
+    },
+    {
         "name": "markdown-dungeon",
         "display": "Markdown Dungeon",
         "description": "This is an example that how to use Markdown creating a dungeon",
@@ -22,7 +32,7 @@
     {
         "name": "Hotel-Reservation-System",
         "display": "Hotel Reservation System",
-        "description": "A webstie for Hotel Reservations using JSP & Servlets",
+        "description": "A website for Hotel Reservations using JSP & Servlets",
         "author": "TawfikYasser",
         "category": "website",
         "level": "intermediate",
@@ -30,14 +40,14 @@
         "tags": "html, css, jsp, servlets, mysql"
     },
     {
-        "name": "currency-converter",
-        "display": "Currency Convertor",
-        "description": "A simple website using HTML, CSS, Javascript that converts one currency amount to other",
-        "author": "Roshaen",
+        "name": "eLearning",
+        "display": "eLearning",
+        "description": "It's a simple landing page. Made with Bootstrap 5.",
+        "author": "hasan-naim",
         "category": "website",
         "level": "basic",
-        "site": "https://roshaen.github.io/currency",
-        "tags": "html, css, js"
+        "site": "https://elearning-hasan.netlify.app/",
+        "tags": "e-learning, html, css, bootstrap"
     },
     {
         "name": "Paint-with-UG-The-SEP",
@@ -67,7 +77,7 @@
         "category": "desktop application",
         "level": "intermediate",
         "site": "",
-        "tags": "Typing-Game,C-Projects,c++"
+        "tags": "Typing-Game, C-Projects, c++"
     },
     {
         "name": "tic-tac-toe",
@@ -82,7 +92,7 @@
      {
         "name": "CodersArena",
         "display": "Coders Arena",
-        "description": "A (web application) platform to have a coing combat with your friend (30 minutes) with random question from our library and also a platform to create test (MCQ and time based) and also to attend MCQ test.",
+        "description": "A (web application) platform to have a coding combat with your friend (30 minutes) with random question from our library and also a platform to create test (MCQ and time based) and also to attend MCQ test.",
         "author": "fantasy-08",
         "category": "website",
         "level": "intermediate",
@@ -137,7 +147,7 @@
         "category": "desktop application",
         "level": "basic",
         "site": "",
-        "tags": "visualizer-app,c,c++,graphics-project"
+        "tags": "visualizer-app, c, c++, graphics-project"
     },
     {
         "name": "Car-Zone",
@@ -147,7 +157,7 @@
         "category": "desktop application",
         "level": "basic",
         "site": "",
-        "tags": "car-game,c,c++,graphics-project"
+        "tags": "car-game, c, c++, graphics-project"
     },
     {
         "name": "Venessa-My-Personal-Assistant",
@@ -157,7 +167,7 @@
         "category": "desktop application",
         "level": "basic",
         "site": "",
-        "tags": "python-project,personal-assistant,python-assistant"
+        "tags": "python-project, personal-assistant, python-assistant"
     },
     {
         "name": "exchangerate-javascript-sdk",
@@ -198,5 +208,165 @@
         "level": "advanced",
         "site": "https://pokemon-awesome.vercel.app/",
         "tags": "graphql, pokemon, typescript, nextjs, tailwindcss, react-query"
+    },
+    {
+        "name": "poketalog",
+        "display": "Poketalog",
+        "description": "Catalog Pokemon using pokeapi.co",
+        "author": "shonenxnaifu",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://poketalog.herokuapp.com/",
+        "tags": "pokeapi, pokemon, vue, catalog"
+    },
+    {
+        "name": "libkunci_scraping",
+        "display": "Web Scraper - Kunci",
+        "description": "Web scrapper to get all data from lib.kunci.or.id",
+        "author": "shonenxnaifu",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://github.com/shonenxnaifu/libkunci_scraping",
+        "tags": "scrapping, puppeteer, nodejs, express"
+    },
+    {
+        "name": "sahilpatel09.github.io",
+        "display": "Dark Themed Personal Portfolio Website with Blog",
+        "description": "A personal portfolio theme with dark navy blue theme. It has a markdown based blog system with tags, powered by Gridsome and power of GraphQl.",
+        "author": "sahilpatel09",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://sahilpatel09.github.io/",
+        "tags": "vuejs, personal-website, Gridsome, Graphql, markdown, personal-blog"
+    },
+    {
+        "name": "ip-tracker",
+        "display": "IP Tracker built with Vuejs",
+        "description": "A single page app to find the location and other critical information about an IP address.",
+        "author": "sahilpatel09",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://brave-mirzakhani-8081ab.netlify.app/",
+        "tags": "vuejs, pico css, netlify"
+    },
+    {
+        "name": "hibi-ciento",
+        "display": "Hibi Ciento",
+        "description": "A project to built a website in hundred days using front end and backend supports.",
+        "author": "TenTraicion",
+        "category": "website",
+        "level": "intermediate",
+        "site": "",
+        "tags": "html, css, javascript, node.js, mongodb"
+    },
+    {
+        "name": "Score-Keeper",
+        "display": "Score Keeper",
+        "description": "Score Keeper is a simple game which I have implemented using HTML, CSS and JavaScript.",
+        "author": "vedant-z",
+        "category": "website",
+        "level": "basic",
+        "site": "",
+        "tags": "score-Keeper, HTML, CSS, JAVASCRIPT"
+    },
+    {
+        "name": "true-crime-api",
+        "display": "Crime Fiction API",
+        "description": "An API that provides additional information based on the obsession with a true crime podcast from the mystery-comedy show ... Only Murders in the Building",
+        "author": "deesclouds",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://github.com/deesclouds/true-crime-api",
+        "tags": "api, true-crime, web application, fullstack, full-stack, fiction, tv, show, only, murders, in, building, database, mongodb, node.js, javascript, react, html, css, netlify, markdown, scraping, express, cors"
+    },   
+    {
+        "name": "FNDetectoApp",
+        "display": "Fake news detection",
+        "description": "Fake news detection web app which detects real or fake news using the machine learning.",
+        "author": "d-coder111",
+        "category": "machine learning",
+        "level": "basic",
+        "site": "",
+        "tags": "python, html, flask, machine-learning, azure-webapp, azure-deployment, github-actions, fake-news-detection"
+    },
+    {
+        "name": "ecommerce-multi-page",
+        "display": "E-Commerce Multi Page",
+        "description": "This project focuses on building an e-commerce site with multiple pages.",
+        "author": "jalexandertech",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://ecommerce-multi-page.vercel.app/index.html",
+        "tags": "e-commerce, html, css, vercel"
+    },
+    {
+        "name": "clash-of-space",
+        "display": "Clash of Space",
+        "description": "This is a space-craft war and alien shooting game",
+        "author": "Rajspeaks",
+        "category": "game",
+        "level": "basic",
+        "site": "https://rajspeaks.github.io/clash-of-space/",
+        "tags": "game, html, css, javascript, space, clash-of-space"
+    },
+    {
+        "name": "Movie-Mania",
+        "display": "Find Your Favourite Movies",
+        "description": "A Fully Responsive Beautiful Movie Details Web App Made With React.Js and MovieDB API.",
+        "author": "MahendraBishnoi29",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://movie-mania0.netlify.app/",
+        "tags": "movies, api, react"
+    },
+    {
+        "name": "DUCTS",
+        "display": "Dual Use Chemical Tracking System",
+        "description": "This software is designed for the NCB to track the supply chain of chemicals that can be illicitly used from the manufacturer to the end-user.",
+        "author": "Atreay Kukanur",
+        "category": "Website",
+        "level": "intermediate",
+        "site": "https://github.com/ATREAY/DUCTS",
+        "tags": "HTML, CSS, JavaScript, MySql, Solidity, Blockchain"
+    },
+    {
+        "name": "Word-guessing-game",
+        "display": "Word Guessing Game",
+        "description": "A game where you have to guess the words.",
+        "author": "mukul314",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://mukul314.github.io/Word-guessing-game/",
+        "tags": "word-guessing-game, Js, html, css"
+    },
+    {
+        "name": "Guess-the-Number",
+        "display": "Guess the number between 1 - 20",
+        "description": "A game where you have to guess a number between 1 to 20.",
+        "author": "techtuner",
+        "category": "website",
+        "level": "basic",
+        "site": "https://techtuner.github.io/Guess-the-Number/",
+        "tags": "number-guessing, JavaScript, html, css"
+    },
+    {
+        "name": "Gallery",
+        "display": "Image Gallery",
+        "description": "A Simple Image Gallery with a Modal feature.",
+        "author": "ahmedsilat44",
+        "category": "website",
+        "level": "basic",
+        "site": "https://ahmedsilat44.github.io/Gallery/",
+        "tags": "image-gallery, gallery, Js, html, css"
+    },
+    {
+        "name": "barber-shop",
+        "display": "Barber Shop",
+        "description": "Reservations system made with Vue + Firebase ecosystem (cloud functions, auth, firestore, hosting).",
+        "author": "ibonkonesa",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://barber-shop-53333.web.app",
+        "tags": "vuejs, firebase, html, js, css, barber-shop"
     }
 ]
