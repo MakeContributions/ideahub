@@ -240,7 +240,7 @@
         "tags": "major-days-in-history, search"
     },
     {
-        "title": "Digital Clock with time formatting",
+        "title": "Digital clock with time formatting",
         "description": "A Digital Clock with simple design which shows time in 24hr format as well as 12 hr format based on selection type.",
         "level": "basic",
         "tags": "clock, time"
