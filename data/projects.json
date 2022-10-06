@@ -349,5 +349,15 @@
         "site": "https://ahmedsilat44.github.io/Gallery/",
         "tags": "image-gallery, gallery, Js, html, css"
     }
+    ,{
+        "name": "Digital Clock",
+        "display": "A Clock in Digital Format",
+        "description": "A simple Clock with 12 hr format and 24hr format option.",
+        "author": "GundaSudarrshan",
+        "category": "website",
+        "level": "basic",
+        "site": "https://github.com/GundaSudarrshan/Clock-Digital",
+        "tags": "Digital-Clock, Clock,  Js, html, css"
+    }
 
 ]

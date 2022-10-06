@@ -238,6 +238,12 @@
         "description": "A web application comprising major days in history including births, deaths, inventions, wars, etc. User can search for days, events or persons using an API.",
         "level": "intermediate",
         "tags": "major-days-in-history, search"
+    },
+    {
+        "title": "Digital_Clock with time formatting",
+        "description": "A Digital Clock with simple design which shows time in 24hr format as well as 12 hr format based on selection type.",
+        "level": "basic",
+        "tags": "clock, time"
     }
 
 ]
