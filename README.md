@@ -21,6 +21,7 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 - Machine Learning
     - [Basic](./docs/MACHINE_LEARNING_BASIC.md)
 - Website
+    - [Advanced](./docs/WEBSITE_ADVANCED.md)
     - [Basic](./docs/WEBSITE_BASIC.md)
     - [Intermediate](./docs/WEBSITE_INTERMEDIATE.md)
 
