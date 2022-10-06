@@ -11,6 +11,8 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 
 ## Categories ✨
 <!--categories:start-->
+- Website
+    - [Intermediate](./docs/WEBSITE_INTERMEDIATE.md)
 - Desktop Application
     - [Basic](./docs/DESKTOP_APPLICATION_BASIC.md)
     - [Intermediate](./docs/DESKTOP_APPLICATION_INTERMEDIATE.md)
