@@ -348,6 +348,15 @@
         "level": "basic",
         "site": "https://ahmedsilat44.github.io/Gallery/",
         "tags": "image-gallery, gallery, Js, html, css"
+    },
+    {
+        "name": "barber-shop",
+        "display": "Barber Shop",
+        "description": "Reservations system made with Vue + Firebase ecosystem (cloud functions, auth, firestore, hosting).",
+        "author": "ibonkonesa",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://barber-shop-53333.web.app",
+        "tags": "vuejs, firebase, html, js, css, barber-shop"
     }
-
 ]
