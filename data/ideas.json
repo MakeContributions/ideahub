@@ -219,7 +219,7 @@
         "title": "Guess the Number",
         "description": "Guess the number between 1 - 20",
         "level": "basic",
-        "tags": "number-guessing, JavaScript, html, css"
+        "tags": "number-guessing"
     }
 
 ]
