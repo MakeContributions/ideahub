@@ -1,5 +1,15 @@
 [
     {
+        "name": "File-protection-system",
+        "display": "File Protection System",
+        "description": "This is a small File Protection System Made using only Java.",
+        "author": "AryanP45",
+        "category": "desktop application",
+        "level": "intermediate",
+        "site": "https://github.com/AryanP45/File-protection-system",
+        "tags": "java, swing, security, file-protection-system"
+    },
+    {
         "name": "markdown-dungeon",
         "display": "Markdown Dungeon",
         "description": "This is an example that how to use Markdown creating a dungeon",
@@ -300,6 +310,16 @@
         "tags": "movies, api, react"
     },
     {
+        "name": "DUCTS",
+        "display": "Dual Use Chemical Tracking System",
+        "description": "This software is designed for the NCB to track the supply chain of chemicals that can be illicitly used from the manufacturer to the end-user.",
+        "author": "Atreay Kukanur",
+        "category": "Website",
+        "level": "intermediate",
+        "site": "https://github.com/ATREAY/DUCTS",
+        "tags": "HTML, CSS, JavaScript, MySql, Solidity, Blockchain"
+    },
+    {
         "name": "Word-guessing-game",
         "display": "Word Guessing Game",
         "description": "A game where you have to guess the words.",
@@ -318,5 +338,16 @@
         "level": "basic",
         "site": "https://techtuner.github.io/Guess-the-Number/",
         "tags": "number-guessing, JavaScript, html, css"
+    },
+    {
+        "name": "Gallery",
+        "display": "Image Gallery",
+        "description": "A Simple Image Gallery with a Modal feature.",
+        "author": "ahmedsilat44",
+        "category": "website",
+        "level": "basic",
+        "site": "https://ahmedsilat44.github.io/Gallery/",
+        "tags": "image-gallery, gallery, Js, html, css"
     }
+
 ]

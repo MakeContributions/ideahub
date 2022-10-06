@@ -1,5 +1,11 @@
 [
     {
+        "title": "File Protection System",
+        "description": "This is a small File Protection System Made using only Java.",
+        "level": "intermediate",
+        "tags": "file-protection-system, security"
+    },
+    {
         "title": "Todo List",
         "description": "It's a todo list.",
         "level": "basic",
@@ -210,6 +216,12 @@
         "tags": "word-guessing-game"
     },
     {
+        "title": "Dual Use Chemical Tracking System",
+        "description": "This software is designed for the NCB to track the supply chain of chemicals that can be illicitly used from the manufacturer to the end-user..",
+        "level": "intermediate",
+        "tags": "DUCTS, HTML, CSS, JavaScript, MySql, Solidity, Blockchain"
+    },
+    {
         "title": "Book Donation App",
         "description": "App for share knowledge by donationg books.",
         "level": "intermediate",
@@ -220,6 +232,12 @@
         "description": "Guess the number between 1 - 20",
         "level": "basic",
         "tags": "number-guessing"
+    },
+    {
+        "title": "Major Days in History",
+        "description": "A web application comprising major days in history including births, deaths, inventions, wars, etc. User can search for days, events or persons using an API.",
+        "level": "intermediate",
+        "tags": "major-days-in-history, search"
     }
 
 ]
