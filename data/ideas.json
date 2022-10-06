@@ -226,6 +226,12 @@
         "description": "App for share knowledge by donationg books.",
         "level": "intermediate",
         "tags": "book-donation"
+    },
+    {
+        "title": "Major Days in History",
+        "description": "A web application comprising major days in history including births, deaths, inventions, wars, etc. User can search for days, events or persons using an API.",
+        "level": "intermediate",
+        "tags": "major-days-in-history, search"
     }
 
 ]
