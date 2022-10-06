@@ -228,6 +228,12 @@
         "tags": "book-donation"
     },
     {
+        "title": "Guess the Number",
+        "description": "Guess the number between 1 - 20",
+        "level": "basic",
+        "tags": "number-guessing"
+    },
+    {
         "title": "Major Days in History",
         "description": "A web application comprising major days in history including births, deaths, inventions, wars, etc. User can search for days, events or persons using an API.",
         "level": "intermediate",
