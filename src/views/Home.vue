@@ -9,6 +9,7 @@
       <v-spacer></v-spacer>
       <v-text-field
         v-model="search"
+        aria-label="Search"
         dense
         dark
         flat
@@ -75,7 +76,7 @@
                         icon
                         v-if="isIdeas"
                         :disabled="item.exampleCount < 1"
-                        :to="`/Projects/${item.tags[0]}`"
+                        :to="`/projects/${item.tags[0]}`"
                       >
                         <v-badge
                           overlap
@@ -84,6 +85,9 @@
                         >
                           <v-icon>mdi-code-tags</v-icon>
                         </v-badge>
+                        <span class="d-sr-only"
+                          >Search Projects for {{ item.tags[0] }}</span
+                        >
                       </v-btn>
                       <v-btn
                         icon
@@ -92,6 +96,7 @@
                         target="__blank"
                       >
                         <v-icon>mdi-github</v-icon>
+                        <span class="d-sr-only">View on Github</span>
                       </v-btn>
                     </v-card-actions>
                   </v-card>
