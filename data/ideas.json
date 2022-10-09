@@ -244,5 +244,11 @@
         "description": "Barber shop (adaptable) reservations system ",
         "level": "intermediate",
         "tags": "barber-shop"
+    },
+    {
+        "title": "Personal Portfolio",
+        "description": "A web site that describes yours professional experiences, hard and soft skills, contact information and a personal description.",
+        "level": "basic",
+        "tags": "personal-portfolio"
     }
 ]
