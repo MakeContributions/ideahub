@@ -278,7 +278,7 @@
         "level": "intermediate",
         "site": "https://github.com/deesclouds/true-crime-api",
         "tags": "api, true-crime, web application, fullstack, full-stack, fiction, tv, show, only, murders, in, building, database, mongodb, node.js, javascript, react, html, css, netlify, markdown, scraping, express, cors"
-    },   
+    },
     {
         "name": "FNDetectoApp",
         "display": "Fake news detection",
@@ -368,5 +368,15 @@
         "level": "intermediate",
         "site": "https://barber-shop-53333.web.app",
         "tags": "vuejs, firebase, html, js, css, barber-shop"
+    },
+    {
+        "name": "Digital Farkle",
+        "display": "Farkle",
+        "description": "Farkle is a dice game very similar to Yahtzee, but not as complex. Simple UI where players roll dice to hit specified point values",
+        "author": "MonkeyToji",
+        "category": "game",
+        "level": "intermediate",
+        "site": "https://github.com/MonkeyToji/DigitalFarkle",
+        "tags": "python, game"
     }
 ]
