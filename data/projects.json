@@ -368,5 +368,15 @@
         "level": "intermediate",
         "site": "https://barber-shop-53333.web.app",
         "tags": "vuejs, firebase, html, js, css, barber-shop"
+    },
+    {
+        "name": "movie-quote-generator",
+        "display": "Random Movie Quote Genrator",
+        "description": "A web app that generates random movie quotes.",
+        "author": "kamiri-charles",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://kamiri-charles.github.io/movie-quote-generator/",
+        "tags": "react, quote-generator, html, css, javascript"
     }
 ]
