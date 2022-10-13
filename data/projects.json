@@ -368,5 +368,15 @@
         "level": "intermediate",
         "site": "https://barber-shop-53333.web.app",
         "tags": "vuejs, firebase, html, js, css, barber-shop"
+    },
+    {
+        "name": "copia-backups",
+        "display": "Copia backups",
+        "description": "A script for creating backups of multiple folders/files into multiple destinations.",
+        "author": "lmponcio",
+        "category": "script",
+        "level": "intermediate",
+        "site": "https://github.com/lmponcio/copia-backups",
+        "tags": "python, backups, scripting"
     }
 ]
