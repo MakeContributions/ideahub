@@ -244,5 +244,11 @@
         "description": "Barber shop (adaptable) reservations system ",
         "level": "intermediate",
         "tags": "barber-shop"
+    },
+    {
+        "title": "Copia Backups",
+        "description": "Script for creating backups",
+        "level": "intermediate",
+        "tags": "copia-backups"
     }
 ]
