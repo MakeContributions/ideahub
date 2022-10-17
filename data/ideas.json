@@ -250,5 +250,11 @@
         "description": "Script for creating backups",
         "level": "intermediate",
         "tags": "copia-backups"
+    },
+    {
+        "title": "Movie Quote Generator",
+        "description": "A website that generates random movie quotes",
+        "level": "beginner",
+        "tags": "quote-generator"
     }
 ]
