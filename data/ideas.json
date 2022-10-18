@@ -250,5 +250,11 @@
         "description": "Script for creating backups",
         "level": "intermediate",
         "tags": "copia-backups"
+    },
+    {
+        "title": "reminder-alert",
+        "description": "remind about activities to do in specific interval",
+        "level": "intermediate",
+        "tags": "alarm, notifier, reminder, todo"
     }
 ]
