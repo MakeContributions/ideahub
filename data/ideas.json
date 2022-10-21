@@ -248,7 +248,7 @@
     {
         "title": "Movie Quote Generator",
         "description": "A web app that generates random movie quotes",
-        "level": "beginner",
+        "level": "intermediate",
         "tags": "quote-generator"
     },
     {
