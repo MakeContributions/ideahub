@@ -378,5 +378,15 @@
         "level": "intermediate",
         "site": "https://kamiri-charles.github.io/movie-quote-generator/",
         "tags": "react, quote-generator, html, css, javascript"
+    },
+    {
+        "name": "copia-backups",
+        "display": "Copia backups",
+        "description": "A script for creating backups of multiple folders/files into multiple destinations.",
+        "author": "lmponcio",
+        "category": "script",
+        "level": "intermediate",
+        "site": "https://github.com/lmponcio/copia-backups",
+        "tags": "python, copia-backups, scripting"
     }
 ]

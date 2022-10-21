@@ -250,5 +250,11 @@
         "description": "A web app that generates random movie quotes",
         "level": "beginner",
         "tags": "quote-generator"
+    },
+    {
+        "title": "Copia Backups",
+        "description": "Script for creating backups",
+        "level": "intermediate",
+        "tags": "copia-backups"
     }
 ]
