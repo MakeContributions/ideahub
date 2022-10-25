@@ -246,6 +246,12 @@
         "tags": "barber-shop"
     },
     {
+        "title": "Movie Quote Generator",
+        "description": "A web app that generates random movie quotes",
+        "level": "intermediate",
+        "tags": "quote-generator"
+    },
+    {
         "title": "Copia Backups",
         "description": "Script for creating backups",
         "level": "intermediate",
