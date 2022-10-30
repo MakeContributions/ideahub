@@ -388,5 +388,15 @@
         "level": "intermediate",
         "site": "https://github.com/lmponcio/copia-backups",
         "tags": "python, copia-backups, scripting"
+    },
+    {
+        "name": "reminder",
+        "display": "reminder-alert",
+        "description": "alerts in intervals to do specific tasks",
+        "author": "cutex-boi",
+        "category": "console app",
+        "level": "intermediate",
+        "site": "private repo",
+        "tags": "alarm, reminder, alert, notifier"
     }
 ]
