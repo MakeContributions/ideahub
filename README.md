@@ -68,7 +68,7 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 |author         | Your github's username                                            |
 |category       | Project category, ex: game, iot, ml, ai, console app, or website  |
 |level          | The difficulty of the project, ex: basic, intermediate, advanced  |
-|site           | Website URL; Leave an emtpy string if unavailable                 |
+|site           | Website URL; Leave an empty string if unavailable                 |
 |tags           | Project tags                                                      |
 
 #### Idea structure 
