@@ -388,5 +388,15 @@
         "level": "intermediate",
         "site": "https://github.com/lmponcio/copia-backups",
         "tags": "python, copia-backups, scripting"
+    },
+    {
+        "name": "tcp server and client in python",
+        "display": "TCP server and client in Python",
+        "description": "Script for creating a TCP server and a TCP client in Python",
+        "author": "deadex-ng",
+        "category": "script",
+        "level": "intermediate",
+        "site": "https://gist.github.com/deadex-ng/3ddafdb61f247d9acd7859f14350c0f2",
+        "tags": "python, networking, scripting"
     }
 ]
