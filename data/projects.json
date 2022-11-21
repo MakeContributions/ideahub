@@ -388,5 +388,15 @@
         "level": "intermediate",
         "site": "https://github.com/lmponcio/copia-backups",
         "tags": "python, copia-backups, scripting"
+    },
+    {
+        "name": "connect-four",
+        "display": "Connect Four",
+        "description": "A two player game where each player try to connect four blocks to win",
+        "author": "aeesha1",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://github.com/aeesha1/connect-four",
+        "tags": "javascript, html, css, game, connect-four"
     }
 ]
