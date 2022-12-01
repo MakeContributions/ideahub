@@ -262,5 +262,11 @@
         "description": "a web to consume waze api to improve another apps",
         "level": "intermediate",
         "tags": "Api-GPS"
+    },
+    {
+        "title": "Connect Four",
+        "description": "A two player game where each player try to connect four blocks to win",
+        "level": "intermediate",
+        "tags": "javascript game, connect-four"
     }
 ]
