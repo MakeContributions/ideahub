@@ -262,5 +262,11 @@
         "description": "a web to consume waze api to improve another apps",
         "level": "intermediate",
         "tags": "Api-GPS"
+    },
+    {
+        "title": "Basic Kanban Board",
+        "description": "A Web app that is a kanban board with drag-and-drop card functionality",
+        "level": "intermediate",
+        "tags": "databases, drag-and-drop"
     }
 ]
