@@ -10,6 +10,17 @@
         "tags": "java, swing, security, file-protection-system"
     },
     {
+
+     
+        "name": "Money-Registry-management-app",
+        "display": "Money Registry App",
+        "author": "sidharthviz",
+        "category": "web app",
+        "level": "intermediate",
+        "site": "https://github.com/sidharthviz/Cash-Registry-App",
+        "tags": "javascript, css, html"
+    },
+    {
         "name": "markdown-dungeon",
         "display": "Markdown Dungeon",
         "description": "This is an example that how to use Markdown creating a dungeon",

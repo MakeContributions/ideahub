@@ -6,6 +6,12 @@
         "tags": "file-protection-system, security"
     },
     {
+      "title": "Coding game",
+      "description": "A fun game app where people can learn coding in a diffrent way",
+      "level": "intermediate",
+      "tags": "game, coding" 
+    },
+    {
         "title": "Todo List",
         "description": "It's a todo list.",
         "level": "basic",
