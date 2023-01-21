@@ -264,8 +264,8 @@
         "tags": "Api-GPS"
     },
     {
-        "title": "Suduko Multiplayer Game ",
-        "description": "A suduko game where players take rounds to play, each with a timer, number of good moves, bad moves and no move points.",
+        "title": "Sudoku Multiplayer Game ",
+        "description": "A sudoku game where players take rounds to play, each with a timer, number of good moves, bad moves and no move points.",
         "level": "intermediate",
         "tags": "game"
     }
