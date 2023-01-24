@@ -7,12 +7,10 @@
 [![Discord](https://img.shields.io/discord/863049619734790185?color=7389D8&logo=discord&logoColor=ffffff&label=&labelColor=6A7EC2)](https://discord.gg/ydWxdqbTyK)
 
 # IdeaHub
-A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀
+This Repository is a collection of ideas and projects for people of all skill levels. It includes a wide range of projects, from beginner-friendly to advanced projects. Whether you're just starting out or looking to broaden your skillset, you'll find something here to suit your needs. The repository is constantly being updated with new ideas and projects, so be sure to check back frequently for new inspiration and learning opportunities.:octocat: 🎯🚀
 
 ## Categories ✨
 <!--categories:start-->
-- Website
-    - [Intermediate](./docs/WEBSITE_INTERMEDIATE.md)
 - Desktop Application
     - [Basic](./docs/DESKTOP_APPLICATION_BASIC.md)
     - [Intermediate](./docs/DESKTOP_APPLICATION_INTERMEDIATE.md)
