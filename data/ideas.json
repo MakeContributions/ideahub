@@ -262,5 +262,11 @@
         "description": "a web to consume waze api to improve another apps",
         "level": "intermediate",
         "tags": "Api-GPS"
+    },
+    {
+        "title": "NFT Marketplace",
+        "description": "A e-commerce website where celebrities, artists can sell their NFT, this will be powered by blockchain & digital wallets",
+        "level": "intermediate",
+        "tags": "Blockchain, NFT, IMPS, ERC-721, ERC-1155"
     }
 ]
