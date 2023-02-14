@@ -388,5 +388,15 @@
         "level": "intermediate",
         "site": "https://github.com/lmponcio/copia-backups",
         "tags": "python, copia-backups, scripting"
+    },
+    {
+        "name": "morse_code_generator",
+        "display": "Morse Code Generator",
+        "description": "A web app that convert English sentences into morse code in real time.",
+        "author": "iamBijoyKar",
+        "category": "website",
+        "level": "basic",
+        "site": "https://morsecodegenerator-c912e.web.app",
+        "tags": "HTML, CSS, JavaScript, Morse Code"
     }
 ]
