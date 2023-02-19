@@ -18,6 +18,12 @@
         "tags": "snake, game"
     },
     {
+        "title": "Restaurant Scheduler",
+        "description": "Create a restaurant scheduler that keeps track of all the employees scheduled for a given day, it should help keep track of how many customers were served with each server",
+        "level": "intermediate",
+        "tags": "restaurant, schedule, website"
+    },
+    {
         "title": "Tetris",
         "description": "Create a Tetris game! Sure, it has been done a million times, but it's really interesting to try to make it!",
         "level": "intermediate",
