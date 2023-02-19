@@ -388,5 +388,15 @@
         "level": "intermediate",
         "site": "https://github.com/lmponcio/copia-backups",
         "tags": "python, copia-backups, scripting"
+    },
+    {
+        "name": "feedme",
+        "display": "Feed Me - Meal planner",
+        "description": "A Meal Planner based upon recipes attained by the Edemam API to help peple organize their meals according to their dietry habits. Uisng the Tauri framework, with Angular TailwindCSS in frontend and Rust in Backend",
+        "author": "tenkaklet",
+        "category": "desktop application",
+        "level": "intermediate",
+        "site": "https://github.com/Tenkaklet/FeedMe",
+        "tags": "rust, angular, firebase, tauri"
     }
 ]
