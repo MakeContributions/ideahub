@@ -180,6 +180,16 @@
         "tags": "currency-converter"
     },
     {
+        "name": " ImageCaptioning",
+        "display": "Image Captioning",
+        "description": "Website that generates suitable captions from the uploaded image",
+        "author": "ChSatyaSavith",
+        "category": "machine learning",
+        "level": "basic",
+        "site": "",
+        "tags": "flask, html, css, flickr-8k, transfer-learning, machine-learning, python"
+    },
+    {
         "name": "vending-machine",
         "display": "Vending machine",
         "description": "Vending machine using React & TypeScript. You can also add an EmotionJS library instead of using scss",
