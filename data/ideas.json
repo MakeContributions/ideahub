@@ -113,7 +113,7 @@
         "level": "intermediate",
         "tags": "an-efficient-target-tracking-approach, machine-learning"
     },
-     {
+    {
         "title": "Student Attendance Management System",
         "description": "Daily attendance tracking of students",
         "level": "intermediate",
@@ -124,7 +124,7 @@
         "description": "You can send people messages which they receive live.",
         "level": "intermediate",
         "tags": "slack-clone, live-chat-app, web-app"
-    }, 
+    },
     {
         "title": "Telegram Bot ",
         "description": "Making a telegram bot helps to increase api management skills",
@@ -149,7 +149,7 @@
         "level": "basic",
         "tags": "quote-generator, web-app, fun"
     },
-     {
+    {
         "title": "Learn Bafang Application",
         "description": "A web app which will permit people from the Bafang tribe to learn the dialect fluently.",
         "level": "basic",
@@ -172,11 +172,11 @@
         "description": "A web app where you specify the country or city and it gives you the current time.",
         "level": "basic",
         "tags": "clock, date, time"
-    }, 
+    },
     {
         "title": "RGB Slider",
         "description": "A color-generating web app which contains three sliders for Red, Blue and Green colors respectively. On moving the sliders, the background color of the screen will change dynamically according to the RGB values.",
-        "level":"basic",
+        "level": "basic",
         "tags": "rgb-slider, slider, color-generator, dynamic-colors"
     },
     {
@@ -262,5 +262,125 @@
         "description": "a web to consume waze api to improve another apps",
         "level": "intermediate",
         "tags": "Api-GPS"
+    },
+    {
+        "title": "E-commerce Website",
+        "description": "Develop an online platform for buying and selling products.",
+        "level": "Intermediate",
+        "tags": "e-commerce"
+    },
+    {
+        "title": "Weather App",
+        "description": "Create a weather application that provides current weather conditions and forecasts.",
+        "level": "Beginner",
+        "tags": "weather"
+    },
+    {
+        "title": "Recipe Sharing Platform",
+        "description": "Build a website where users can share and discover new recipes.",
+        "level": "Intermediate",
+        "tags": "recipe"
+    },
+    {
+        "title": "Fitness Tracker",
+        "description": "Develop a mobile app that allows users to track their fitness activities and progress.",
+        "level": "Intermediate",
+        "tags": "fitness"
+    },
+    {
+        "title": "Online Learning Platform",
+        "description": "Create a platform for online courses, where users can access educational materials and participate in interactive lessons.",
+        "level": "Advanced",
+        "tags": "education"
+    },
+    {
+        "title": "Social Media Analytics Dashboard",
+        "description": "Build a dashboard that provides insights and analytics for social media platforms like Facebook, Twitter, and Instagram.",
+        "level": "Advanced",
+        "tags": "social media"
+    },
+    {
+        "title": "Job Portal",
+        "description": "Develop a website where employers can post job vacancies and job seekers can search and apply for jobs.",
+        "level": "Intermediate",
+        "tags": "job portal"
+    },
+    {
+        "title": "Task Management App",
+        "description": "Create a mobile app that helps users organize and manage their tasks and to-do lists.",
+        "level": "Beginner",
+        "tags": "task management"
+    },
+    {
+        "title": "Online Auction System",
+        "description": "Build a platform for conducting online auctions, where users can bid on items and make purchases.",
+        "level": "Advanced",
+        "tags": "auction"
+    },
+    {
+        "title": "Music Streaming Service",
+        "description": "Develop a music streaming platform where users can listen to and discover new music.",
+        "level": "Intermediate",
+        "tags": "music"
+    },
+    {
+        "title": "Language Learning App",
+        "description": "Create a mobile app that helps users learn new languages through interactive lessons and exercises.",
+        "level": "Intermediate",
+        "tags": "language learning"
+    },
+    {
+        "title": "Inventory Management System",
+        "description": "Build a system for tracking and managing inventory for businesses, including stock levels, orders, and sales.",
+        "level": "Intermediate",
+        "tags": "inventory"
+    },
+    {
+        "title": "Event Ticketing Platform",
+        "description": "Develop an online platform for selling and purchasing tickets for events such as concerts, sports games, and conferences.",
+        "level": "Intermediate",
+        "tags": "event"
+    },
+    {
+        "title": "Car Rental Service",
+        "description": "Create a website and mobile app for renting cars, allowing users to browse and book vehicles.",
+        "level": "Intermediate",
+        "tags": "car rental"
+    },
+    {
+        "title": "Blogging Platform",
+        "description": "Build a platform for creating and publishing blog posts, with features like user authentication, comments, and tags.",
+        "level": "Beginner",
+        "tags": "blog"
+    },
+    {
+        "title": "Online Marketplace for Handmade Products",
+        "description": "Develop an online marketplace where artisans can sell their handmade products directly to customers.",
+        "level": "Intermediate",
+        "tags": "handmade"
+    },
+    {
+        "title": "Travel Planner",
+        "description": "Create a web application that helps users plan their travel itineraries, including booking flights, accommodations, and activities.",
+        "level": "Intermediate",
+        "tags": "travel"
+    },
+    {
+        "title": "Appointment Scheduling System",
+        "description": "Build a system for scheduling appointments and managing calendars, suitable for businesses like salons, clinics, and consultants.",
+        "level": "Intermediate",
+        "tags": "appointment"
+    },
+    {
+        "title": "Online Banking System",
+        "description": "Develop a secure web and mobile banking platform for managing personal finances, including account balance, transactions, and transfers.",
+        "level": "Advanced",
+        "tags": "banking"
+    },
+    {
+        "title": "Property Rental Marketplace",
+        "description": "Create an online marketplace for renting and listing properties, including apartments, houses, and commercial spaces.",
+        "level": "Intermediate",
+        "tags": "property rental"
     }
 ]
