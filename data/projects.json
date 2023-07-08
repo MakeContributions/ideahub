@@ -388,5 +388,15 @@
         "level": "intermediate",
         "site": "https://github.com/lmponcio/copia-backups",
         "tags": "python, copia-backups, scripting"
+    },
+    {
+        "name":"medicine-dose-tracker",
+        "display": "Medicine Dose Tracker",
+        "description": "A python script tracker to enable a user monitor the dosage intake intervals",
+        "author": "Gab",
+        "category":"website",
+        "level":"intermediate",
+        "site": "",
+        "tags":"python, django, bootsrap5,postgresql,css,html,api"
     }
 ]
