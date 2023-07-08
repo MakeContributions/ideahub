@@ -262,5 +262,12 @@
         "description": "a web to consume waze api to improve another apps",
         "level": "intermediate",
         "tags": "Api-GPS"
+    },
+    {
+        "title":"Medicine Dose Tracker",
+        "description": "A web app to enable a user monitor dosage intake at intervals",
+        "level":"intermediate",
+        "tags":"python, django, postgresql"
+
     }
 ]
