@@ -267,7 +267,7 @@
         "title":"Medicine Dose Tracker",
         "description": "A web app to enable a user monitor dosage intake at intervals",
         "level":"intermediate",
-        "tags":"web app"
+        "tags":"python, django, postgresql"
 
     }
 ]
