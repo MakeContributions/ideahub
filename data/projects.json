@@ -388,5 +388,15 @@
         "level": "intermediate",
         "site": "https://github.com/lmponcio/copia-backups",
         "tags": "python, copia-backups, scripting"
+    },   
+    {
+        "name": "Restaurant_seat_booking",
+        "display": "Restaurant table booking system",
+        "description": "A web application for booking restaurant seats comes with a plethora of features, including user login/logout, forgot/reset password functionalities, restaurant opening options, and an admin panel, among others. Both users and restaurant owners undergo verification via email to ensure security and authenticity.",
+        "author": "RanganDas",
+        "category": "website",
+        "level": "intermediate",
+        "site": "",
+        "tags": "html, css, javascript, php, mysql"
     }
 ]
