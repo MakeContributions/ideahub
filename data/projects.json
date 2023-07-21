@@ -1,392 +1,402 @@
 [
-    {
-        "name": "File-protection-system",
-        "display": "File Protection System",
-        "description": "This is a small File Protection System Made using only Java.",
-        "author": "AryanP45",
-        "category": "desktop application",
-        "level": "intermediate",
-        "site": "https://github.com/AryanP45/File-protection-system",
-        "tags": "java, swing, security, file-protection-system"
-    },
-    {
-        "name": "markdown-dungeon",
-        "display": "Markdown Dungeon",
-        "description": "This is an example that how to use Markdown creating a dungeon",
-        "author": "MakeContributions",
-        "category": "game",
-        "level": "basic",
-        "site": "https://markdown-dungeon.netlify.app/",
-        "tags": "dungeon, markdown-dungeon, gatsby, reactjs"
-    },
-    {
-        "name": "Memoy-Card-Game",
-        "display": "Memoy Card Game",
-        "description": "This is memory card game built with vanilla javascript.",
-        "author": "selharem",
-        "category": "game",
-        "level": "basic",
-        "site": "https://github.com/Selharem/Memoy-Card-Game",
-        "tags": "javascript, css, html"
-    },
-    {
-        "name": "Hotel-Reservation-System",
-        "display": "Hotel Reservation System",
-        "description": "A website for Hotel Reservations using JSP & Servlets",
-        "author": "TawfikYasser",
-        "category": "website",
-        "level": "intermediate",
-        "site": "",
-        "tags": "html, css, jsp, servlets, mysql"
-    },
-    {
-        "name": "eLearning",
-        "display": "eLearning",
-        "description": "It's a simple landing page. Made with Bootstrap 5.",
-        "author": "hasan-naim",
-        "category": "website",
-        "level": "basic",
-        "site": "https://elearning-hasan.netlify.app/",
-        "tags": "e-learning, html, css, bootstrap"
-    },
-    {
-        "name": "Paint-with-UG-The-SEP",
-        "display": "Paint with UG",
-        "description": "This is a Desktop Application in which you can create shape,fill color,change background etc.",
-        "author": "UG-SEP",
-        "category": "desktop application",
-        "level": "intermediate",
-        "site": "",
-        "tags": "c, c++, data-structure"
-    },
-    {
-        "name": "stickies",
-        "display": "Stickies",
-        "description": "Stickies is a TodoList frontend project designed to preview Vue.js and Vuex capabilities. Designed using figma software, Bulma and Buefy.",
-        "author": "franciscoh017",
-        "category": "website",
-        "level": "basic",
-        "site": "https://franciscoh017.github.io/stickies/",
-        "tags": "to-do, vuejs, buefy"
-    },
-    {
-        "name": "UG-Typing-Expert",
-        "display": "UG Typing Expert",
-        "description": "This is a desktop application where you can check your typing speed and increase it and you can also play typing games.",
-        "author": "UG-SEP",
-        "category": "desktop application",
-        "level": "intermediate",
-        "site": "",
-        "tags": "Typing-Game, C-Projects, c++"
-    },
-    {
-        "name": "tic-tac-toe",
-        "display": "Tic Tac Toe",
-        "description": "This is a two player game where 1 player choose 0 and other X and try to win the match according to some rules",
-        "author": "UG-SEP",
-        "category": "game",
-        "level": "basic",
-        "site": "",
-        "tags": "tic-tac-toe, c, game, c++"
-    },
-     {
-        "name": "CodersArena",
-        "display": "Coders Arena",
-        "description": "A (web application) platform to have a coding combat with your friend (30 minutes) with random question from our library and also a platform to create test (MCQ and time based) and also to attend MCQ test.",
-        "author": "fantasy-08",
-        "category": "website",
-        "level": "intermediate",
-        "site": "https://boringcoder.herokuapp.com/",
-        "tags": "react-js, node-js, mongo-db"
-    },
-    {
-        "name": "library_management",
-        "display": "Library Management",
-        "description": "This is a desktop console application which is used to make library work easy i.e. issue book, add book, remove book from library etc.",
-        "author": "UG-SEP",
-        "category": "desktop application",
-        "level": "basic",
-        "site": "",
-        "tags": "library-management, c-projects, console-application, management-projects"
-    },
-    {
-        "name": "franciscoh017.github.io",
-        "display": "franciscoh017 Profile",
-        "description": "My personal website",
-        "author": "franciscoh017",
-        "category": "website",
-        "level": "basic",
-        "site": "https://franciscoh017.github.io",
-        "tags": "personal-website, profile, web"
-    },
-    {
-        "name": "Visualizing-Filters-and-Feature-Maps-in-Convolutional-Neural-Networks-using-PyTorch",
-        "display": "Visualize Filters and Feature maps using PyTorch",
-        "description": "A way to visualize filters and feature maps",
-        "author": "Ashborn-SM",
-        "category": "machine learning",
-        "level": "basic",
-        "site": "",
-        "tags": "feature-maps-and-filter-visualizer, machine-learning, python"
-    },
-    {
-        "name": "TravelYaari-react",
-        "display": "TravelYaari A traveling website",
-        "description": "This project is based on how an effective travel website will make us feel. It is based on a traveling website with fully-featured functions that will activate the traveling bug with vibrant imagery. This website contains highlights of some important places along with high-quality photography and allows people to book their dream destination within their budgets. It also includes full customer support, an easy payment system, book as per your time choice, full virtual tour of place through different videos and images.",
-        "author": "shsarv",
-        "category": "website",
-        "level": "intermediate",
-        "site": "https://travelyaari.herokuapp.com/",
-        "tags": "react-js, node-js, mongo-db, personal-website,web"
-     },
-     {
-        "name": "Queue-Visualizer",
-        "display": "Queue Visualizer",
-        "description": "Queue Visualizer helps you to understand how queue work.",
-        "author": "UG-SEP",
-        "category": "desktop application",
-        "level": "basic",
-        "site": "",
-        "tags": "visualizer-app, c, c++, graphics-project"
-    },
-    {
-        "name": "Car-Zone",
-        "display": "Car Zone",
-        "description": "Car Zone is a desktop app where you have to protect your car from the upcoming enemy car.",
-        "author": "UG-SEP",
-        "category": "desktop application",
-        "level": "basic",
-        "site": "",
-        "tags": "car-game, c, c++, graphics-project"
-    },
-    {
-        "name": "Venessa-My-Personal-Assistant",
-        "display": "Personal Assitant using Python",
-        "description": "It will assist you with simple tasks like sending an email with just on your command and greets you too and can help you search for anything on google , can play music, tell the current time, and so on..",
-        "author": "emily876",
-        "category": "desktop application",
-        "level": "basic",
-        "site": "",
-        "tags": "python-project, personal-assistant, python-assistant"
-    },
-    {
-        "name": "exchangerate-javascript-sdk",
-        "display": "Currency Converter",
-        "description": "Unofficial JavaScript SDK for Exchange rates API",
-        "author": "reliut-g",
-        "category": "website",
-        "level": "basic",
-        "site": "https://reliut-g.github.io/exchangerate-javascript-sdk/",
-        "tags": "currency-converter"
-    },
-    {
-        "name": "vending-machine",
-        "display": "Vending machine",
-        "description": "Vending machine using React & TypeScript. You can also add an EmotionJS library instead of using scss",
-        "author": "krau5",
-        "category": "website",
-        "level": "intermediate",
-        "site": "",
-        "tags": "react, typescript, redux-toolkit"
-    },
-    {
-        "name": "vision-ai",
-        "display": "Vision",
-        "description": "Extract text from an image using a trained AI model",
-        "author": "Angelvicks",
-        "category": "website",
-        "level": "intermediate",
-        "site": "https://github.com/Angelvicks/vision-ai",
-        "tags": "fast-api, react, artificial-intelligence"
-    },
-    {
-        "name": "pokemon-world",
-        "display": "Pokemon Awesome",
-        "description": "Pokémon Awesome is a simple yet rich-featured Pokémon website that is built in order to allow Pokémon lovers to easily explore Pokémon and do many more things. Anyone can use this site to search for Pokémon by name and filter them by generation and type",
-        "author": "afiiif",
-        "category": "website",
-        "level": "advanced",
-        "site": "https://pokemon-awesome.vercel.app/",
-        "tags": "graphql, pokemon, typescript, nextjs, tailwindcss, react-query"
-    },
-    {
-        "name": "poketalog",
-        "display": "Poketalog",
-        "description": "Catalog Pokemon using pokeapi.co",
-        "author": "shonenxnaifu",
-        "category": "website",
-        "level": "intermediate",
-        "site": "https://poketalog.herokuapp.com/",
-        "tags": "pokeapi, pokemon, vue, catalog"
-    },
-    {
-        "name": "libkunci_scraping",
-        "display": "Web Scraper - Kunci",
-        "description": "Web scrapper to get all data from lib.kunci.or.id",
-        "author": "shonenxnaifu",
-        "category": "website",
-        "level": "intermediate",
-        "site": "https://github.com/shonenxnaifu/libkunci_scraping",
-        "tags": "scrapping, puppeteer, nodejs, express"
-    },
-    {
-        "name": "sahilpatel09.github.io",
-        "display": "Dark Themed Personal Portfolio Website with Blog",
-        "description": "A personal portfolio theme with dark navy blue theme. It has a markdown based blog system with tags, powered by Gridsome and power of GraphQl.",
-        "author": "sahilpatel09",
-        "category": "website",
-        "level": "intermediate",
-        "site": "https://sahilpatel09.github.io/",
-        "tags": "vuejs, personal-website, Gridsome, Graphql, markdown, personal-blog"
-    },
-    {
-        "name": "ip-tracker",
-        "display": "IP Tracker built with Vuejs",
-        "description": "A single page app to find the location and other critical information about an IP address.",
-        "author": "sahilpatel09",
-        "category": "website",
-        "level": "intermediate",
-        "site": "https://brave-mirzakhani-8081ab.netlify.app/",
-        "tags": "vuejs, pico css, netlify"
-    },
-    {
-        "name": "hibi-ciento",
-        "display": "Hibi Ciento",
-        "description": "A project to built a website in hundred days using front end and backend supports.",
-        "author": "TenTraicion",
-        "category": "website",
-        "level": "intermediate",
-        "site": "",
-        "tags": "html, css, javascript, node.js, mongodb"
-    },
-    {
-        "name": "Score-Keeper",
-        "display": "Score Keeper",
-        "description": "Score Keeper is a simple game which I have implemented using HTML, CSS and JavaScript.",
-        "author": "vedant-z",
-        "category": "website",
-        "level": "basic",
-        "site": "",
-        "tags": "score-Keeper, HTML, CSS, JAVASCRIPT"
-    },
-    {
-        "name": "true-crime-api",
-        "display": "Crime Fiction API",
-        "description": "An API that provides additional information based on the obsession with a true crime podcast from the mystery-comedy show ... Only Murders in the Building",
-        "author": "deesclouds",
-        "category": "website",
-        "level": "intermediate",
-        "site": "https://github.com/deesclouds/true-crime-api",
-        "tags": "api, true-crime, web application, fullstack, full-stack, fiction, tv, show, only, murders, in, building, database, mongodb, node.js, javascript, react, html, css, netlify, markdown, scraping, express, cors"
-    },   
-    {
-        "name": "FNDetectoApp",
-        "display": "Fake news detection",
-        "description": "Fake news detection web app which detects real or fake news using the machine learning.",
-        "author": "d-coder111",
-        "category": "machine learning",
-        "level": "basic",
-        "site": "",
-        "tags": "python, html, flask, machine-learning, azure-webapp, azure-deployment, github-actions, fake-news-detection"
-    },
-    {
-        "name": "ecommerce-multi-page",
-        "display": "E-Commerce Multi Page",
-        "description": "This project focuses on building an e-commerce site with multiple pages.",
-        "author": "jalexandertech",
-        "category": "website",
-        "level": "intermediate",
-        "site": "https://ecommerce-multi-page.vercel.app/index.html",
-        "tags": "e-commerce, html, css, vercel"
-    },
-    {
-        "name": "clash-of-space",
-        "display": "Clash of Space",
-        "description": "This is a space-craft war and alien shooting game",
-        "author": "Rajspeaks",
-        "category": "game",
-        "level": "basic",
-        "site": "https://rajspeaks.github.io/clash-of-space/",
-        "tags": "game, html, css, javascript, space, clash-of-space"
-    },
-    {
-        "name": "Movie-Mania",
-        "display": "Find Your Favourite Movies",
-        "description": "A Fully Responsive Beautiful Movie Details Web App Made With React.Js and MovieDB API.",
-        "author": "MahendraBishnoi29",
-        "category": "website",
-        "level": "intermediate",
-        "site": "https://movie-mania0.netlify.app/",
-        "tags": "movies, api, react"
-    },
-    {
-        "name": "DUCTS",
-        "display": "Dual Use Chemical Tracking System",
-        "description": "This software is designed for the NCB to track the supply chain of chemicals that can be illicitly used from the manufacturer to the end-user.",
-        "author": "Atreay Kukanur",
-        "category": "Website",
-        "level": "intermediate",
-        "site": "https://github.com/ATREAY/DUCTS",
-        "tags": "HTML, CSS, JavaScript, MySql, Solidity, Blockchain"
-    },
-    {
-        "name": "Word-guessing-game",
-        "display": "Word Guessing Game",
-        "description": "A game where you have to guess the words.",
-        "author": "mukul314",
-        "category": "website",
-        "level": "intermediate",
-        "site": "https://mukul314.github.io/Word-guessing-game/",
-        "tags": "word-guessing-game, Js, html, css"
-    },
-    {
-        "name": "Guess-the-Number",
-        "display": "Guess the number between 1 - 20",
-        "description": "A game where you have to guess a number between 1 to 20.",
-        "author": "techtuner",
-        "category": "website",
-        "level": "basic",
-        "site": "https://techtuner.github.io/Guess-the-Number/",
-        "tags": "number-guessing, JavaScript, html, css"
-    },
-    {
-        "name": "Gallery",
-        "display": "Image Gallery",
-        "description": "A Simple Image Gallery with a Modal feature.",
-        "author": "ahmedsilat44",
-        "category": "website",
-        "level": "basic",
-        "site": "https://ahmedsilat44.github.io/Gallery/",
-        "tags": "image-gallery, gallery, Js, html, css"
-    },
-    {
-        "name": "barber-shop",
-        "display": "Barber Shop",
-        "description": "Reservations system made with Vue + Firebase ecosystem (cloud functions, auth, firestore, hosting).",
-        "author": "ibonkonesa",
-        "category": "website",
-        "level": "intermediate",
-        "site": "https://barber-shop-53333.web.app",
-        "tags": "vuejs, firebase, html, js, css, barber-shop"
-    },
-    {
-        "name": "movie-quote-generator",
-        "display": "Random Movie Quote Genrator",
-        "description": "A web app that generates random movie quotes.",
-        "author": "kamiri-charles",
-        "category": "website",
-        "level": "intermediate",
-        "site": "https://kamiri-charles.github.io/movie-quote-generator/",
-        "tags": "react, quote-generator, html, css, javascript"
-    },
-    {
-        "name": "copia-backups",
-        "display": "Copia backups",
-        "description": "A script for creating backups of multiple folders/files into multiple destinations.",
-        "author": "lmponcio",
-        "category": "script",
-        "level": "intermediate",
-        "site": "https://github.com/lmponcio/copia-backups",
-        "tags": "python, copia-backups, scripting"
-    }
+  {
+    "name": "File-protection-system",
+    "display": "File Protection System",
+    "description": "This is a small File Protection System Made using only Java.",
+    "author": "AryanP45",
+    "category": "desktop application",
+    "level": "intermediate",
+    "site": "https://github.com/AryanP45/File-protection-system",
+    "tags": "java, swing, security, file-protection-system"
+  },
+  {
+    "name": "markdown-dungeon",
+    "display": "Markdown Dungeon",
+    "description": "This is an example that how to use Markdown creating a dungeon",
+    "author": "MakeContributions",
+    "category": "game",
+    "level": "basic",
+    "site": "https://markdown-dungeon.netlify.app/",
+    "tags": "dungeon, markdown-dungeon, gatsby, reactjs"
+  },
+  {
+    "name": "Memoy-Card-Game",
+    "display": "Memoy Card Game",
+    "description": "This is memory card game built with vanilla javascript.",
+    "author": "selharem",
+    "category": "game",
+    "level": "basic",
+    "site": "https://github.com/Selharem/Memoy-Card-Game",
+    "tags": "javascript, css, html"
+  },
+  {
+    "name": "Hotel-Reservation-System",
+    "display": "Hotel Reservation System",
+    "description": "A website for Hotel Reservations using JSP & Servlets",
+    "author": "TawfikYasser",
+    "category": "website",
+    "level": "intermediate",
+    "site": "",
+    "tags": "html, css, jsp, servlets, mysql"
+  },
+  {
+    "name": "eLearning",
+    "display": "eLearning",
+    "description": "It's a simple landing page. Made with Bootstrap 5.",
+    "author": "hasan-naim",
+    "category": "website",
+    "level": "basic",
+    "site": "https://elearning-hasan.netlify.app/",
+    "tags": "e-learning, html, css, bootstrap"
+  },
+  {
+    "name": "Paint-with-UG-The-SEP",
+    "display": "Paint with UG",
+    "description": "This is a Desktop Application in which you can create shape,fill color,change background etc.",
+    "author": "UG-SEP",
+    "category": "desktop application",
+    "level": "intermediate",
+    "site": "",
+    "tags": "c, c++, data-structure"
+  },
+  {
+    "name": "stickies",
+    "display": "Stickies",
+    "description": "Stickies is a TodoList frontend project designed to preview Vue.js and Vuex capabilities. Designed using figma software, Bulma and Buefy.",
+    "author": "franciscoh017",
+    "category": "website",
+    "level": "basic",
+    "site": "https://franciscoh017.github.io/stickies/",
+    "tags": "to-do, vuejs, buefy"
+  },
+  {
+    "name": "UG-Typing-Expert",
+    "display": "UG Typing Expert",
+    "description": "This is a desktop application where you can check your typing speed and increase it and you can also play typing games.",
+    "author": "UG-SEP",
+    "category": "desktop application",
+    "level": "intermediate",
+    "site": "",
+    "tags": "Typing-Game, C-Projects, c++"
+  },
+  {
+    "name": "tic-tac-toe",
+    "display": "Tic Tac Toe",
+    "description": "This is a two player game where 1 player choose 0 and other X and try to win the match according to some rules",
+    "author": "UG-SEP",
+    "category": "game",
+    "level": "basic",
+    "site": "",
+    "tags": "tic-tac-toe, c, game, c++"
+  },
+  {
+    "name": "CodersArena",
+    "display": "Coders Arena",
+    "description": "A (web application) platform to have a coding combat with your friend (30 minutes) with random question from our library and also a platform to create test (MCQ and time based) and also to attend MCQ test.",
+    "author": "fantasy-08",
+    "category": "website",
+    "level": "intermediate",
+    "site": "https://boringcoder.herokuapp.com/",
+    "tags": "react-js, node-js, mongo-db"
+  },
+  {
+    "name": "library_management",
+    "display": "Library Management",
+    "description": "This is a desktop console application which is used to make library work easy i.e. issue book, add book, remove book from library etc.",
+    "author": "UG-SEP",
+    "category": "desktop application",
+    "level": "basic",
+    "site": "",
+    "tags": "library-management, c-projects, console-application, management-projects"
+  },
+  {
+    "name": "franciscoh017.github.io",
+    "display": "franciscoh017 Profile",
+    "description": "My personal website",
+    "author": "franciscoh017",
+    "category": "website",
+    "level": "basic",
+    "site": "https://franciscoh017.github.io",
+    "tags": "personal-website, profile, web"
+  },
+  {
+    "name": "Visualizing-Filters-and-Feature-Maps-in-Convolutional-Neural-Networks-using-PyTorch",
+    "display": "Visualize Filters and Feature maps using PyTorch",
+    "description": "A way to visualize filters and feature maps",
+    "author": "Ashborn-SM",
+    "category": "machine learning",
+    "level": "basic",
+    "site": "",
+    "tags": "feature-maps-and-filter-visualizer, machine-learning, python"
+  },
+  {
+    "name": "TravelYaari-react",
+    "display": "TravelYaari A traveling website",
+    "description": "This project is based on how an effective travel website will make us feel. It is based on a traveling website with fully-featured functions that will activate the traveling bug with vibrant imagery. This website contains highlights of some important places along with high-quality photography and allows people to book their dream destination within their budgets. It also includes full customer support, an easy payment system, book as per your time choice, full virtual tour of place through different videos and images.",
+    "author": "shsarv",
+    "category": "website",
+    "level": "intermediate",
+    "site": "https://travelyaari.herokuapp.com/",
+    "tags": "react-js, node-js, mongo-db, personal-website,web"
+  },
+  {
+    "name": "Queue-Visualizer",
+    "display": "Queue Visualizer",
+    "description": "Queue Visualizer helps you to understand how queue work.",
+    "author": "UG-SEP",
+    "category": "desktop application",
+    "level": "basic",
+    "site": "",
+    "tags": "visualizer-app, c, c++, graphics-project"
+  },
+  {
+    "name": "Car-Zone",
+    "display": "Car Zone",
+    "description": "Car Zone is a desktop app where you have to protect your car from the upcoming enemy car.",
+    "author": "UG-SEP",
+    "category": "desktop application",
+    "level": "basic",
+    "site": "",
+    "tags": "car-game, c, c++, graphics-project"
+  },
+  {
+    "name": "Venessa-My-Personal-Assistant",
+    "display": "Personal Assitant using Python",
+    "description": "It will assist you with simple tasks like sending an email with just on your command and greets you too and can help you search for anything on google , can play music, tell the current time, and so on..",
+    "author": "emily876",
+    "category": "desktop application",
+    "level": "basic",
+    "site": "",
+    "tags": "python-project, personal-assistant, python-assistant"
+  },
+  {
+    "name": "exchangerate-javascript-sdk",
+    "display": "Currency Converter",
+    "description": "Unofficial JavaScript SDK for Exchange rates API",
+    "author": "reliut-g",
+    "category": "website",
+    "level": "basic",
+    "site": "https://reliut-g.github.io/exchangerate-javascript-sdk/",
+    "tags": "currency-converter"
+  },
+  {
+    "name": "vending-machine",
+    "display": "Vending machine",
+    "description": "Vending machine using React & TypeScript. You can also add an EmotionJS library instead of using scss",
+    "author": "krau5",
+    "category": "website",
+    "level": "intermediate",
+    "site": "",
+    "tags": "react, typescript, redux-toolkit"
+  },
+  {
+    "name": "vision-ai",
+    "display": "Vision",
+    "description": "Extract text from an image using a trained AI model",
+    "author": "Angelvicks",
+    "category": "website",
+    "level": "intermediate",
+    "site": "https://github.com/Angelvicks/vision-ai",
+    "tags": "fast-api, react, artificial-intelligence"
+  },
+  {
+    "name": "pokemon-world",
+    "display": "Pokemon Awesome",
+    "description": "Pokémon Awesome is a simple yet rich-featured Pokémon website that is built in order to allow Pokémon lovers to easily explore Pokémon and do many more things. Anyone can use this site to search for Pokémon by name and filter them by generation and type",
+    "author": "afiiif",
+    "category": "website",
+    "level": "advanced",
+    "site": "https://pokemon-awesome.vercel.app/",
+    "tags": "graphql, pokemon, typescript, nextjs, tailwindcss, react-query"
+  },
+  {
+    "name": "poketalog",
+    "display": "Poketalog",
+    "description": "Catalog Pokemon using pokeapi.co",
+    "author": "shonenxnaifu",
+    "category": "website",
+    "level": "intermediate",
+    "site": "https://poketalog.herokuapp.com/",
+    "tags": "pokeapi, pokemon, vue, catalog"
+  },
+  {
+    "name": "libkunci_scraping",
+    "display": "Web Scraper - Kunci",
+    "description": "Web scrapper to get all data from lib.kunci.or.id",
+    "author": "shonenxnaifu",
+    "category": "website",
+    "level": "intermediate",
+    "site": "https://github.com/shonenxnaifu/libkunci_scraping",
+    "tags": "scrapping, puppeteer, nodejs, express"
+  },
+  {
+    "name": "sahilpatel09.github.io",
+    "display": "Dark Themed Personal Portfolio Website with Blog",
+    "description": "A personal portfolio theme with dark navy blue theme. It has a markdown based blog system with tags, powered by Gridsome and power of GraphQl.",
+    "author": "sahilpatel09",
+    "category": "website",
+    "level": "intermediate",
+    "site": "https://sahilpatel09.github.io/",
+    "tags": "vuejs, personal-website, Gridsome, Graphql, markdown, personal-blog"
+  },
+  {
+    "name": "ip-tracker",
+    "display": "IP Tracker built with Vuejs",
+    "description": "A single page app to find the location and other critical information about an IP address.",
+    "author": "sahilpatel09",
+    "category": "website",
+    "level": "intermediate",
+    "site": "https://brave-mirzakhani-8081ab.netlify.app/",
+    "tags": "vuejs, pico css, netlify"
+  },
+  {
+    "name": "hibi-ciento",
+    "display": "Hibi Ciento",
+    "description": "A project to built a website in hundred days using front end and backend supports.",
+    "author": "TenTraicion",
+    "category": "website",
+    "level": "intermediate",
+    "site": "",
+    "tags": "html, css, javascript, node.js, mongodb"
+  },
+  {
+    "name": "Score-Keeper",
+    "display": "Score Keeper",
+    "description": "Score Keeper is a simple game which I have implemented using HTML, CSS and JavaScript.",
+    "author": "vedant-z",
+    "category": "website",
+    "level": "basic",
+    "site": "",
+    "tags": "score-Keeper, HTML, CSS, JAVASCRIPT"
+  },
+  {
+    "name": "true-crime-api",
+    "display": "Crime Fiction API",
+    "description": "An API that provides additional information based on the obsession with a true crime podcast from the mystery-comedy show ... Only Murders in the Building",
+    "author": "deesclouds",
+    "category": "website",
+    "level": "intermediate",
+    "site": "https://github.com/deesclouds/true-crime-api",
+    "tags": "api, true-crime, web application, fullstack, full-stack, fiction, tv, show, only, murders, in, building, database, mongodb, node.js, javascript, react, html, css, netlify, markdown, scraping, express, cors"
+  },
+  {
+    "name": "FNDetectoApp",
+    "display": "Fake news detection",
+    "description": "Fake news detection web app which detects real or fake news using the machine learning.",
+    "author": "d-coder111",
+    "category": "machine learning",
+    "level": "basic",
+    "site": "",
+    "tags": "python, html, flask, machine-learning, azure-webapp, azure-deployment, github-actions, fake-news-detection"
+  },
+  {
+    "name": "ecommerce-multi-page",
+    "display": "E-Commerce Multi Page",
+    "description": "This project focuses on building an e-commerce site with multiple pages.",
+    "author": "jalexandertech",
+    "category": "website",
+    "level": "intermediate",
+    "site": "https://ecommerce-multi-page.vercel.app/index.html",
+    "tags": "e-commerce, html, css, vercel"
+  },
+  {
+    "name": "clash-of-space",
+    "display": "Clash of Space",
+    "description": "This is a space-craft war and alien shooting game",
+    "author": "Rajspeaks",
+    "category": "game",
+    "level": "basic",
+    "site": "https://rajspeaks.github.io/clash-of-space/",
+    "tags": "game, html, css, javascript, space, clash-of-space"
+  },
+  {
+    "name": "Movie-Mania",
+    "display": "Find Your Favourite Movies",
+    "description": "A Fully Responsive Beautiful Movie Details Web App Made With React.Js and MovieDB API.",
+    "author": "MahendraBishnoi29",
+    "category": "website",
+    "level": "intermediate",
+    "site": "https://movie-mania0.netlify.app/",
+    "tags": "movies, api, react"
+  },
+  {
+    "name": "DUCTS",
+    "display": "Dual Use Chemical Tracking System",
+    "description": "This software is designed for the NCB to track the supply chain of chemicals that can be illicitly used from the manufacturer to the end-user.",
+    "author": "Atreay Kukanur",
+    "category": "Website",
+    "level": "intermediate",
+    "site": "https://github.com/ATREAY/DUCTS",
+    "tags": "HTML, CSS, JavaScript, MySql, Solidity, Blockchain"
+  },
+  {
+    "name": "Word-guessing-game",
+    "display": "Word Guessing Game",
+    "description": "A game where you have to guess the words.",
+    "author": "mukul314",
+    "category": "website",
+    "level": "intermediate",
+    "site": "https://mukul314.github.io/Word-guessing-game/",
+    "tags": "word-guessing-game, Js, html, css"
+  },
+  {
+    "name": "Guess-the-Number",
+    "display": "Guess the number between 1 - 20",
+    "description": "A game where you have to guess a number between 1 to 20.",
+    "author": "techtuner",
+    "category": "website",
+    "level": "basic",
+    "site": "https://techtuner.github.io/Guess-the-Number/",
+    "tags": "number-guessing, JavaScript, html, css"
+  },
+  {
+    "name": "Gallery",
+    "display": "Image Gallery",
+    "description": "A Simple Image Gallery with a Modal feature.",
+    "author": "ahmedsilat44",
+    "category": "website",
+    "level": "basic",
+    "site": "https://ahmedsilat44.github.io/Gallery/",
+    "tags": "image-gallery, gallery, Js, html, css"
+  },
+  {
+    "name": "barber-shop",
+    "display": "Barber Shop",
+    "description": "Reservations system made with Vue + Firebase ecosystem (cloud functions, auth, firestore, hosting).",
+    "author": "ibonkonesa",
+    "category": "website",
+    "level": "intermediate",
+    "site": "https://barber-shop-53333.web.app",
+    "tags": "vuejs, firebase, html, js, css, barber-shop"
+  },
+  {
+    "name": "movie-quote-generator",
+    "display": "Random Movie Quote Genrator",
+    "description": "A web app that generates random movie quotes.",
+    "author": "kamiri-charles",
+    "category": "website",
+    "level": "intermediate",
+    "site": "https://kamiri-charles.github.io/movie-quote-generator/",
+    "tags": "react, quote-generator, html, css, javascript"
+  },
+  {
+    "name": "copia-backups",
+    "display": "Copia backups",
+    "description": "A script for creating backups of multiple folders/files into multiple destinations.",
+    "author": "lmponcio",
+    "category": "script",
+    "level": "intermediate",
+    "site": "https://github.com/lmponcio/copia-backups",
+    "tags": "python, copia-backups, scripting"
+  },
+  {
+    "name": "pointer-visualizer",
+    "display": "Pointer Visualizer",
+    "description": "A website for visualizing pointers and understanding how they work.",
+    "author": "tanmay-sketch",
+    "category": "website",
+    "level": "intermediate",
+    "site": "",
+    "tags": "pointer-viz, c, c++, website"
+  }
 ]
