@@ -262,5 +262,11 @@
         "description": "a web to consume waze api to improve another apps",
         "level": "intermediate",
         "tags": "Api-GPS"
-    }
+    },
+    {
+        "title": "Medistop (one stop for all medineeds)",
+        "description": "A platform where all the medical related facilities are avalilable",
+        "level": "intermediate",
+        "tags": "Healthcare, startup"
+    },
 ]
