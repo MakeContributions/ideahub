@@ -262,5 +262,11 @@
         "description": "a web to consume waze api to improve another apps",
         "level": "intermediate",
         "tags": "Api-GPS"
+    }, 
+    {
+        "title": "Farming game",
+        "description": "Create a game where ground can be tilled : crops can be planted, watered, grow as the days progress, can be harvested and sold ",
+        "level": "basic",
+        "tags": "Farming game, game,"
     }
 ]
