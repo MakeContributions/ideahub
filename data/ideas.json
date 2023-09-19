@@ -262,5 +262,11 @@
         "description": "a web to consume waze api to improve another apps",
         "level": "intermediate",
         "tags": "Api-GPS"
+    },
+    {
+        "title": "Video Steganography",
+        "description": "A platform where text,image and video encrypt and send to the server",
+        "level": "intermediate",
+        "tags": "Video Steganography"
     }
 ]
