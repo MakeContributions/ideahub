@@ -388,5 +388,15 @@
         "level": "intermediate",
         "site": "https://github.com/lmponcio/copia-backups",
         "tags": "python, copia-backups, scripting"
+    },
+    {
+        "name": "Video Steganography",
+        "display": "Video Steganography",
+        "description": "A platform where text,image and video encrypt and send to the server",
+        "author": "Bhakti12",
+        "category": "machine learning",
+        "level": "intermediate",
+        "site": "In progress",
+        "tags": "python, Machine Learning"
     }
 ]
