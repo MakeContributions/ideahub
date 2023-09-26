@@ -388,5 +388,15 @@
         "level": "intermediate",
         "site": "https://github.com/lmponcio/copia-backups",
         "tags": "python, copia-backups, scripting"
+    },
+    {
+        "name": "generate-random-number",
+        "display": "Random number Genrator",
+        "description": "UI disign of a web app that generates random number in a range.",
+        "author": "tehila1111",
+        "category": "website",
+        "level": "basic",
+        "site": "https://generate-number.onrender.com",
+        "tags": "random, react, css"
     }
 ]

@@ -262,5 +262,11 @@
         "description": "a web to consume waze api to improve another apps",
         "level": "intermediate",
         "tags": "Api-GPS"
+    },
+    {
+        "title": "generate-random-number",
+        "description": "UI disign of a web app that generates random number in a range.",
+        "level": "basic",
+        "tags": "generate-random-number"
     }
 ]
