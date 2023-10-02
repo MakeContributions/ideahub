@@ -262,5 +262,11 @@
         "description": "a web to consume waze api to improve another apps",
         "level": "intermediate",
         "tags": "Api-GPS"
+    },
+    {
+        "title": "Chrome Theme Extension",
+        "description": "Build your own customized chrome theme extension",
+        "level": "intermediate",
+        "tags": "chrome-theme-extension"
     }
 ]
