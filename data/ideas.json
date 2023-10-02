@@ -18,6 +18,12 @@
         "tags": "snake, game"
     },
     {
+        "title": "Travels and Stories",
+        "description": "A fully functional social-media website, can be used by travel enthusiasts to share their amazing travel experiences to the most wonderful places in this World!",
+        "level": "intermediate",
+        "tags": "travels, stories, journey, MERN, social-media"
+    },
+    {
         "title": "Tetris",
         "description": "Create a Tetris game! Sure, it has been done a million times, but it's really interesting to try to make it!",
         "level": "intermediate",
