@@ -388,5 +388,16 @@
         "level": "intermediate",
         "site": "https://github.com/lmponcio/copia-backups",
         "tags": "python, copia-backups, scripting"
+    },
+    {
+        "name": "CryptoBot",
+        "display": "CryptoBot - Automated Cryptocurrency Trading Bot",
+        "description": "CryptoBot is an advanced automated cryptocurrency trading bot that allows users to trade cryptocurrencies on various exchanges without manual intervention. It leverages machine learning and algorithmic trading strategies to make informed trading decisions. Users can set their trading preferences, risk tolerance, and target cryptocurrencies, and CryptoBot will execute trades based on market analysis and real-time data. It includes features like portfolio tracking, risk management, and backtesting to optimize trading strategies. CryptoBot can be integrated with multiple cryptocurrency exchanges through APIs and provides a user-friendly web interface.",
+        "author": "JhonKing",
+        "category": "cryptocurrency",
+        "level": "advanced",
+        "site": "https://cryptobot-trading.com/",
+        "tags": "cryptocurrency, trading bot, machine learning, algorithmic trading, API integration"
     }
+    
 ]

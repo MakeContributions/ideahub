@@ -262,5 +262,12 @@
         "description": "a web to consume waze api to improve another apps",
         "level": "intermediate",
         "tags": "Api-GPS"
+    },
+    {
+        "title": "MusicGenius",
+        "description": "MusicGenius is an AI-powered music composition tool for musicians and composers. It leverages deep learning and natural language processing to help users generate original music compositions. Musicians can provide input in the form of lyrics, mood, and musical genre, and MusicGenius will create unique musical compositions that match the provided criteria. Users can fine-tune and customize the generated music before downloading it. This project is suitable for those with an intermediate level of programming and AI knowledge.",
+        "level": "intermediate",
+        "tags": "music, AI, composition, deep learning, NLP"
     }
+    
 ]
