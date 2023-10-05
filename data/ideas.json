@@ -124,7 +124,7 @@
         "description": "You can send people messages which they receive live.",
         "level": "intermediate",
         "tags": "slack-clone, live-chat-app, web-app"
-    }, 
+    },
     {
         "title": "Telegram Bot ",
         "description": "Making a telegram bot helps to increase api management skills",
@@ -172,7 +172,7 @@
         "description": "A web app where you specify the country or city and it gives you the current time.",
         "level": "basic",
         "tags": "clock, date, time"
-    }, 
+    },
     {
         "title": "RGB Slider",
         "description": "A color-generating web app which contains three sliders for Red, Blue and Green colors respectively. On moving the sliders, the background color of the screen will change dynamically according to the RGB values.",
@@ -202,6 +202,12 @@
         "description": "This is space-craft and alien shooting game where a player can earn points based on how many alien spacecrafts the player can destroy and the player has to protect his/her spaceship from the aliens to save the health level.",
         "level": "basic",
         "tags": "clash-of-space, game, space-war, alien-shooting, action"
+    },
+    {
+        "title":"AstroWeather Explorer",
+        "description":"This AR website allows you to explore the cosmos by getting real-time view from your location. Integrated with a Weather API, this website will show which stars, constellations and planets are visible from where you are!",
+        "level":"advanced",
+        "tags":"stargazing, space, stars, api, weather, ar"
     },
     {
         "title": "Book App",
