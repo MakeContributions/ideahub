@@ -262,5 +262,11 @@
         "description": "a web to consume waze api to improve another apps",
         "level": "intermediate",
         "tags": "Api-GPS"
+    },
+    {
+        "title": "Environmental Impact Tracker",
+        "description": "A web app that allows users to calculate and track their carbon footprint and environmental impact by entering the amount of electricity, gas, etc. they consume for a customizable time period. Provide suggestions for reducing their ecological footprint and maybe also a certificate if the CO2 emmisions are below a certain level.",
+        "level": "intermediate",
+        "tags": "enironment-impact-tracker"
     }
 ]
