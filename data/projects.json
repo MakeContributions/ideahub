@@ -1,5 +1,15 @@
 [
     {
+        "name": "All-Purpose-Discord-Client",
+        "display": "All Purpose Discord Client",
+        "description": "A versatile Discord.py client that uses numerous API, to integrate with Hypixel Minecraft guilds and player statistics. Is also an all purpose bot that combines dozens of features from robost moderation tools, to an economy system and everything in between.",
+        "author": "KevinTrinh1227",
+        "category": "script",
+        "level": "intermediate",
+        "site": "https://github.com/KevinTrinh1227/Hycord-Bot",
+        "tags": "python, hypixel, api, minecraft, playerDB, client"
+    },
+    {
         "name": "File-protection-system",
         "display": "File Protection System",
         "description": "This is a small File Protection System Made using only Java.",
