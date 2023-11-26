@@ -388,5 +388,15 @@
         "level": "intermediate",
         "site": "https://github.com/lmponcio/copia-backups",
         "tags": "python, copia-backups, scripting"
+    },
+    {
+        "name": "Sign-Language-Recognition",
+        "display": "Sign-Language-Recognition",
+        "description": "A Python Model to detect signs in real-time using a webcam",
+        "author": "ankitranjanl",
+        "category": "app",
+        "level": "intermediate",
+        "site": "https://github.com/ankitranjanl/Sign-Language-Recognition",
+        "tags": "python, image-processing, OpenCV"
     }
 ]
