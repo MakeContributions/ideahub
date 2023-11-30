@@ -12,7 +12,10 @@ A collection of ideas and projects that contain from beginner to advance :octoca
 ## Categories ✨
 <!--categories:start-->
 - Website
+    - [Basic](./docs/WEBSITE_BASIC.md)
     - [Intermediate](./docs/WEBSITE_INTERMEDIATE.md)
+    - [Advanced](./docs/WEBSITE_ADVANCED.md)
+
 - Desktop Application
     - [Basic](./docs/DESKTOP_APPLICATION_BASIC.md)
     - [Intermediate](./docs/DESKTOP_APPLICATION_INTERMEDIATE.md)
@@ -22,10 +25,7 @@ A collection of ideas and projects that contain from beginner to advance :octoca
     - [Basic](./docs/MACHINE_LEARNING_BASIC.md)
 - Script
     - [Intermediate](./docs/SCRIPT_INTERMEDIATE.md)
-- Website
-    - [Basic](./docs/WEBSITE_BASIC.md)
-    - [Intermediate](./docs/WEBSITE_INTERMEDIATE.md)
-    - [Advanced](./docs/WEBSITE_ADVANCED.md)
+
 
 <!--categories:end-->
 
