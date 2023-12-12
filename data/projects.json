@@ -89,7 +89,7 @@
         "site": "",
         "tags": "tic-tac-toe, c, game, c++"
     },
-     {
+    {
         "name": "CodersArena",
         "display": "Coders Arena",
         "description": "A (web application) platform to have a coding combat with your friend (30 minutes) with random question from our library and also a platform to create test (MCQ and time based) and also to attend MCQ test.",
@@ -138,8 +138,8 @@
         "level": "intermediate",
         "site": "https://travelyaari.herokuapp.com/",
         "tags": "react-js, node-js, mongo-db, personal-website,web"
-     },
-     {
+    },
+    {
         "name": "Queue-Visualizer",
         "display": "Queue Visualizer",
         "description": "Queue Visualizer helps you to understand how queue work.",
@@ -278,7 +278,7 @@
         "level": "intermediate",
         "site": "https://github.com/deesclouds/true-crime-api",
         "tags": "api, true-crime, web application, fullstack, full-stack, fiction, tv, show, only, murders, in, building, database, mongodb, node.js, javascript, react, html, css, netlify, markdown, scraping, express, cors"
-    },   
+    },
     {
         "name": "FNDetectoApp",
         "display": "Fake news detection",
@@ -388,5 +388,15 @@
         "level": "intermediate",
         "site": "https://github.com/lmponcio/copia-backups",
         "tags": "python, copia-backups, scripting"
+    },
+    {
+        "name": "Ascii-Adventure",
+        "display": "Ascii Adventure",
+        "description": "A platform game powered in cpp by ncurses library",
+        "author": "ErikDervishi03",
+        "category": "game",
+        "level": "basic",
+        "site": "https://github.com/ErikDervishi03/Ascii-Adventure",
+        "tags": "cpp, game, ncurses"
     }
 ]
