@@ -234,6 +234,12 @@
         "tags": "number-guessing"
     },
     {
+        "title": "Player Stat Tracker",
+        "description": "Create an application that list players on a team and their stats",
+        "level": "intermediate",
+        "tags": "sports-team, sport-stats"
+    },
+    {
         "title": "Major Days in History",
         "description": "A web application comprising major days in history including births, deaths, inventions, wars, etc. User can search for days, events or persons using an API.",
         "level": "intermediate",
