@@ -113,7 +113,7 @@
         "level": "intermediate",
         "tags": "an-efficient-target-tracking-approach, machine-learning"
     },
-     {
+    {
         "title": "Student Attendance Management System",
         "description": "Daily attendance tracking of students",
         "level": "intermediate",
@@ -124,7 +124,7 @@
         "description": "You can send people messages which they receive live.",
         "level": "intermediate",
         "tags": "slack-clone, live-chat-app, web-app"
-    }, 
+    },
     {
         "title": "Telegram Bot ",
         "description": "Making a telegram bot helps to increase api management skills",
@@ -149,7 +149,7 @@
         "level": "basic",
         "tags": "quote-generator, web-app, fun"
     },
-     {
+    {
         "title": "Learn Bafang Application",
         "description": "A web app which will permit people from the Bafang tribe to learn the dialect fluently.",
         "level": "basic",
@@ -172,11 +172,11 @@
         "description": "A web app where you specify the country or city and it gives you the current time.",
         "level": "basic",
         "tags": "clock, date, time"
-    }, 
+    },
     {
         "title": "RGB Slider",
         "description": "A color-generating web app which contains three sliders for Red, Blue and Green colors respectively. On moving the sliders, the background color of the screen will change dynamically according to the RGB values.",
-        "level":"basic",
+        "level": "basic",
         "tags": "rgb-slider, slider, color-generator, dynamic-colors"
     },
     {
@@ -262,5 +262,11 @@
         "description": "a web to consume waze api to improve another apps",
         "level": "intermediate",
         "tags": "Api-GPS"
+    },
+    {
+        "title": "Ai Summarizer",
+        "description": "a web app that sumarrizes text input using open api integration",
+        "level": "intermediate",
+        "tags": "ai-summarizer"
     }
 ]
