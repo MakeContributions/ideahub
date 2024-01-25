@@ -263,4 +263,11 @@
         "level": "intermediate",
         "tags": "Api-GPS"
     }
+    {
+        "title": "Stockify",
+        "description": "A website which tell how a stock may go up or down based on data gathered from all around the world, not just that but it can also help in trading/buying stocks by giving you recommendations",
+        "level": "advanced",
+        "tags": "Stockify"
+    }
+    
 ]
