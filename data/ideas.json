@@ -262,5 +262,12 @@
         "description": "a web to consume waze api to improve another apps",
         "level": "intermediate",
         "tags": "Api-GPS"
+    },
+    {
+        "title": "textutil&&Summarizer",
+        "description": "React app to for text summarization, conversion to uppercase to lowercase and vice versa, copying text to clipboard",
+        "level": "basic",
+        "tags": "summary, react, utility"
     }
+    
 ]
