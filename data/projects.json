@@ -388,5 +388,17 @@
         "level": "intermediate",
         "site": "https://github.com/lmponcio/copia-backups",
         "tags": "python, copia-backups, scripting"
+    },
+    {
+        "name": "Text-Summarizer and Text-Utils",
+        "display": "textutil&&Summarizer",
+        "description": "React app to for text summarization, conversion to uppercase to lowercase and vice versa, copying text to clipboard",
+        "author": "Abhiojiki",
+        "category": "website",
+        "level": "basic",
+        "site": "https://textutils-opal.vercel.app/",
+        "tags": "summary, react, utility"
     }
+    
+
 ]
