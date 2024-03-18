@@ -10,6 +10,16 @@
         "tags": "java, swing, security, file-protection-system"
     },
     {
+        "name": "File Chooser",
+        "display": "File Protection System",
+        "description": "This is a small File wriiten in java help to choose file and view its content if its text file",
+        "author": "mohmmadAyesh",
+        "category": "desktop application",
+        "level": "basic",
+        "site": "https://github.com/mohmmadAyesh/fileChooser",
+        "tags": "java"
+    },
+    {
         "name": "markdown-dungeon",
         "display": "Markdown Dungeon",
         "description": "This is an example that how to use Markdown creating a dungeon",
