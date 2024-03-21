@@ -260,6 +260,16 @@
         "tags": "html, css, javascript, node.js, mongodb"
     },
     {
+        "name": "React_Redux_E-commerce",
+        "display": "React Redux E-commerce",
+        "description": "simple girls e-commerce shop",
+        "author": "nadasuhailAyesh12",
+        "category": "website",
+        "level": "intermediate",
+        "site": "https://girls-shoply.netlify.app/",
+        "tags": "react, javascript, redux"
+    },
+    {
         "name": "Score-Keeper",
         "display": "Score Keeper",
         "description": "Score Keeper is a simple game which I have implemented using HTML, CSS and JavaScript.",
